@@ -64,7 +64,7 @@ const latestPosts = sortedPosts.slice(0, 3);
 				<div class="posts-grid">
 					{latestPosts.map((post) => (
 						<article class="post-card">
-							<a href={`/blog/${post.slug}/`} class="post-link">
+							<a href={`/blog/${post.id}/`} class="post-link">
 								<div class="post-content">
 									<h3>{post.data.title}</h3>
 									<p class="post-description">{post.data.description}</p>
