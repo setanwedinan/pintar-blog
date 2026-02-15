@@ -8,14 +8,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
-	(a, b) => {
-		const dateA = a.data.pubDate.valueOf();
-		const dateB = b.data.pubDate.valueOf();
-		if (dateA !== dateB) {
-			return dateB - dateA; // Newest first
-		}
-		return b.data.title.localeCompare(a.data.title); // Reverse alphabetical secondary
-	}
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---
 
