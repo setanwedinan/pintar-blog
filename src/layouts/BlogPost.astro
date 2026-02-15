@@ -8,7 +8,7 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.props;
 ---
 
 <html lang="en">
@@ -19,38 +19,84 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				width: calc(100% - 2em);
 				max-width: 100%;
 				margin: 0;
+				padding-top: var(--space-8);
 			}
+
 			.hero-image {
 				width: 100%;
+				margin-bottom: var(--space-6);
 			}
+
 			.hero-image img {
 				display: block;
 				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
+				border-radius: var(--space-2);
+				box-shadow: var(--shadow-elevated);
 			}
+
 			.prose {
-				width: 720px;
+				width: var(--content-width);
 				max-width: calc(100% - 2em);
 				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
+				padding: var(--space-2);
+				color: var(--text-primary);
 			}
+
 			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
+				margin-bottom: var(--space-4);
+				padding: var(--space-3) 0;
 				text-align: center;
-				line-height: 1;
+				line-height: var(--lh-tight);
 			}
+
 			.title h1 {
-				margin: 0 0 0.5em 0;
+				margin: 0 0 var(--space-2) 0;
 			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
+
+			.title hr {
+				margin: var(--space-3) auto;
+				width: 60px;
+				background: linear-gradient(90deg, transparent, var(--accent), transparent);
 			}
-			.last-updated-on {
-				font-style: italic;
+
+			.date-meta {
+				margin-bottom: var(--space-3);
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				gap: var(--space-1);
+			}
+
+			/* Section background variation */
+			.prose > section:nth-child(even) {
+				background: var(--bg-secondary);
+				margin: 0 calc(-1 * var(--space-2));
+				padding: var(--space-4) var(--space-2);
+				border-radius: var(--space-2);
+			}
+
+			/* First section shouldn't have background */
+			.prose > section:nth-child(1) {
+				background: transparent;
+			}
+
+			@media (max-width: 720px) {
+				main {
+					padding-top: var(--space-6);
+				}
+
+				.prose {
+					padding: var(--space-2);
+				}
+
+				.prose > section:nth-child(even) {
+					margin: 0 calc(-1 * var(--space-2));
+					padding: var(--space-3) var(--space-2);
+				}
+
+				.hero-image {
+					margin-bottom: var(--space-4);
+				}
 			}
 		</style>
 	</head>
@@ -59,13 +105,18 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<Header />
 		<main>
 			<article>
-				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
-				</div>
+				{heroImage && (
+					<div class="hero-image">
+						<Image width={1020} height={510} src={heroImage} alt="" />
+					</div>
+				)}
+
 				<div class="prose">
 					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
+						<div class="date-meta">
+							<div class="date">
+								<FormattedDate date={pubDate} />
+							</div>
 							{
 								updatedDate && (
 									<div class="last-updated-on">
@@ -73,6 +124,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 									</div>
 								)
 							}
+							{tags && (
+								<div class="tags">
+									{tags.map((tag) => (
+										<span class="tag">{tag}</span>
+									))}
+								</div>
+							)}
 						</div>
 						<h1>{title}</h1>
 						<hr />
@@ -82,5 +140,25 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			</article>
 		</main>
 		<Footer />
+
+		<!-- Reading Progress Bar -->
+		<script>
+			// Create progress bar
+			const progressBar = document.createElement('div');
+			progressBar.className = 'progress-bar';
+			document.body.appendChild(progressBar);
+
+			// Update progress on scroll
+			window.addEventListener('scroll', () => {
+				const scrollTop = window.scrollY;
+				const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+				const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+				progressBar.style.width = progress + '%';
+			});
+
+			// Initial update
+			const initialProgress = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100;
+			progressBar.style.width = initialProgress + '%';
+		</script>
 	</body>
 </html>

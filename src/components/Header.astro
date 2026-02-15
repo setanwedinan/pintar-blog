@@ -21,13 +21,20 @@ import HeaderLink from './HeaderLink.astro';
 		</div>
 	</nav>
 </header>
+
 <style>
 	header {
 		margin: 0;
-		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(102, 126, 234, 0.1);
+		padding: 0 var(--space-2);
+		background: var(--bg-elevated);
+		box-shadow: var(--shadow-subtle);
+		position: sticky;
+		top: 0;
+		z-index: 999;
+		backdrop-filter: blur(10px);
+		transition: background 0.3s ease, box-shadow 0.3s ease;
 	}
+
 	h2 {
 		margin: 0;
 		font-size: 1.2em;
@@ -37,42 +44,68 @@ import HeaderLink from './HeaderLink.astro';
 	h2 a,
 	h2 a.active {
 		text-decoration: none;
-		color: #667eea;
+		color: var(--accent);
 	}
+
 	nav {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
+		gap: var(--space-2);
 	}
+
 	nav a {
-		padding: 1em 0.5em;
-		color: var(--black);
+		padding: var(--space-2) var(--space-1);
+		color: var(--text-primary);
 		border-bottom: 3px solid transparent;
 		text-decoration: none;
+		transition: all 0.3s ease;
 	}
+
 	nav a.active {
 		text-decoration: none;
-		border-bottom-color: #667eea;
+		border-bottom-color: var(--accent);
+		color: var(--accent);
 	}
+
 	nav a:hover {
-		border-bottom-color: #667eea;
+		border-bottom-color: var(--accent);
+		color: var(--accent-hover);
 	}
+
 	.social-links,
 	.social-links a {
 		display: flex;
 		align-items: center;
-		gap: 0.5em;
+		gap: var(--space-2);
 	}
+
 	.social-links svg {
-		color: #666;
-		transition: color 0.2s;
+		color: var(--text-secondary);
+		transition: color 0.2s ease, transform 0.2s ease;
 	}
+
 	.social-links svg:hover {
-		color: #667eea;
+		color: var(--accent);
+		transform: translateY(-2px);
 	}
+
 	@media (max-width: 720px) {
+		header {
+			padding: 0 var(--space-1);
+		}
+
 		.internal-links {
 			display: none;
+		}
+
+		h2 {
+			font-size: 1rem;
+		}
+
+		.social-links svg {
+			width: 20px;
+			height: 20px;
 		}
 	}
 </style>
