@@ -1,7 +1,7 @@
 ---
 title: "Daily Coding Activity - 16 Februari 2026"
 description: "AI Bubble Dashboard bug fix, AC Milan blog post creation, dan pemeliharaan sistem otomatisasi"
-pubDate: 2026-02-16
+pubDate: 2026-02-16T14:00:00Z
 tags: ["Daily Update", "Coding"]
 ---
 

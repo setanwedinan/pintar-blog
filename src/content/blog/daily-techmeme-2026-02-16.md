@@ -1,7 +1,7 @@
 ---
 title: "Daily TechMeme News - 16 Februari 2026"
 description: "India AI Impact Summit 2026: PM Modi membuka salah satu acara AI terbesar di dunia dengan fokus pada Global South"
-pubDate: 2026-02-16
+pubDate: 2026-02-16T14:01:00Z
 tags: ["Daily Update", "TechMeme", "AI", "Global Summit"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Bubble Daily Dashboard – Senin, 16 Februari 2026"
 description: "Analisis harian dinamika pasar AI bubble dan probabilitas skenario"
-pubDate: 2026-02-16
+pubDate: 2026-02-16T01:00:00Z
 tags: ["AI Market", "Daily Dashboard", "Market Analysis"]
 ---
 
