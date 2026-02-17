@@ -9,9 +9,11 @@ tags: ["Daily Report", "USDIDR", "Market Analysis"]
 
 ### 1. Ringkasan Perubahan Hari Ini
 
-Rate USD/IDR hari ini berada pada level **16.812** dengan pergerakan **stabil** (0.00% perubahan dari kemarin). Secara historis, ini adalah data pertama dalam 30 hari terakhir, sehingga semua statistik (tertinggi, terendah, rata-rata) identik di level ini.
+Rate USD/IDR hari ini berada pada level **16.812** dengan pergerakan **stabil** (0.00% perubahan dari kemarin). Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
 
-Kurs USD/IDR menunjukkan stabilitas yang kuat di tengah ketidakpastian pasar global. Namun, ketika melihat konteks makroekonomi yang lebih luas, terdapat beberapa faktor yang patut diperhatikan.
+Dari perspektif rupiah, mata uang Indonesia **bergerak stabil** terhadap dolar AS.
+
+Secara historis, ini adalah data pertama dalam 30 hari terakhir, sehingga semua statistik (tertinggi, terendah, rata-rata) identik di level ini. Kurs USD/IDR menunjukkan stabilitas yang kuat di tengah ketidakpastian pasar global. Namun, ketika melihat konteks makroekonomi yang lebih luas, terdapat beberapa faktor yang patut diperhatikan.
 
 ### 2. Diagnosis Struktur Pasar
 
