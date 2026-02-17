@@ -49,9 +49,9 @@ Rate saat ini **mendekati rata-rata dan tergolong normal**.
 ### 5. Update Probabilitas / Tren Minggu Depan
 
 **Probabilitas Skenario:**
-- **Bull Case (30%):** Geopolitical tension, risk-off → USD/IDR bisa naik ke ${Math.round(result.rate * 1.01)}
-- **Base Case (50%):** Pergerakan sideways di sekitar ${result.rate} ±50 poin
-- **Bear Case (20%):** DXY melemah, data ekonomi positif → USD/IDR bisa turun ke ${Math.round(result.rate * 0.99)}
+- **Bull Case (30%):** Geopolitical tension, risk-off → USD/IDR bisa naik ke 16980
+- **Base Case (50%):** Pergerakan sideways di sekitar 16812 ±50 poin
+- **Bear Case (20%):** DXY melemah, data ekonomi positif → USD/IDR bisa turun ke 16644
 
 **Indikator Kunci untuk Dipantau:**
 - Pergerakan DXY untuk indikasi dolar kuat/lemah
