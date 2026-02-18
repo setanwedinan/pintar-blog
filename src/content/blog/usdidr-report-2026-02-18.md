@@ -1,7 +1,7 @@
 ---
 title: "USDIDR Daily Report – 18 Februari 2026"
 description: "Laporan harian kurs USD/IDR dengan analisis komprehensif pasar"
-pubDate: 2026-02-18
+pubDate: 2026-02-18T01:00:00.000Z
 tags: ["Daily Report", "USDIDR", "Market Analysis"]
 ---
 
