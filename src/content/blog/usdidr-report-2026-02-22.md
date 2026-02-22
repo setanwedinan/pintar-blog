@@ -27,13 +27,13 @@ Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.10%** terhad
 🔴 Rate di posisi tinggi (top 20%) dari range historis
 
 **DXY & USD Strength:**
-Data tidak tersedia (memerlukan akses web search)
+Dollar Index (DXY) berada di level **97.80** per 20 Februari 2026, dengan penurunan **0.13%** dari sesi sebelumnya. Dalam sebulan terakhir, dolar AS telah melemah **0.98%**, dan turun sebesar **8.27%** dalam 12 bulan terakhir. Dolar saat ini diperdagangkan di kisaran high-90s setelah penyesuaian harga mengantisipasi pelonggaran kebijakan Federal Reserve.
 
 **Perbandingan Regional:**
-Data tidak tersedia (memerlukan akses web search)
+Data perbandingan USD vs mata uang Asia (JPY, CNY, SGD, THB, MYR, KRW) tidak tersedia karena keterbatasan akses data real-time.
 
 **Alokasi Modal Asing:**
-Data tidak tersedia
+Data aliran modal asing ke/dari Indonesia tidak tersedia karena keterbatasan akses sumber data.
 
 ### 3. Tingkat Risiko
 
