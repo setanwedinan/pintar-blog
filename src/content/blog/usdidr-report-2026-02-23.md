@@ -26,13 +26,17 @@ Dari perspektif rupiah, mata uang Indonesia **menguat** sebesar **0.10%** terhad
 ✅ Rate mendekati rata-rata - Normal
 
 **DXY & USD Strength:**
-Data tidak tersedia (memerlukan akses web search)
+
+- DXY saat ini: 97.68 (-0.08% hari ini)
+- Tren DXY: Melemah seiring rebalancing pasar global
+- Sentimen USD: Bearish dengan adanya diskusi mengenai refund tarif AS yang berpotensi sebesar $175 miliar
+- Analisis: Posisi DXY yang melemah konsisten dengan penguatan rupiah hari ini
 
 **Perbandingan Regional:**
-Data tidak tersedia (memerlukan akses web search)
+Data tidak tersedia (limitasi API)
 
 **Alokasi Modal Asing:**
-Data tidak tersedia
+Data tidak tersedia (limitasi API)
 
 ### 3. Tingkat Risiko
 
