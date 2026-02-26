@@ -15,7 +15,7 @@ Dari perspektif rupiah, mata uang Indonesia **menguat** sebesar **0.21%** terhad
 
 ### 2. Diagnosis Struktur Pasar
 
-**Data Dasar USD/IDR:**
+**Data Dasar USD/IDR:** (Source: BCA e-Rate)
 
 - Buy/Sell BCA: 16752 / 16812
 - Mid-Rate: 16782
@@ -27,13 +27,17 @@ Dari perspektif rupiah, mata uang Indonesia **menguat** sebesar **0.21%** terhad
 🟢 Rate di posisi rendah (bottom 20%) dari range historis
 
 **DXY & USD Strength:**
-Data tidak tersedia (memerlukan akses web search)
+
+- DXY (25 Feb 2026): 97.6583, turun 0.19% dari sesi sebelumnya
+- Performa 1 bulan: USD menguat 0.64%
+- Performa 12 bulan: USD melemah 8.23%
+- Analisis: DXY berada di level moderat dengan tren melemah jangka panjang, mendukung penguatan mata uang emerging markets termasuk rupiah
 
 **Perbandingan Regional:**
-Data tidak tersedia (memerlukan akses web search)
+Data tidak tersedia (rate limit web search - akan diperbarui pada sesi berikutnya)
 
 **Alokasi Modal Asing:**
-Data tidak tersedia
+Data tidak tersedia (rate limit web search - akan diperbarui pada sesi berikutnya)
 
 ### 3. Tingkat Risiko
 
