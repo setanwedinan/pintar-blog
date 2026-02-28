@@ -27,7 +27,7 @@ Dari perspektif rupiah, mata uang Indonesia bergerak stabil terhadap dolar AS.
 🟢 Rate di posisi rendah (bottom 20%) dari range historis
 
 **DXY & USD Strength:**
-DXY berada pada level **6380** dengan tren **naik - usd menguat**. DXY berada pada level 6380 dengan tren naik - usd menguat.
+DXY berada pada level **97.608** (per 27 Februari 2026) dengan tren **turun 0.09%** dari sesi sebelumnya. Selama 4 minggu terakhir, DXY turun 1.20%, dan selama 12 bulan terakhir, DXY turun 9.30%, menunjukkan tren pelemahan dolar AS yang signifikan. Trading Economics memproyeksikan DXY berada di level 97.561 pada akhir kuartal ini dan 95.586 dalam satu tahun ke depan.
 
 **Perbandingan Regional**:
 Data tidak tersedia. Data kurs mata uang Asia tidak tersedia dari hasil pencarian.
