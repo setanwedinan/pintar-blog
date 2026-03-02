@@ -9,9 +9,9 @@ tags: ['Daily Report', 'USDIDR', 'Market Analysis']
 
 ### 1. Ringkasan Perubahan Hari Ini
 
-Rate USD/IDR saat ini berada pada level **16805** dengan kenaikan **0.06%** (+10.00 poin) dari hari kemarin. Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
+Rate USD/IDR saat ini berada pada level **16805** dengan kenaikan **0.00%** (+0.00 poin) dari hari kemarin. Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
 
-Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.06%** terhadap dolar AS.
+Dari perspektif rupiah, mata uang Indonesia bergerak stabil terhadap dolar AS.
 
 ### 2. Diagnosis Struktur Pasar
 
@@ -19,7 +19,7 @@ Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.06%** terhad
 
 - Buy/Sell BCA: 16750 / 16860
 - Mid-Rate: 16805
-- Perubahan: +10.00 (0.06%)
+- Perubahan: +0.00 (0.00%)
 
 **Pergerakan Mingguan:**
 ➡️ Trend mingguan: Stabil - Pergerakan sideways
@@ -45,7 +45,7 @@ Pergerakan kurs masih dalam range normal dengan volatilitas terkontrol.
 
 - Tertinggi: 16.889
 - Terendah: 16.747
-- Rata-rata: 16.819
+- Rata-rata: 16.820
 - Posisi saat ini: Mid-range
 
 Rate saat ini **mendekati rata-rata dan tergolong normal**.
