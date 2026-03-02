@@ -26,14 +26,15 @@ Dari perspektif rupiah, mata uang Indonesia bergerak stabil terhadap dolar AS.
 ✅ Rate mendekati rata-rata - Normal
 
 **DXY & USD Strength:**
-DXY berada pada level **646** dengan tren **stabil**. DXY berada pada level 646 dengan tren stabil.
+DXY berada pada level **2026** dengan tren **stabil**. DXY berada pada level 2026 dengan tren stabil.
 
 **Perbandingan Regional**:
 
-- USD/JPY: 156.04
-- USD/MYR: 4.06
+- USD/JPY: 155.95
+- USD/THB: 31.08
+- USD/MYR: 3.99
 
-Data 2 mata uang Asia berhasil diambil dari hasil pencarian.
+Data 3 mata uang Asia berhasil diambil dari hasil pencarian.
 
 **Alokasi Modal Asing**:
 Data tidak tersedia. Inflow: N/A, Outflow: N/A.
