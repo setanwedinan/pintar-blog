@@ -9,17 +9,17 @@ tags: ['Daily Report', 'USDIDR', 'Market Analysis']
 
 ### 1. Ringkasan Perubahan Hari Ini
 
-Rate USD/IDR saat ini berada pada level **16805** dengan kenaikan **0.00%** (+0.00 poin) dari hari kemarin. Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
+Rate USD/IDR saat ini berada pada level **16822** dengan kenaikan **0.10%** (+17.00 poin) dari hari kemarin. Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
 
-Dari perspektif rupiah, mata uang Indonesia bergerak stabil terhadap dolar AS.
+Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.10%** terhadap dolar AS.
 
 ### 2. Diagnosis Struktur Pasar
 
 **Data Dasar USD/IDR:**
 
-- Buy/Sell BCA: 16750 / 16860
-- Mid-Rate: 16805
-- Perubahan: +0.00 (0.00%)
+- Buy/Sell BCA: 16802 / 16842
+- Mid-Rate: 16822
+- Perubahan: +17.00 (0.10%)
 
 **Pergerakan Mingguan:**
 ➡️ Trend mingguan: Stabil - Pergerakan sideways
@@ -30,13 +30,14 @@ DXY berada pada level **646** dengan tren **stabil**. DXY berada pada level 646 
 
 **Perbandingan Regional**:
 
-- USD/CNY: 6.86
+- USD/JPY: 156.00
+- USD/CNY: 6.94
 - USD/SGD: 1.27
 - USD/THB: 31.10
 - USD/MYR: 3.89
 - USD/KRW: 1439.00
 
-Data 5 mata uang Asia berhasil diambil dari hasil pencarian.
+Data 6 mata uang Asia berhasil diambil dari hasil pencarian.
 
 **Alokasi Modal Asing**:
 Data tidak tersedia. Inflow: N/A, Outflow: N/A.
@@ -52,7 +53,7 @@ Pergerakan kurs masih dalam range normal dengan volatilitas terkontrol.
 
 - Tertinggi: 16.889
 - Terendah: 16.747
-- Rata-rata: 16.820
+- Rata-rata: 16.821
 - Posisi saat ini: Mid-range
 
 Rate saat ini **mendekati rata-rata dan tergolong normal**.
@@ -61,9 +62,9 @@ Rate saat ini **mendekati rata-rata dan tergolong normal**.
 
 **Probabilitas Skenario:**
 
-- **Bull Case (30%):** Geopolitical tension, risk-off → USD/IDR bisa naik ke 16973
-- **Base Case (50%):** Pergerakan sideways di sekitar 16805 ±50 poin
-- **Bear Case (20%):** DXY melemah, data ekonomi positif → USD/IDR bisa turun ke 16637
+- **Bull Case (30%):** Geopolitical tension, risk-off → USD/IDR bisa naik ke 16990
+- **Base Case (50%):** Pergerakan sideways di sekitar 16822 ±50 poin
+- **Bear Case (20%):** DXY melemah, data ekonomi positif → USD/IDR bisa turun ke 16654
 
 **Indikator Kunci untuk Dipantau:**
 
