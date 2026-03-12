@@ -35,8 +35,9 @@ DXY berada pada level **2026** dengan tren **stabil**. DXY berada pada level 202
 - USD/SGD: 1.27
 - USD/THB: 31.54
 - USD/MYR: 3.92
+- USD/KRW: 1,472.00
 
-Data 5 mata uang Asia berhasil diambil dari hasil pencarian.
+Data 6 mata uang Asia berhasil diambil dari hasil pencarian.
 
 **Alokasi Modal Asing**:
 Data tidak tersedia. Inflow: N/A, Outflow: N/A.
