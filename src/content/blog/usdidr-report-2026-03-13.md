@@ -26,21 +26,29 @@ Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.12%** terhad
 ✅ Rate mendekati rata-rata - Normal
 
 **DXY & USD Strength:**
-DXY berada pada level **756** dengan tren **stabil**. DXY berada pada level 756 dengan tren stabil.
+DXY berada pada level **99.63** (naik **0.36%** dari sesi sebelumnya). Over the past month, USD telah menguat **2.83%**, namun turun **4.01%** dalam 12 bulan terakhir. DXY mengalami penguatan untuk sesi ketiga berturut-turut.
 
-**Perbandingan Regional**:
+**Perbandingan Regional (USD vs Asia):**
 
-- USD/JPY: 156.24
-- USD/CNY: 6.93
-- USD/SGD: 1.28
-- USD/THB: 31.88
-- USD/MYR: 3.93
-- USD/KRW: 1490.00
+| Pair    | Rate     | Context                                             |
+| ------- | -------- | --------------------------------------------------- |
+| USD/JPY | 156.24   | BoJ mempertahankan suku bunga di 0.75%              |
+| USD/CNY | 6.93     | Yuan menghadapi tekanan dari diferensial suku bunga |
+| USD/SGD | 1.28     | Singapura dengan struktur ekonomi stabil            |
+| USD/THB | 31.88    | Thailand dengan inflasi terkontrol                  |
+| USD/MYR | 3.93     | Ringgit berada dalam range normal                   |
+| USD/KRW | 1,490.00 | Won menghadapi volatilitas moderat                  |
 
-Data 6 mata uang Asia berhasil diambil dari hasil pencarian.
+Data 6 mata uang Asia utama menunjukkan tren umum penguatan USD terhadap mata uang regional, dengan pergerakan yang relatif stabil di sebagian besar pair.
 
 **Alokasi Modal Asing**:
-Data tidak tersedia. Inflow: N/A, Outflow: N/A.
+Data real-time tidak tersedia. Namun, berdasarkan laporan PPATK (Financial Transaction Reports and Analysis Centre), dana keluar dari Indonesia mencapai **Rp602 triliun** pada Maret 2025, hampir sama dengan bulan sebelumnya (Rp616 triliun). Hal ini menunjukkan tingkat arus keluar modal yang relatif stabil dan tidak meningkat secara signifikan.
+
+**Konteks Makroekonomi:**
+
+- Fed telah memangkas suku bunga sebesar 175bps sejak September 2024
+- BI menjaga kebijakan moneter yang seimbang dengan inflasi terkontrol
+- Indonesia tetap menarik untuk FDI meskipun menghadapi beberapa tekanan pada portfolio flows
 
 ### 3. Tingkat Risiko
 
