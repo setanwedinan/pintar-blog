@@ -9,32 +9,33 @@ tags: ['Daily Report', 'USDIDR', 'Market Analysis']
 
 ### 1. Ringkasan Perubahan Hari Ini
 
-Rate USD/IDR saat ini berada pada level **16900** dengan penurunan **0.29%** (-50.00 poin) dari hari kemarin. Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
+Rate USD/IDR saat ini berada pada level **16950** dengan kenaikan **0.30%** (+50.00 poin) dari hari kemarin. Pergerakan hari ini menunjukkan **stabil - pergerakan sideways**.
 
-Dari perspektif rupiah, mata uang Indonesia **menguat** sebesar **0.29%** terhadap dolar AS.
+Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.30%** terhadap dolar AS.
 
 ### 2. Diagnosis Struktur Pasar
 
 **Data Dasar USD/IDR:**
 
-- Buy/Sell BCA: 16816 / 16985
-- Mid-Rate: 16900
-- Perubahan: -50.00 (-0.29%)
+- Buy/Sell BCA: 16900 / 17000
+- Mid-Rate: 16950
+- Perubahan: +50.00 (0.30%)
 
 **Pergerakan Mingguan:**
 ➡️ Trend mingguan: Stabil - Pergerakan sideways
 ✅ Rate mendekati rata-rata - Normal
+🔴 Rate di posisi tinggi (top 20%) dari range historis
 
 **DXY & USD Strength:**
-DXY berada pada level **2026** dengan tren **stabil**. DXY berada pada level 2026 dengan tren stabil.
+DXY berada pada level **100.419** dengan tren **stabil**. DXY berada pada level 100.419 dengan tren stabil.
 
 **Perbandingan Regional**:
 
-- USD/JPY: 159.73
-- USD/CNY: 6.90
+- USD/JPY: 159.72
+- USD/CNY: 6.93
 - USD/SGD: 1.28
-- USD/THB: 32.42
-- USD/MYR: 3.97
+- USD/THB: 31.33
+- USD/MYR: 3.94
 - USD/KRW: 1502.00
 
 Data 6 mata uang Asia berhasil diambil dari hasil pencarian.
@@ -44,8 +45,8 @@ Data tidak tersedia. Inflow: N/A, Outflow: N/A.
 
 ### 3. Tingkat Risiko
 
-**Risk Level:** Sedang (Moderate)
-Pergerakan kurs masih dalam range normal dengan volatilitas terkontrol.
+**Risk Level:** Tinggi (High)
+Rate berada di level tinggi historis, berpotensi koreksi turun. Waspada jika DXY melemah signifikan.
 
 ### 4. Analisa Valuasi
 
@@ -53,8 +54,8 @@ Pergerakan kurs masih dalam range normal dengan volatilitas terkontrol.
 
 - Tertinggi: 16.950
 - Terendah: 16.747
-- Rata-rata: 16.860
-- Posisi saat ini: Mid-range
+- Rata-rata: 16.864
+- Posisi saat ini: Top 20% (tinggi)
 
 Rate saat ini **mendekati rata-rata dan tergolong normal**.
 
@@ -62,9 +63,9 @@ Rate saat ini **mendekati rata-rata dan tergolong normal**.
 
 **Probabilitas Skenario:**
 
-- **Bull Case (30%):** Geopolitical tension, risk-off → USD/IDR bisa naik ke 17069
-- **Base Case (50%):** Pergerakan sideways di sekitar 16900 ±50 poin
-- **Bear Case (20%):** DXY melemah, data ekonomi positif → USD/IDR bisa turun ke 16731
+- **Bull Case (30%):** Geopolitical tension, risk-off → USD/IDR bisa naik ke 17120
+- **Base Case (50%):** Pergerakan sideways di sekitar 16950 ±50 poin
+- **Bear Case (20%):** DXY melemah, data ekonomi positif → USD/IDR bisa turun ke 16781
 
 **Indikator Kunci untuk Dipantau:**
 
