@@ -27,15 +27,15 @@ Dari perspektif rupiah, mata uang Indonesia **melemah** sebesar **0.30%** terhad
 🔴 Rate di posisi tinggi (top 20%) dari range historis
 
 **DXY & USD Strength:**
-DXY berada pada level **100.419** dengan tren **stabil**. DXY berada pada level 100.419 dengan tren stabil.
+DXY berada pada level **100.4976** dengan tren **naik - usd menguat**. DXY berada pada level 100.4976 dengan tren naik - usd menguat.
 
 **Perbandingan Regional**:
 
-- USD/JPY: 159.72
-- USD/CNY: 6.93
+- USD/JPY: 159.73
+- USD/CNY: 6.90
 - USD/SGD: 1.28
 - USD/THB: 31.33
-- USD/MYR: 3.94
+- USD/MYR: 3.97
 - USD/KRW: 1502.00
 
 Data 6 mata uang Asia berhasil diambil dari hasil pencarian.
