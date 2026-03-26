@@ -1,6 +1,9 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
+import { getCollection, render } from 'astro:content';
+
+const radarContent = (await getCollection('blog')).find(item => item.id === 'premarket-radar');
 
 const title = 'Pre-Market Radar · USD/IDR';
 const description = 'Daily FX intelligence dashboard for USD/IDR currency pair';
@@ -10,25 +13,32 @@ const description = 'Daily FX intelligence dashboard for USD/IDR currency pair';
 <html lang="id">
 	<head>
 		<BaseHead title={title} description={description} />
-		<style>
+		<style is:global>
 			main {
 				width: 100%;
-				max-width: 100%;
-				padding: 0;
-				margin: 0;
+				max-width: 1200px;
+				margin: 0 auto;
+				padding: 20px;
 			}
-			iframe {
-				width: 100%;
-				height: calc(100vh - 60px);
-				border: none;
-				display: block;
+			article {
+				max-width: 740px;
+				margin: 0 auto;
 			}
 		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<iframe src="/premarket-radar.html"></iframe>
+			<article>
+				<h1>{title}</h1>
+				<p>{description}</p>
+				<hr />
+				{radarContent ? (
+					await render(radarContent)
+				) : (
+					<p>Dashboard sedang dimuat...</p>
+				)}
+			</article>
 		</main>
 	</body>
 </html>
