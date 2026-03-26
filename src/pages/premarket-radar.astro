@@ -1,36 +1,676 @@
 ---
-import { getCollection, render } from 'astro:content'
-import BaseHead from '../components/BaseHead.astro'
-import Footer from '../components/Footer.astro'
-import Header from '../components/Header.astro'
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
 
-const title = 'Pre-Market Radar \u00B7 USD/IDR'
-const description = 'Daily FX intelligence dashboard for USD/IDR currency pair'
+type DataQuality = 'complete' | 'partial' | 'external';
+type RadarSource =
+  | 'latest-report'
+  | 'previous-report'
+  | 'premarket-md'
+  | 'premarket-html'
+  | 'external-api'
+  | 'unavailable';
 
-const allPosts = await getCollection('blog')
-const radarEntry = allPosts
-  .filter(p => p.id.startsWith('usdidr-report-'))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())[0]
+interface RadarMetrics {
+  midRate: number | null;
+  buyRate: number | null;
+  sellRate: number | null;
+  changeValue: number | null;
+  changePercent: number | null;
+  riskLevel: string | null;
+  bullCase: string | null;
+  baseCase: string | null;
+  bearCase: string | null;
+  supportLevel: number | null;
+  resistanceLevel: number | null;
+  asOf: string | null;
+  source: RadarSource;
+  sourceLabel: string;
+  dataQuality: DataQuality;
+  notes: string[];
+}
 
-const { Content } = radarEntry ? await render(radarEntry) : { Content: null }
+const title = 'Pre-Market Radar \u00B7 USD/IDR';
+const description = 'Daily FX intelligence dashboard for USD/IDR currency pair';
+
+const allPosts = await getCollection('blog');
+const reports = allPosts
+  .filter((post) => post.id.startsWith('usdidr-report-'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const latestReport = reports[0] ?? null;
+const recentReports = reports.slice(0, 7);
+const renderedLatest = latestReport ? await render(latestReport) : null;
+const Content = renderedLatest?.Content ?? null;
+
+const metrics = await resolveRadarData(reports);
+const reportDateLabel = latestReport
+  ? latestReport.data.pubDate.toLocaleDateString('id-ID', {
+      day: '2-digit',
+      month: 'long',
+      year: 'numeric',
+    })
+  : '-';
+
+function emptyMetrics(source: RadarSource, sourceLabel: string): RadarMetrics {
+  return {
+    midRate: null,
+    buyRate: null,
+    sellRate: null,
+    changeValue: null,
+    changePercent: null,
+    riskLevel: null,
+    bullCase: null,
+    baseCase: null,
+    bearCase: null,
+    supportLevel: null,
+    resistanceLevel: null,
+    asOf: null,
+    source,
+    sourceLabel,
+    dataQuality: 'partial',
+    notes: [],
+  };
+}
+
+function cleanText(value: string | null | undefined): string | null {
+  if (!value) return null;
+  return value
+    .replace(/\*\*/g, '')
+    .replace(/\r/g, '')
+    .replace(/\s+/g, ' ')
+    .replace(/[\uFFFD]/g, '')
+    .trim();
+}
+
+function parseRateNumber(value: string | null | undefined): number | null {
+  if (!value) return null;
+  const normalized = value.replace(/[^0-9,.-]/g, '');
+  if (!normalized) return null;
+
+  if (normalized.includes(',') && normalized.includes('.')) {
+    const digitsOnly = normalized.replace(/[.,]/g, '');
+    const result = Number(digitsOnly);
+    return Number.isFinite(result) ? result : null;
+  }
+
+  if (normalized.includes(',')) {
+    const parts = normalized.split(',');
+    if (parts.length > 1 && parts[parts.length - 1]?.length === 3) {
+      const result = Number(parts.join(''));
+      return Number.isFinite(result) ? result : null;
+    }
+    const result = Number(normalized.replace(',', '.'));
+    return Number.isFinite(result) ? result : null;
+  }
+
+  if (normalized.includes('.')) {
+    const parts = normalized.split('.');
+    if (parts.length > 1 && parts[parts.length - 1]?.length === 3) {
+      const result = Number(parts.join(''));
+      return Number.isFinite(result) ? result : null;
+    }
+    const result = Number(normalized);
+    return Number.isFinite(result) ? result : null;
+  }
+
+  const result = Number(normalized);
+  return Number.isFinite(result) ? result : null;
+}
+
+function parsePercentNumber(value: string | null | undefined): number | null {
+  if (!value) return null;
+  const normalized = value.replace(/[^0-9,.-]/g, '').replace(',', '.');
+  const result = Number(normalized);
+  return Number.isFinite(result) ? result : null;
+}
+
+function extractScenario(text: string, label: 'Bull' | 'Base' | 'Bear'): string | null {
+  const regex = new RegExp(`${label} Case[^\\n:]*:\\s*(.+)`, 'i');
+  const match = text.match(regex);
+  return cleanText(match?.[1]);
+}
+
+function extractFromText(text: string, source: RadarSource, sourceLabel: string): RadarMetrics {
+  const result = emptyMetrics(source, sourceLabel);
+
+  const midRateMatch = text.match(/Mid-Rate:\s*\**\s*Rp?\s*([0-9][0-9.,]*)/i);
+  result.midRate = parseRateNumber(midRateMatch?.[1]);
+
+  const buySellMatch =
+    text.match(/Buy\/Sell(?:\s*BCA(?:\s*e-Rate)?)?:\s*Rp?\s*([0-9][0-9.,]*)\s*\/\s*Rp?\s*([0-9][0-9.,]*)/i) ||
+    text.match(/Buy\/Sell:\s*Rp?\s*([0-9][0-9.,]*)\s*\/\s*Rp?\s*([0-9][0-9.,]*)/i);
+
+  result.buyRate = parseRateNumber(buySellMatch?.[1]);
+  result.sellRate = parseRateNumber(buySellMatch?.[2]);
+
+  const changeMatch = text.match(/Perubahan:\s*([+-]?[0-9][0-9.,]*)\s*\(([-+]?[0-9][0-9.,]*)%?\)/i);
+  result.changeValue = parseRateNumber(changeMatch?.[1]);
+  result.changePercent = parsePercentNumber(changeMatch?.[2]);
+
+  const riskMatch = text.match(/Risk Level:\s*([^\n]+)/i);
+  result.riskLevel = cleanText(riskMatch?.[1]);
+
+  result.bullCase = extractScenario(text, 'Bull');
+  result.baseCase = extractScenario(text, 'Base');
+  result.bearCase = extractScenario(text, 'Bear');
+
+  const supportMatch = text.match(/Support(?:\s+di|\s*:)?[^0-9\n]*([0-9][0-9.,]*)/i);
+  const resistanceMatch = text.match(/Resistance(?:\s+di|\s*:)?[^0-9\n]*([0-9][0-9.,]*)/i);
+  result.supportLevel = parseRateNumber(supportMatch?.[1]);
+  result.resistanceLevel = parseRateNumber(resistanceMatch?.[1]);
+
+  const asOfMatch = text.match(/(?:Last updated|Update Time|Last Verified):\s*([^\n]+)/i);
+  result.asOf = cleanText(asOfMatch?.[1]);
+
+  return result;
+}
+
+function extractFromMarkdown(text: string, source: RadarSource, sourceLabel: string): RadarMetrics {
+  return extractFromText(text, source, sourceLabel);
+}
+
+function countCoreFields(metricsValue: RadarMetrics): number {
+  const scenarioCount = [metricsValue.bullCase, metricsValue.baseCase, metricsValue.bearCase].filter(Boolean).length;
+  let score = 0;
+  if (metricsValue.midRate !== null) score += 1;
+  if (metricsValue.changePercent !== null) score += 1;
+  if (metricsValue.riskLevel) score += 1;
+  if (scenarioCount >= 2) score += 1;
+  return score;
+}
+
+function hasAnyValue(metricsValue: RadarMetrics): boolean {
+  return (
+    metricsValue.midRate !== null ||
+    metricsValue.buyRate !== null ||
+    metricsValue.sellRate !== null ||
+    metricsValue.changePercent !== null ||
+    !!metricsValue.riskLevel ||
+    !!metricsValue.bullCase ||
+    !!metricsValue.baseCase ||
+    !!metricsValue.bearCase
+  );
+}
+
+function deriveQuality(metricsValue: RadarMetrics): DataQuality {
+  if (metricsValue.source === 'external-api') return 'external';
+  return countCoreFields(metricsValue) >= 4 ? 'complete' : 'partial';
+}
+
+function formatAsOfFromDate(value: Date): string {
+  return value.toLocaleString('id-ID', {
+    day: '2-digit',
+    month: 'long',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+  });
+}
+
+async function extractFromPremarketMd(repoRoot: string): Promise<RadarMetrics | null> {
+  try {
+    const filePath = path.join(repoRoot, 'src', 'content', 'premarket-radar.md');
+    const content = await readFile(filePath, 'utf-8');
+    return extractFromText(content, 'premarket-md', 'Premarket snapshot (Markdown)');
+  } catch {
+    return null;
+  }
+}
+
+async function extractFromPremarketHtml(repoRoot: string): Promise<RadarMetrics | null> {
+  try {
+    const filePath = path.join(repoRoot, 'public', 'premarket-radar.html');
+    const html = await readFile(filePath, 'utf-8');
+    const text = html.replace(/<script[\s\S]*?<\/script>/gi, ' ').replace(/<style[\s\S]*?<\/style>/gi, ' ').replace(/<[^>]+>/g, ' ');
+    return extractFromText(text, 'premarket-html', 'Premarket snapshot (HTML)');
+  } catch {
+    return null;
+  }
+}
+
+async function fetchExternalRate(): Promise<RadarMetrics | null> {
+  const fromFrankfurter = async (): Promise<RadarMetrics | null> => {
+    const response = await fetch('https://api.frankfurter.app/latest?from=USD&to=IDR');
+    if (!response.ok) return null;
+    const data = await response.json();
+    const rate = Number(data?.rates?.IDR);
+    if (!Number.isFinite(rate)) return null;
+
+    const result = emptyMetrics('external-api', 'External API (Frankfurter)');
+    result.midRate = rate;
+    result.asOf = typeof data?.date === 'string' ? data.date : null;
+    result.notes.push('Fallback API dipakai karena data lokal tidak lengkap.');
+    return result;
+  };
+
+  const fromExchangeRateApi = async (): Promise<RadarMetrics | null> => {
+    const response = await fetch('https://open.er-api.com/v6/latest/USD');
+    if (!response.ok) return null;
+    const data = await response.json();
+    const rate = Number(data?.rates?.IDR);
+    if (!Number.isFinite(rate)) return null;
+
+    const result = emptyMetrics('external-api', 'External API (ExchangeRate-API)');
+    result.midRate = rate;
+    result.asOf = typeof data?.time_last_update_utc === 'string' ? data.time_last_update_utc : null;
+    result.notes.push('Fallback API dipakai karena data lokal tidak lengkap.');
+    return result;
+  };
+
+  try {
+    const primary = await fromFrankfurter();
+    if (primary) return primary;
+  } catch {
+    // noop
+  }
+
+  try {
+    return await fromExchangeRateApi();
+  } catch {
+    return null;
+  }
+}
+
+async function resolveRadarData(usdidrReports: CollectionEntry<'blog'>[]): Promise<RadarMetrics> {
+  const __dirname = path.dirname(fileURLToPath(import.meta.url));
+  const repoRoot = path.resolve(__dirname, '../..');
+
+  let selected = emptyMetrics('unavailable', 'Tidak tersedia');
+  let selectedScore = 0;
+
+  if (usdidrReports.length > 0) {
+    const latest = usdidrReports[0];
+    const parsedLatest = extractFromMarkdown(latest.body ?? '', 'latest-report', 'Report terbaru');
+    parsedLatest.asOf = parsedLatest.asOf ?? formatAsOfFromDate(latest.data.pubDate);
+
+    selected = parsedLatest;
+    selectedScore = countCoreFields(parsedLatest);
+
+    if (selectedScore < 4) {
+      selected.notes.push('Parser report terbaru belum lengkap, mencoba sumber fallback.');
+    }
+
+    for (const report of usdidrReports.slice(1)) {
+      if (selectedScore >= 4) break;
+      const parsed = extractFromMarkdown(report.body ?? '', 'previous-report', 'Report sebelumnya');
+      parsed.asOf = parsed.asOf ?? formatAsOfFromDate(report.data.pubDate);
+      const score = countCoreFields(parsed);
+      if (score > selectedScore || (!hasAnyValue(selected) && hasAnyValue(parsed))) {
+        selected = parsed;
+        selectedScore = score;
+      }
+    }
+  }
+
+  if (selectedScore < 4) {
+    const fallbackMd = await extractFromPremarketMd(repoRoot);
+    if (fallbackMd) {
+      const score = countCoreFields(fallbackMd);
+      if (score > selectedScore || (!hasAnyValue(selected) && hasAnyValue(fallbackMd))) {
+        selected = fallbackMd;
+        selectedScore = score;
+      }
+    }
+  }
+
+  if (selectedScore < 4) {
+    const fallbackHtml = await extractFromPremarketHtml(repoRoot);
+    if (fallbackHtml) {
+      const score = countCoreFields(fallbackHtml);
+      if (score > selectedScore || (!hasAnyValue(selected) && hasAnyValue(fallbackHtml))) {
+        selected = fallbackHtml;
+        selectedScore = score;
+      }
+    }
+  }
+
+  if (selectedScore < 4) {
+    const external = await fetchExternalRate();
+    if (external) {
+      selected = {
+        ...selected,
+        midRate: selected.midRate ?? external.midRate,
+        asOf: selected.asOf ?? external.asOf,
+        source: 'external-api',
+        sourceLabel: external.sourceLabel,
+        notes: [...selected.notes, ...external.notes],
+      };
+      selectedScore = countCoreFields(selected);
+    }
+  }
+
+  selected.dataQuality = deriveQuality(selected);
+
+  if (!selected.asOf && latestReport) {
+    selected.asOf = formatAsOfFromDate(latestReport.data.pubDate);
+  }
+
+  if (!hasAnyValue(selected)) {
+    selected.source = 'unavailable';
+    selected.sourceLabel = 'Tidak tersedia';
+    selected.dataQuality = 'partial';
+    selected.notes.push('Semua sumber fallback tidak menyediakan metrik yang dapat dipakai.');
+  }
+
+  return selected;
+}
+
+function formatRate(value: number | null): string {
+  if (value === null) return '-';
+  return `Rp ${Math.round(value).toLocaleString('id-ID')}`;
+}
+
+function formatSignedValue(value: number | null): string {
+  if (value === null) return '-';
+  const sign = value > 0 ? '+' : '';
+  return `${sign}${value.toLocaleString('id-ID')}`;
+}
+
+function formatSignedPercent(value: number | null): string {
+  if (value === null) return '-';
+  const sign = value > 0 ? '+' : '';
+  return `${sign}${value.toLocaleString('id-ID', { maximumFractionDigits: 2 })}%`;
+}
+
+function riskClass(value: string | null): string {
+  if (!value) return 'neutral';
+  const normalized = value.toLowerCase();
+  if (normalized.includes('tinggi') || normalized.includes('high')) return 'high';
+  if (normalized.includes('rendah') || normalized.includes('low')) return 'low';
+  return 'medium';
+}
+
+function qualityClass(value: DataQuality): string {
+  if (value === 'complete') return 'complete';
+  if (value === 'external') return 'external';
+  return 'partial';
+}
+
+function qualityLabel(value: DataQuality): string {
+  if (value === 'complete') return 'Data lengkap';
+  if (value === 'external') return 'Data eksternal';
+  return 'Data parsial';
+}
 ---
 
 <!doctype html>
 <html lang="id">
   <head>
     <BaseHead title={title} description={description} />
+    <style>
+      .radar-wrap {
+        display: grid;
+        gap: var(--space-4);
+      }
+
+      .radar-hero {
+        background: var(--bg-elevated);
+        border: 1px solid var(--border-color);
+        border-radius: 14px;
+        padding: var(--space-4);
+        box-shadow: var(--shadow-subtle);
+      }
+
+      .radar-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.6rem;
+        margin-top: var(--space-2);
+      }
+
+      .badge {
+        font-size: 0.75rem;
+        font-weight: 700;
+        border-radius: 999px;
+        padding: 0.25rem 0.7rem;
+        border: 1px solid transparent;
+      }
+
+      .badge.complete {
+        background: rgba(18, 148, 78, 0.12);
+        color: #12944e;
+        border-color: rgba(18, 148, 78, 0.28);
+      }
+
+      .badge.partial {
+        background: rgba(183, 123, 0, 0.12);
+        color: #b77b00;
+        border-color: rgba(183, 123, 0, 0.28);
+      }
+
+      .badge.external {
+        background: rgba(9, 99, 126, 0.14);
+        color: var(--accent);
+        border-color: rgba(9, 99, 126, 0.32);
+      }
+
+      .metrics-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: var(--space-2);
+      }
+
+      .metric-card {
+        background: var(--bg-elevated);
+        border: 1px solid var(--border-color);
+        border-radius: 12px;
+        padding: var(--space-2);
+      }
+
+      .metric-card .label {
+        margin: 0;
+        font-size: var(--font-caption);
+        color: var(--text-secondary);
+        text-transform: uppercase;
+        letter-spacing: var(--ls-caps);
+      }
+
+      .metric-card .value {
+        margin: 0.3rem 0 0;
+        font-size: 1.3rem;
+        font-weight: 700;
+      }
+
+      .risk-pill {
+        display: inline-flex;
+        align-items: center;
+        border-radius: 999px;
+        padding: 0.25rem 0.7rem;
+        font-size: 0.8rem;
+        font-weight: 700;
+      }
+
+      .risk-pill.high {
+        background: rgba(210, 47, 47, 0.14);
+        color: #d22f2f;
+      }
+
+      .risk-pill.medium {
+        background: rgba(183, 123, 0, 0.14);
+        color: #b77b00;
+      }
+
+      .risk-pill.low {
+        background: rgba(18, 148, 78, 0.14);
+        color: #12944e;
+      }
+
+      .risk-pill.neutral {
+        background: var(--accent-light);
+        color: var(--accent);
+      }
+
+      .scenarios-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: var(--space-2);
+      }
+
+      .scenario-card {
+        background: var(--bg-elevated);
+        border: 1px solid var(--border-color);
+        border-radius: 12px;
+        padding: var(--space-2);
+      }
+
+      .scenario-card h3 {
+        margin-top: 0;
+        margin-bottom: 0.4rem;
+        font-size: 1rem;
+      }
+
+      .levels-row {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: var(--space-2);
+      }
+
+      .history {
+        background: var(--bg-elevated);
+        border: 1px solid var(--border-color);
+        border-radius: 12px;
+        padding: var(--space-2);
+      }
+
+      .history ul {
+        margin: 0;
+      }
+
+      .history li {
+        margin-bottom: 0.4rem;
+      }
+
+      .note-list {
+        margin: 0;
+        padding-left: 1.2rem;
+      }
+
+      @media (max-width: 900px) {
+        .metrics-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .scenarios-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 640px) {
+        .metrics-grid,
+        .levels-row {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
   </head>
   <body>
     <Header />
     <main>
-      <h1>{title}</h1>
-      <p>{description}</p>
-      <hr />
-      <div class="prose">
-        {Content ? <Content /> : <p>Tidak ada data radar tersedia.</p>}
-      </div>
+      <section class="radar-wrap">
+        <header class="radar-hero">
+          <h1>{title}</h1>
+          <p>{description}</p>
+          <p>
+            <strong>Laporan terbaru:</strong> {reportDateLabel}<br />
+            <strong>Sumber metrik:</strong> {metrics.sourceLabel}<br />
+            <strong>As of:</strong> {metrics.asOf ?? '-'}
+          </p>
+          <div class="radar-meta">
+            <span class={`badge ${qualityClass(metrics.dataQuality)}`}>{qualityLabel(metrics.dataQuality)}</span>
+          </div>
+        </header>
+
+        <section class="metrics-grid" aria-label="KPI Radar">
+          <article class="metric-card">
+            <p class="label">Mid-Rate</p>
+            <p class="value">{formatRate(metrics.midRate)}</p>
+          </article>
+          <article class="metric-card">
+            <p class="label">Buy / Sell</p>
+            <p class="value">{metrics.buyRate !== null && metrics.sellRate !== null ? `${formatRate(metrics.buyRate)} / ${formatRate(metrics.sellRate)}` : '-'}</p>
+          </article>
+          <article class="metric-card">
+            <p class="label">Perubahan</p>
+            <p class="value">{formatSignedValue(metrics.changeValue)} ({formatSignedPercent(metrics.changePercent)})</p>
+          </article>
+          <article class="metric-card">
+            <p class="label">Risk Level</p>
+            <p class="value">
+              <span class={`risk-pill ${riskClass(metrics.riskLevel)}`}>{metrics.riskLevel ?? '-'}</span>
+            </p>
+          </article>
+        </section>
+
+        <section class="scenarios-grid" aria-label="Skenario">
+          <article class="scenario-card">
+            <h3>Bull Case</h3>
+            <p>{metrics.bullCase ?? '-'}</p>
+          </article>
+          <article class="scenario-card">
+            <h3>Base Case</h3>
+            <p>{metrics.baseCase ?? '-'}</p>
+          </article>
+          <article class="scenario-card">
+            <h3>Bear Case</h3>
+            <p>{metrics.bearCase ?? '-'}</p>
+          </article>
+        </section>
+
+        <section class="levels-row" aria-label="Level kunci">
+          <article class="metric-card">
+            <p class="label">Support</p>
+            <p class="value">{formatRate(metrics.supportLevel)}</p>
+          </article>
+          <article class="metric-card">
+            <p class="label">Resistance</p>
+            <p class="value">{formatRate(metrics.resistanceLevel)}</p>
+          </article>
+        </section>
+
+        {metrics.notes.length > 0 && (
+          <section class="history" aria-label="Catatan data">
+            <h2>Catatan Data</h2>
+            <ul class="note-list">
+              {metrics.notes.map((note) => (
+                <li>{note}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {recentReports.length > 0 && (
+          <section class="history" aria-label="Riwayat report terbaru">
+            <h2>Riwayat Report</h2>
+            <ul>
+              {recentReports.map((report) => (
+                <li>
+                  <a href={`/blog/${report.id}/`}>{report.data.title}</a>
+                  {' - '}
+                  {report.data.pubDate.toLocaleDateString('id-ID', {
+                    day: '2-digit',
+                    month: 'long',
+                    year: 'numeric',
+                  })}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <hr />
+
+        <section class="prose" aria-label="Laporan lengkap terbaru">
+          <h2>Laporan Lengkap Terbaru</h2>
+          {Content ? <Content /> : <p>Tidak ada data report USD/IDR tersedia.</p>}
+        </section>
+      </section>
     </main>
     <Footer />
   </body>
 </html>
-
