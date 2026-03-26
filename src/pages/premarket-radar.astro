@@ -1,46 +1,35 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
+import { getCollection, render } from 'astro:content'
+import BaseHead from '../components/BaseHead.astro'
+import Footer from '../components/Footer.astro'
+import Header from '../components/Header.astro'
 
-const title = 'Pre-Market Radar · USD/IDR';
-const description = 'Daily FX intelligence dashboard for USD/IDR currency pair';
+const title = 'Pre-Market Radar · USD/IDR'
+const description = 'Daily FX intelligence dashboard for USD/IDR currency pair'
+
+const allPosts = await getCollection('blog')
+const radarEntry = allPosts
+  .filter(p => p.id.startsWith('usdidr-report-'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())[0]
+
+const { Content } = radarEntry ? await render(radarEntry) : { Content: null }
 ---
 
 <!doctype html>
 <html lang="id">
-	<head>
-		<BaseHead title={title} description={description} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>{title}</h1>
-			<p>{description}</p>
-			<hr />
-			<div id="premarket-radar-content">
-				<p>Loading radar dashboard...</p>
-			</div>
-		</main>
-		<script type="module">
-			// Load radar content from markdown
-			import { getCollection } from 'astro:content';
-			
-			const radarContent = await getCollection('blog').find(item => item.id === 'premarket-radar');
-			const container = document.getElementById('premarket-radar-content');
-			
-			if (radarContent && container) {
-				// Simple markdown renderer
-				const body = radarContent.body;
-				const html = body
-					.replace(/^#\s+(.+)/gm, '<h1>$1</h1>')
-					.replace(/^##\s+(.+)/gm, '<h2>$1</h2>')
-					.replace(/^###\s+(.+)/gm, '<h3>$1</h3>')
-					.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-					.replace(/\*(.+?)\*/g, '<em>$1</em>')
-					.replace(/\n/g, '<br>');
-					
-				container.innerHTML = html;
-			}
-		</script>
-	</body>
+  <head>
+    <BaseHead title={title} description={description} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <h1>{title}</h1>
+      <p>{description}</p>
+      <hr />
+      <div class="prose">
+        {Content ? <Content /> : <p>Tidak ada data radar tersedia.</p>}
+      </div>
+    </main>
+    <Footer />
+  </body>
 </html>
