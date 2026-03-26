@@ -34,15 +34,9 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 The USD/IDR rate at **Rp 16.885** (mid-rate) positions the Indonesian rupiah in a moderate zone relative to recent historical patterns. The 40-point spread on e-Rate indicates:
 
-- **Very tight liquidity** in the morning session
-- **Highly stable market conditions** with minimal volatility
-- **Excellent timing** for forex transactions with minimal spread
-
-### Rate Movement Analysis
-
-- **Change from previous update:** +15 IDR points (mid-rate)
-- **Trend:** Slight upward pressure on USD
-- **Market Sentiment:** Neutral to slightly bullish on USD
+- **Tight liquidity** in the morning session
+- **Stable market conditions** with controlled volatility
+- **Optimal timing** for forex transactions
 
 ### Rate Comparison Context
 
@@ -73,19 +67,19 @@ The USD/IDR rate at **Rp 16.885** (mid-rate) positions the Indonesian rupiah in 
 ## 📅 Daily Outlook
 
 **Session:** Jakarta Morning (09:00 WIB)
-**Volatility:** Low
+**Volatility:** Low to Moderate
 **Key Levels to Watch:**
 
 - Resistance: Rp 17.000
-- Support: Rp 16.850
+- Support: Rp 16.800
 - Pivot Point: Rp 16.885
 
 ### Expected Range
 
 ```
-Low:  Rp 16.850 - Rp 16.870
-Mid:  Rp 16.880 - Rp 16.900
-High: Rp 16.950 - Rp 17.000
+Low:  Rp 16.800 - Rp 16.820
+Mid:  Rp 16.850 - Rp 16.890
+High:  Rp 16.950 - Rp 17.050
 ```
 
 ---
@@ -106,7 +100,17 @@ High: Rp 16.950 - Rp 17.000
 
 ---
 
-## 📊 Technical Indicators
+## 📊 30-Day Price Chart
+
+**Loading chart...**
+
+Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
+
+_Chart generation in progress - adding historical data points daily_
+
+---
+
+## 📈 Technical Indicators
 
 ### Simple Moving Average (SMA)
 
