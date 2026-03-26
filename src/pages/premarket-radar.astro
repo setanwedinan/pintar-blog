@@ -4,7 +4,7 @@ import BaseHead from '../components/BaseHead.astro'
 import Footer from '../components/Footer.astro'
 import Header from '../components/Header.astro'
 
-const title = 'Pre-Market Radar · USD/IDR'
+const title = 'Pre-Market Radar \u00B7 USD/IDR'
 const description = 'Daily FX intelligence dashboard for USD/IDR currency pair'
 
 const allPosts = await getCollection('blog')
@@ -33,3 +33,4 @@ const { Content } = radarEntry ? await render(radarEntry) : { Content: null }
     <Footer />
   </body>
 </html>
+

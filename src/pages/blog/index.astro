@@ -13,7 +13,7 @@ const posts = (await getCollection('blog')).sort(
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="id">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
@@ -67,7 +67,7 @@ const posts = (await getCollection('blog')).sort(
 				color: rgb(var(--accent));
 			}
 			ul a:hover img {
-				box-shadow: var(--box-shadow);
+				box-shadow: var(--shadow-elevated);
 			}
 			@media (max-width: 720px) {
 				ul {

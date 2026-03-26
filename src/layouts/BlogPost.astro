@@ -11,7 +11,7 @@ type Props = CollectionEntry<'blog'>['data'];
 const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="id">
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
@@ -157,7 +157,8 @@ const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.prop
 			});
 
 			// Initial update
-			const initialProgress = window.scrollY / (document.documentElement.scrollHeight - window.innerHeight) * 100;
+			const initialDocHeight = document.documentElement.scrollHeight - window.innerHeight;
+			const initialProgress = initialDocHeight > 0 ? (window.scrollY / initialDocHeight) * 100 : 0;
 			progressBar.style.width = initialProgress + '%';
 		</script>
 	</body>

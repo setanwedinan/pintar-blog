@@ -60,7 +60,7 @@ const posts = (await getCollection('blog')).sort(
 			transition: all 0.2s ease;
 		}
 		.post-card:hover {
-			box-shadow: var(--box-shadow);
+			box-shadow: var(--shadow-elevated);
 			border-color: rgb(var(--accent));
 			transform: translateY(-2px);
 		}
@@ -145,7 +145,7 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<div class="hero">
-				<h1>📝 Blog Pintar</h1>
+				<h1>&#128221; Blog Pintar</h1>
 				<p>Coding, teknologi, dan random thoughts seputar kehidupan digital.</p>
 			</div>
 			<ul class="post-grid">
@@ -161,7 +161,7 @@ const posts = (await getCollection('blog')).sort(
 									class="post-image"
 								/>
 							) : (
-								<div class="post-image-placeholder">📚</div>
+								<div class="post-image-placeholder">&#128218;</div>
 							)}
 							<div class="post-content">
 								<h3 class="post-title">{post.data.title}</h3>
@@ -180,3 +180,4 @@ const posts = (await getCollection('blog')).sort(
 		<Footer />
 	</body>
 </html>
+
