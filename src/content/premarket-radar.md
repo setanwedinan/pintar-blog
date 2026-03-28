@@ -12,18 +12,18 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ## 🕐 Latest BCA E-Rate
 
-**Update Time:** 27 Maret 2026 09:00 WIB
+**Update Time:** 28 Maret 2026 09:00 WIB
 
 | Rate Type  | Beli (Buy)   | Jual (Sell)  | Spread  |
 | ---------- | ------------ | ------------ | ------- |
-| **e-Rate** | Rp 16.870,00 | Rp 16.940,00 | 70 pts  |
-| TT Counter | Rp 16.770,00 | Rp 17.070,00 | 300 pts |
-| Bank Notes | Rp 16.770,00 | Rp 17.070,00 | 300 pts |
+| **e-Rate** | Rp 16.935,00 | Rp 17.025,00 | 90 pts  |
+| TT Counter | Rp 16.840,00 | Rp 17.140,00 | 300 pts |
+| Bank Notes | Rp 16.810,00 | Rp 17.110,00 | 300 pts |
 
 ### 🔸 Key Metrics
 
-- **Mid-Rate:** Rp 16.905,00
-- **Spread:** 70 IDR points (0.41%)
+- **Mid-Rate:** Rp 16.980,00
+- **Spread:** 90 IDR points (0.53%)
 - **Rate Type:** e-Rate (e-Banking rates)
 
 ---
@@ -32,11 +32,11 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ### Current Market Position
 
-The USD/IDR rate at **Rp 16.905** (mid-rate) positions the Indonesian rupiah in a moderately strengthening zone relative to recent historical patterns. The 70-point spread on e-Rate indicates:
+The USD/IDR rate at **Rp 16.980** (mid-rate) positions the Indonesian rupiah in a moderate weakening zone relative to recent historical patterns. The 90-point spread on e-Rate indicates:
 
-- **Moderate liquidity** in the morning session
-- **Slightly elevated market conditions** with controlled volatility
-- **Active trading** observed with wider than typical e-Rate spread
+- **Elevated market conditions** with slightly wider spreads than yesterday (70 pts)
+- **Moderate volatility** in the morning session
+- **Potential USD strength** with spread widening suggesting increased hedging activity
 
 ### Rate Comparison Context
 
@@ -52,34 +52,35 @@ The USD/IDR rate at **Rp 16.905** (mid-rate) positions the Indonesian rupiah in 
 
 ### 🟢 Bullish Signals (USD strengthening)
 
-- USD showing slight upward momentum from 16.885 to 16.905 (+20 pts)
-- Global dollar index maintaining stability
-- Risk-off sentiment in emerging markets
+- USD showing upward momentum from 16.905 to 16.980 (+75 pts, +0.44%)
+- Spread widened from 70 to 90 pts indicating increased USD demand
+- Global dollar index gaining ground
+- Risk-on sentiment returning to emerging markets
 
 ### 🔴 Bearish Signals (IDR strengthening)
 
-- Bank Indonesia intervention potential at key levels
-- Strong export earnings season approaching
-- Foreign investment inflow opportunities
+- Bank Indonesia likely to monitor closely above 17.000 level
+- Indonesian export earnings remain supportive
+- Foreign investment opportunities in local assets
 
 ---
 
 ## 📅 Daily Outlook
 
 **Session:** Jakarta Morning (09:00 WIB)
-**Volatility:** Low to Moderate
+**Volatility:** Moderate
 **Key Levels to Watch:**
 
-- Resistance: Rp 17.050
-- Support: Rp 16.820
-- Pivot Point: Rp 16.905
+- Resistance: Rp 17.080
+- Support: Rp 16.900
+- Pivot Point: Rp 16.980
 
 ### Expected Range
 
 ```
-Low:  Rp 16.820 - Rp 16.850
-Mid:  Rp 16.880 - Rp 16.920
-High:  Rp 16.980 - Rp 17.080
+Low:  Rp 16.900 - Rp 16.940
+Mid:  Rp 16.960 - Rp 17.020
+High:  Rp 17.040 - Rp 17.100
 ```
 
 ---
@@ -88,13 +89,13 @@ High:  Rp 16.980 - Rp 17.080
 
 ### For Individuals
 
-- **Best time to buy USD:** When rate approaches Rp 16.820 (support)
-- **Best time to sell USD:** When rate approaches Rp 17.050 (resistance)
+- **Best time to buy USD:** When rate approaches Rp 16.900 (support)
+- **Best time to sell USD:** When rate approaches Rp 17.080 (resistance)
 - **Use e-Rate for:** Online purchases, travel bookings
 
 ### For Business
 
-- **Hedge strategy:** Consider partial forward contracts near 16.900
+- **Hedge strategy:** Consider partial forward contracts near 16.980
 - **Timing:** Monitor US macroeconomic releases (typically 20:30-23:00 WIB)
 - **Bulk transactions:** Use TT Counter for better rates on large amounts
 
@@ -112,7 +113,7 @@ High:  Rp 16.980 - Rp 17.080
   </text>
 
   <!-- Y-axis labels -->
-  <text x="40" y="40" font-family="Arial" font-size="10" fill="#64748b">16905.00</text>
+  <text x="40" y="40" font-family="Arial" font-size="10" fill="#64748b">16980.00</text>
   <text x="40" y="250" font-family="Arial" font-size="10" fill="#64748b">16800.00</text>
 
   <!-- Y-axis line -->
@@ -126,25 +127,26 @@ High:  Rp 16.980 - Rp 17.080
     fill="none"
     stroke="#088395"
     stroke-width="2"
-    points="50,154.76190476190476 400,250 750,50"
+    points="50,194.44444444444446 283.3333333333333,250 516.6666666666666,133.33333333333331 750,50"
   />
 
   <!-- Data points -->
-  <circle cx="50" cy="154.76190476190476" r="4" fill="#088395" />
-  <circle cx="400" cy="250" r="4" fill="#088395" />
+  <circle cx="50" cy="194.44444444444446" r="4" fill="#088395" />
+  <circle cx="283.3333333333333" cy="250" r="4" fill="#088395" />
+  <circle cx="516.6666666666666" cy="133.33333333333331" r="4" fill="#088395" />
   <circle cx="750" cy="50" r="4" fill="#088395" />
 
   <!-- Latest point highlight -->
-
+  
     <circle cx="750" cy="50" r="6" fill="#ef4444" />
     <text x="740" y="40" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
-      16905.00
+      16980.00
     </text>
-
+    
 
   <!-- X-axis label -->
   <text x="400" y="295" text-anchor="middle" font-family="Arial" font-size="12" fill="#64748b">
-    Last 30 Days (3 data points)
+    Last 30 Days (4 data points)
   </text>
 </svg>
 
@@ -156,14 +158,14 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ### Simple Moving Average (SMA)
 
-- **20-day SMA trend:** Neutral
-- **50-day SMA trend:** Slightly bullish
+- **20-day SMA trend:** Slightly bullish
+- **50-day SMA trend:** Neutral
 - **200-day SMA trend:** Long-term stability
 
 ### Support & Resistance Zones
 
-- **Strong Support:** Rp 16.700 - Rp 16.820
-- **Key Resistance:** Rp 17.000 - Rp 17.100
+- **Strong Support:** Rp 16.800 - Rp 16.900
+- **Key Resistance:** Rp 17.080 - Rp 17.150
 - **Breakout Zone:** Above Rp 17.200
 
 ---
@@ -174,11 +176,11 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 - Commodity price stability (palm oil, coal)
 - Trade surplus maintenance
-- Foreign direct investment
+- Foreign direct investment inflows
 
 ### Risk Factors
 
-- US dollar strength trends
+- US dollar strength trends (upward momentum)
 - Global interest rate differentials
 - Geopolitical tensions
 
@@ -188,7 +190,7 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 **Data Source:** BCA E-Rate (Bank Central Asia)
 **Update Frequency:** Real-time (08:00-15:00 WIB)
-**Last Verified:** 27 Maret 2026 09:00 WIB
+**Last Verified:** 28 Maret 2026 09:00 WIB
 **Methodology:** e-Rate scraping + technical analysis
 
 ---
@@ -197,7 +199,8 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ### High Priority
 
-- **No immediate alerts** - Market operating normally
+- **USD strength alert:** Rate climbing toward 17.080 resistance
+- **Spread widening:** Increased market volatility observed
 
 ### Monitor
 
@@ -206,7 +209,7 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ---
 
-_Last updated: 27 Maret 2026 09:00 WIB_
+_Last updated: 28 Maret 2026 09:00 WIB_
 _Next scheduled update: Tomorrow 08:00 WIB_
 _Auto-generated by Pintar AI Assistant 🤖_
 
