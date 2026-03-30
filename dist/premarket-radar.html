@@ -1,0 +1,442 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pre-Market Radar · USD/IDR · Kamis, 26 Maret 2026</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500;700&family=Syne:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background: #080c10;
+        color: #e0e0e0;
+        font-family: 'DM Mono', monospace;
+        font-size: 12px;
+        line-height: 1.5;
+        overflow-x: hidden;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        position: relative;
+      }
+
+      /* Scanlines overlay */
+      body::before {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          0deg,
+          rgba(0, 0, 0, 0.15),
+          rgba(0, 0, 0, 0.15) 1px,
+          transparent 1px,
+          transparent 2px
+        );
+        z-index: 1000;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Syne', sans-serif;
+        color: #00e5ff;
+      }
+
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 30px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #1a2632;
+      }
+
+      .header-title h1 {
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: -1px;
+      }
+
+      .radar-dot {
+        width: 12px;
+        height: 12px;
+        background: #00ff00;
+        border-radius: 50%;
+        animation: pulse 1.5s infinite;
+      }
+
+      @keyframes pulse {
+        0% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(1.5); opacity: 0.5; }
+        100% { transform: scale(1); opacity: 1; }
+      }
+
+      .timestamp {
+        color: #888;
+        font-size: 10px;
+      }
+
+      .section {
+        margin-bottom: 25px;
+      }
+
+      .section-title {
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 15px;
+        color: #00e5ff;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .rate-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 15px;
+      }
+
+      .rate-card {
+        background: #0d151e;
+        border: 1px solid #1a2632;
+        border-radius: 8px;
+        padding: 15px;
+      }
+
+      .rate-label {
+        color: #888;
+        font-size: 10px;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+      }
+
+      .rate-value {
+        font-size: 20px;
+        font-weight: 700;
+        color: #fff;
+      }
+
+      .rate-change {
+        font-size: 12px;
+        margin-top: 5px;
+      }
+
+      .rate-change.positive {
+        color: #00ff00;
+      }
+
+      .rate-change.negative {
+        color: #ff4444;
+      }
+
+      .chart-container {
+        background: #0d151e;
+        border: 1px solid #1a2632;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 20px;
+      }
+
+      .chart-svg {
+        width: 100%;
+        height: auto;
+      }
+
+      .live-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        padding: 2px 8px;
+        background: rgba(0, 255, 0, 0.2);
+        border-radius: 10px;
+        color: #00ff00;
+        font-size: 9px;
+      }
+
+      .live-dot {
+        width: 6px;
+        height: 6px;
+        background: #00ff00;
+        border-radius: 50%;
+        animation: pulse 1.5s infinite;
+      }
+
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        margin-bottom: 20px;
+      }
+
+      .stat-box {
+        background: #0d151e;
+        border: 1px solid #1a2632;
+        border-radius: 8px;
+        padding: 15px;
+      }
+
+      .stat-label {
+        color: #888;
+        font-size: 10px;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+      }
+
+      .stat-value {
+        font-size: 18px;
+        font-weight: 700;
+        color: #fff;
+      }
+
+      .stat-sub {
+        font-size: 10px;
+        color: #888;
+        margin-top: 3px;
+      }
+
+      .market-insights {
+        background: #0d151e;
+        border: 1px solid #1a2632;
+        border-radius: 8px;
+        padding: 20px;
+        line-height: 1.6;
+      }
+
+      .insight-title {
+        font-size: 14px;
+        font-weight: 600;
+        color: #00e5ff;
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .insight-item {
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #1a2632;
+      }
+
+      .insight-item:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .signal-badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 12px;
+        font-size: 10px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-right: 10px;
+      }
+
+      .signal-badge.bullish {
+        background: rgba(0, 255, 0, 0.2);
+        color: #00ff00;
+      }
+
+      .signal-badge.bearish {
+        background: rgba(255, 68, 68, 0.2);
+        color: #ff4444;
+      }
+
+      .signal-badge.neutral {
+        background: rgba(255, 183, 0, 0.2);
+        color: #ffb700;
+      }
+
+      .footer {
+        margin-top: 30px;
+        padding-top: 15px;
+        border-top: 1px solid #1a2632;
+        color: #666;
+        font-size: 9px;
+        text-align: center;
+      }
+
+      @media (max-width: 768px) {
+        .rate-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+
+        .stats-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- SECTION 1: HEADER -->
+      <div class="header">
+        <div class="header-title">
+          <h1>📡 Pre-Market Radar · USD/IDR</h1>
+        </div>
+        <div style="display: flex; align-items: center; gap: 15px">
+          <div class="radar-dot"></div>
+          <div class="timestamp">Kamis, 26 Maret 2026 · 09.04 WIB</div>
+        </div>
+      </div>
+
+      <!-- SECTION 2: RATE HERO -->
+      <div class="section">
+        <div class="section-title">🕐 BCA E-Rate (Real-time)</div>
+        <div class="rate-grid">
+          <div class="rate-card">
+            <div class="rate-label">Buy (Bank buys USD)</div>
+            <div class="rate-value">Rp 16.750</div>
+          </div>
+          <div class="rate-card">
+            <div class="rate-label">Sell (Bank sells USD)</div>
+            <div class="rate-value">Rp 16.850</div>
+          </div>
+          <div class="rate-card">
+            <div class="rate-label">Mid-Rate</div>
+            <div class="rate-value">Rp 16.800</div>
+          </div>
+          <div class="rate-card">
+            <div class="rate-label">Spread</div>
+            <div class="rate-value">100 pts</div>
+            <div class="stat-sub">(0.60%)</div>
+            <div class="live-badge">
+              <div class="live-dot"></div>
+              LIVE
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 3: 30-DAY PRICE CHART -->
+      <div class="section">
+        <div class="section-title">📊 30-Day Price Chart</div>
+        <div class="chart-container">
+          <div class="chart-svg">
+            
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f8fafc" />
+
+  <!-- Title -->
+  <text x="400" y="20" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#334155">
+    30-Day USD/IDR Mid-Rate Chart
+  </text>
+
+  <!-- Y-axis labels -->
+  <text x="40" y="40" font-family="Arial" font-size="10" fill="#64748b">16850.00</text>
+  <text x="40" y="250" font-family="Arial" font-size="10" fill="#64748b">16800.00</text>
+
+  <!-- Y-axis line -->
+  <line x1="50" y1="50" x2="50" y2="250" stroke="#cbd5e1" stroke-width="2" />
+
+  <!-- X-axis line -->
+  <line x1="50" y1="250" x2="750" y2="250" stroke="#cbd5e1" stroke-width="2" />
+
+  <!-- Line chart -->
+  <polyline
+    fill="none"
+    stroke="#088395"
+    stroke-width="2"
+    points="50,50 750,250"
+  />
+
+  <!-- Data points -->
+  <circle cx="50" cy="50" r="4" fill="#088395" />
+  <circle cx="750" cy="250" r="4" fill="#088395" />
+
+  <!-- Latest point highlight -->
+  
+    <circle cx="750" cy="250" r="6" fill="#ef4444" />
+    <text x="740" y="240" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
+      16800.00
+    </text>
+    
+
+  <!-- X-axis label -->
+  <text x="400" y="295" text-anchor="middle" font-family="Arial" font-size="12" fill="#64748b">
+    Last 30 Days (2 data points)
+  </text>
+</svg>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 4: STATISTICS -->
+      <div class="section">
+        <div class="section-title">📈 Statistics (30 Days)</div>
+        <div class="stats-grid">
+          <div class="stat-box">
+            <div class="stat-label">Average Mid-Rate</div>
+            <div class="stat-value">Rp 16.825</div>
+            <div class="stat-sub">2 days tracked</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">High Mid-Rate</div>
+            <div class="stat-value">Rp 16.850</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">Low Mid-Rate</div>
+            <div class="stat-value">Rp 16.800</div>
+          </div>
+          <div class="stat-box">
+            <div class="stat-label">Average Buy Rate</div>
+            <div class="stat-value">Rp 16.775</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 5: MARKET INSIGHTS -->
+      <div class="section">
+        <div class="insight-title">💡 Market Insights</div>
+        <div class="market-insights">
+          <div class="insight-item">
+            <span class="signal-badge neutral">NEUTRAL</span>
+            <strong>Current Position:</strong> USD/IDR trading at Rp 16.800 indicates stable market conditions with tight spreads (100 points = 0.60%).
+          </div>
+          <div class="insight-item">
+            <span class="signal-badge bullish">🟢 BULLISH CATALYST</span>
+            <strong>Support Level:</strong> Rp 16.850 - Recent low provides buying opportunity.
+          </div>
+          <div class="insight-item">
+            <span class="signal-badge bearish">🔴 BEARISH RISK</span>
+            <strong>Resistance Level:</strong> Rp 16.800 - Recent high may trigger sell pressure.
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 6: FOOTER -->
+      <div class="footer">
+        Data Source: <strong>BCA E-Rate</strong> (Bank Central Asia) ·
+        Update: 09.04 WIB ·
+        Powered by <strong>Pintar AI Assistant</strong> 🤖<br />
+        <em>Real-time USD/IDR exchange rate tracking with 30-day historical data and market analysis</em>
+      </div>
+    </div>
+
+    <script>
+      // Auto-refresh every 60 seconds
+      setTimeout(() => {
+        location.reload();
+      }, 60000);
+    </script>
+  </body>
+</html>
+
