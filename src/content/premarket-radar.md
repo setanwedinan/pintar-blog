@@ -12,18 +12,18 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ## 🕐 Latest BCA E-Rate
 
-**Update Time:** 30 Maret 2026 09:00 WIB
+**Update Time:** 31 Maret 2026 09:00 WIB
 
 | Rate Type  | Beli (Buy)   | Jual (Sell)  | Spread  |
 | ---------- | ------------ | ------------ | ------- |
-| **e-Rate** | Rp 16.925,00 | Rp 17.015,00 | 90 pts  |
-| TT Counter | Rp 16.820,00 | Rp 17.120,00 | 300 pts |
-| Bank Notes | Rp 16.820,00 | Rp 17.120,00 | 300 pts |
+| **e-Rate** | Rp 16.975,00 | Rp 17.005,00 | 30 pts  |
+| TT Counter | Rp 16.830,00 | Rp 17.130,00 | 300 pts |
+| Bank Notes | Rp 16.830,00 | Rp 17.130,00 | 300 pts |
 
 ### 🔸 Key Metrics
 
-- **Mid-Rate:** Rp 16.970,00
-- **Spread:** 90 IDR points (0.53%)
+- **Mid-Rate:** Rp 16.990,00
+- **Spread:** 30 IDR points (0.18%)
 - **Rate Type:** e-Rate (e-Banking rates)
 
 ---
@@ -32,11 +32,12 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ### Current Market Position
 
-The USD/IDR rate at **Rp 16.970** (mid-rate) shows a **10-point decline** from yesterday's Rp 16.980, indicating mild IDR strengthening. The 90-point spread on e-Rate reflects:
+The USD/IDR rate at **Rp 16.990** (mid-rate) shows a **20-point appreciation** from yesterday's Rp 16.970, indicating mild USD strengthening. The exceptionally tight 30-point spread on e-Rate reflects:
 
-- **Stable market conditions** with consistent spreads
-- **Lower volatility** compared to last week
-- **Balanced USD/IDR dynamics** with slight IDR favor
+- **Very tight market conditions** with compressed spreads
+- **Low volatility** environment
+- **Balanced USD/IDR dynamics** with slight USD favor
+- **Reduced transaction costs** for traders and businesses
 
 ### Rate Comparison Context
 
@@ -52,17 +53,17 @@ The USD/IDR rate at **Rp 16.970** (mid-rate) shows a **10-point decline** from y
 
 ### 🟢 Bullish Signals (USD strengthening)
 
-- USD still holding near 17.000 psychological level
-- Spread remains tight at 90 pts indicating orderly market
-- Global dollar index showing mixed signals
-- Technical support around 16.900-16.950 zone
+- **Mild appreciation** from 16.970 to 16.990 (+20 pts)
+- USD testing above 16.980 resistance level
+- Extremely tight spread (30 pts) indicating efficient pricing
+- Global dollar showing resilience
 
 ### 🔴 Bearish Signals (IDR strengthening)
 
-- **Mild depreciation** from 16.980 to 16.970 (-10 pts)
-- Indonesian export data supporting currency
-- Foreign investment flows remain positive
-- BI rate policy maintaining IDR attractiveness
+- Rate still within recent consolidation range
+- Indonesian fundamentals remain supportive
+- Foreign investment flows continue
+- BI maintaining appropriate policy stance
 
 ---
 
@@ -74,14 +75,14 @@ The USD/IDR rate at **Rp 16.970** (mid-rate) shows a **10-point decline** from y
 
 - Resistance: Rp 17.080
 - Support: Rp 16.900
-- Pivot Point: Rp 16.970
+- Pivot Point: Rp 16.990
 
 ### Expected Range
 
 ```
-Low:  Rp 16.900 - Rp 16.940
-Mid:  Rp 16.950 - Rp 17.010
-High:  Rp 17.040 - Rp 17.100
+Low:  Rp 16.920 - Rp 16.960
+Mid:  Rp 16.970 - Rp 17.030
+High:  Rp 17.060 - Rp 17.120
 ```
 
 ---
@@ -96,9 +97,10 @@ High:  Rp 17.040 - Rp 17.100
 
 ### For Business
 
-- **Hedge strategy:** Consider partial forward contracts near 16.970
+- **Hedge strategy:** Consider partial forward contracts near 16.990
 - **Timing:** Monitor US macroeconomic releases (typically 20:30-23:00 WIB)
 - **Bulk transactions:** Use TT Counter for better rates on large amounts
+- **Take advantage:** Current tight 30-point spread for optimal pricing
 
 ---
 
@@ -114,7 +116,7 @@ High:  Rp 17.040 - Rp 17.100
   </text>
 
   <!-- Y-axis labels -->
-  <text x="40" y="40" font-family="Arial" font-size="10" fill="#64748b">16980.00</text>
+  <text x="40" y="40" font-family="Arial" font-size="10" fill="#64748b">16990.00</text>
   <text x="40" y="250" font-family="Arial" font-size="10" fill="#64748b">16800.00</text>
 
   <!-- Y-axis line -->
@@ -128,28 +130,29 @@ High:  Rp 17.040 - Rp 17.100
     fill="none"
     stroke="#088395"
     stroke-width="2"
-    points="50,194.44444444444446 190,250 330,133.33333333333331 470,50 610,50 750,61.111111111111114"
+    points="50,197.3684210526316 166.66666666666666,250 283.3333333333333,139.4736842105263 400,60.5263157894737 516.6666666666666,60.5263157894737 633.3333333333334,71.05263157894737 750,50"
   />
 
   <!-- Data points -->
-  <circle cx="50" cy="194.44444444444446" r="4" fill="#088395" />
-  <circle cx="190" cy="250" r="4" fill="#088395" />
-  <circle cx="330" cy="133.33333333333331" r="4" fill="#088395" />
-  <circle cx="470" cy="50" r="4" fill="#088395" />
-  <circle cx="610" cy="50" r="4" fill="#088395" />
-  <circle cx="750" cy="61.111111111111114" r="4" fill="#088395" />
+  <circle cx="50" cy="197.3684210526316" r="4" fill="#088395" />
+  <circle cx="166.66666666666666" cy="250" r="4" fill="#088395" />
+  <circle cx="283.3333333333333" cy="139.4736842105263" r="4" fill="#088395" />
+  <circle cx="400" cy="60.5263157894737" r="4" fill="#088395" />
+  <circle cx="516.6666666666666" cy="60.5263157894737" r="4" fill="#088395" />
+  <circle cx="633.3333333333334" cy="71.05263157894737" r="4" fill="#088395" />
+  <circle cx="750" cy="50" r="4" fill="#088395" />
 
   <!-- Latest point highlight -->
 
-    <circle cx="750" cy="61.111111111111114" r="6" fill="#ef4444" />
-    <text x="740" y="51.111111111111114" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
-      16970.00
+    <circle cx="750" cy="50" r="6" fill="#ef4444" />
+    <text x="740" y="40" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
+      16990.00
     </text>
 
 
   <!-- X-axis label -->
   <text x="400" y="295" text-anchor="middle" font-family="Arial" font-size="12" fill="#64748b">
-    Last 30 Days (6 data points)
+    Last 30 Days (7 data points)
   </text>
 </svg>
 
@@ -161,7 +164,7 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ### Simple Moving Average (SMA)
 
-- **20-day SMA trend:** Neutral to slightly bearish
+- **20-day SMA trend:** Neutral to slightly bullish
 - **50-day SMA trend:** Neutral
 - **200-day SMA trend:** Long-term stability
 
@@ -181,13 +184,15 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 - Trade surplus maintenance
 - Foreign direct investment inflows
 - BI rate policy supporting currency
+- Low inflation environment
 
 ### Risk Factors
 
-- US dollar strength trends (stable to weakening)
+- US dollar resilience (maintaining strength)
 - Global interest rate differentials
 - Geopolitical tensions
 - Commodity price fluctuations
+- Global growth slowdown concerns
 
 ---
 
@@ -195,7 +200,7 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 **Data Source:** BCA E-Rate (Bank Central Asia)
 **Update Frequency:** Real-time (08:00-15:00 WIB)
-**Last Verified:** 30 Maret 2026 09:00 WIB
+**Last Verified:** 31 Maret 2026 09:00 WIB
 **Methodology:** e-Rate scraping + technical analysis
 
 ---
@@ -204,18 +209,19 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ### High Priority
 
-- **Rate decline alert:** Mild IDR strengthening (-10 pts from yesterday)
-- **Spread monitoring:** Stable spread at 90 pts (low volatility)
+- **Rate appreciation alert:** Mild USD strengthening (+20 pts from yesterday)
+- **Spread alert:** Exceptionally tight spread at 30 pts (historically low)
 
 ### Monitor
 
 - **US Macro Data:** Check schedule for Fed-related announcements
 - **BI Meeting:** Next Bank Indonesia policy decision
 - **Commodity prices:** Palm oil and coal trends
+- **Global risk sentiment:** Monitor market volatility indices
 
 ---
 
-_Last updated: 30 Maret 2026 09:00 WIB_
+_Last updated: 31 Maret 2026 09:00 WIB_
 _Next scheduled update: Tomorrow 08:00 WIB_
 _Auto-generated by Pintar AI Assistant 🤖_
 
