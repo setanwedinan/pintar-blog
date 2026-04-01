@@ -12,18 +12,19 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ## 🕐 Latest BCA E-Rate
 
-**Update Time:** 31 Maret 2026 09:00 WIB
+**Update Time:** 1 April 2026 09:00 WIB
 
 | Rate Type  | Beli (Buy)   | Jual (Sell)  | Spread  |
 | ---------- | ------------ | ------------ | ------- |
-| **e-Rate** | Rp 16.975,00 | Rp 17.005,00 | 30 pts  |
+| **e-Rate** | Rp 16.915,00 | Rp 17.015,00 | 100 pts |
 | TT Counter | Rp 16.830,00 | Rp 17.130,00 | 300 pts |
 | Bank Notes | Rp 16.830,00 | Rp 17.130,00 | 300 pts |
 
 ### 🔸 Key Metrics
 
-- **Mid-Rate:** Rp 16.990,00
-- **Spread:** 30 IDR points (0.18%)
+- **Mid-Rate:** Rp 16.965,00
+- **Spread:** 100 IDR points (0.59%)
+- **Daily Change:** -25 pts (IDR strengthening)
 - **Rate Type:** e-Rate (e-Banking rates)
 
 ---
@@ -32,12 +33,24 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ### Current Market Position
 
-The USD/IDR rate at **Rp 16.990** (mid-rate) shows a **20-point appreciation** from yesterday's Rp 16.970, indicating mild USD strengthening. The exceptionally tight 30-point spread on e-Rate reflects:
+The USD/IDR rate at **Rp 16.965** (mid-rate) shows a **25-point IDR appreciation** from yesterday's Rp 16.990, indicating modest IDR strengthening in today's session. The 100-point spread on e-Rate reflects:
 
-- **Very tight market conditions** with compressed spreads
-- **Low volatility** environment
-- **Balanced USD/IDR dynamics** with slight USD favor
-- **Reduced transaction costs** for traders and businesses
+- **Moderate market conditions** with normal spreads
+- **Low to moderate volatility** environment
+- **Slight IDR favor** in today's pricing
+- **Standard transaction costs** for traders and businesses
+
+### Historical Context
+
+Based on 30-day tracking data:
+
+- **30-Day Average:** Rp 16.930
+- **30-Day High:** Rp 16.990 (March 31, 2026)
+- **30-Day Low:** Rp 16.800 (March 26, 2026)
+- **Current Position:** Rp 16.965 (above average by 35 pts)
+- **Rate Range:** 190 points (16.800 - 16.990)
+
+The current rate sits comfortably within the recent consolidation range, closer to the upper quartile but below the 30-day peak.
 
 ### Rate Comparison Context
 
@@ -51,18 +64,19 @@ The USD/IDR rate at **Rp 16.990** (mid-rate) shows a **20-point appreciation** f
 
 ## 💡 Trading Insights
 
-### 🟢 Bullish Signals (USD strengthening)
+### 🟢 Bullish Signals (USD strengthening potential)
 
-- **Mild appreciation** from 16.970 to 16.990 (+20 pts)
-- USD testing above 16.980 resistance level
-- Extremely tight spread (30 pts) indicating efficient pricing
-- Global dollar showing resilience
+- Rate still above 30-day average (16.965 vs 16.930)
+- Testing resistance near 16.980-17.000 zone
+- Global dollar maintaining strength
+- Market positioning suggests room for USD upside
 
-### 🔴 Bearish Signals (IDR strengthening)
+### 🔴 Bearish Signals (IDR strength factors)
 
-- Rate still within recent consolidation range
+- **25-point IDR appreciation** from yesterday
+- Rate below recent peak of 16.990
 - Indonesian fundamentals remain supportive
-- Foreign investment flows continue
+- Foreign investment flows continue steady
 - BI maintaining appropriate policy stance
 
 ---
@@ -70,12 +84,12 @@ The USD/IDR rate at **Rp 16.990** (mid-rate) shows a **20-point appreciation** f
 ## 📅 Daily Outlook
 
 **Session:** Jakarta Morning (09:00 WIB)
-**Volatility:** Low
+**Volatility:** Low to Moderate
 **Key Levels to Watch:**
 
 - Resistance: Rp 17.080
 - Support: Rp 16.900
-- Pivot Point: Rp 16.990
+- Pivot Point: Rp 16.965
 
 ### Expected Range
 
@@ -97,10 +111,10 @@ High:  Rp 17.060 - Rp 17.120
 
 ### For Business
 
-- **Hedge strategy:** Consider partial forward contracts near 16.990
+- **Hedge strategy:** Consider partial forward contracts near 16.965
 - **Timing:** Monitor US macroeconomic releases (typically 20:30-23:00 WIB)
 - **Bulk transactions:** Use TT Counter for better rates on large amounts
-- **Take advantage:** Current tight 30-point spread for optimal pricing
+- **Spread awareness:** 100-point e-Rate spread is moderate; shop around
 
 ---
 
@@ -130,29 +144,28 @@ High:  Rp 17.060 - Rp 17.120
     fill="none"
     stroke="#088395"
     stroke-width="2"
-    points="50,197.3684210526316 166.66666666666666,250 283.3333333333333,139.4736842105263 400,60.5263157894737 516.6666666666666,60.5263157894737 633.3333333333334,71.05263157894737 750,50"
+    points="50,197.3684210526316 150,250 250,139.4736842105263 350,60.5263157894737 450,60.5263157894737 550,71.05263157894737 650,50 750,76.31578947368419"
   />
 
   <!-- Data points -->
   <circle cx="50" cy="197.3684210526316" r="4" fill="#088395" />
-  <circle cx="166.66666666666666" cy="250" r="4" fill="#088395" />
-  <circle cx="283.3333333333333" cy="139.4736842105263" r="4" fill="#088395" />
-  <circle cx="400" cy="60.5263157894737" r="4" fill="#088395" />
-  <circle cx="516.6666666666666" cy="60.5263157894737" r="4" fill="#088395" />
-  <circle cx="633.3333333333334" cy="71.05263157894737" r="4" fill="#088395" />
-  <circle cx="750" cy="50" r="4" fill="#088395" />
+  <circle cx="150" cy="250" r="4" fill="#088395" />
+  <circle cx="250" cy="139.4736842105263" r="4" fill="#088395" />
+  <circle cx="350" cy="60.5263157894737" r="4" fill="#088395" />
+  <circle cx="450" cy="60.5263157894737" r="4" fill="#088395" />
+  <circle cx="550" cy="71.05263157894737" r="4" fill="#088395" />
+  <circle cx="650" cy="50" r="4" fill="#088395" />
+  <circle cx="750" cy="76.31578947368419" r="4" fill="#088395" />
 
   <!-- Latest point highlight -->
-
-    <circle cx="750" cy="50" r="6" fill="#ef4444" />
-    <text x="740" y="40" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
-      16990.00
-    </text>
-
+  <circle cx="750" cy="76.31578947368419" r="6" fill="#ef4444" />
+  <text x="740" y="66.31578947368419" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
+    16965.00
+  </text>
 
   <!-- X-axis label -->
   <text x="400" y="295" text-anchor="middle" font-family="Arial" font-size="12" fill="#64748b">
-    Last 30 Days (7 data points)
+    Last 30 Days (8 data points)
   </text>
 </svg>
 
@@ -174,6 +187,10 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 - **Key Resistance:** Rp 17.080 - Rp 17.150
 - **Breakout Zone:** Above Rp 17.200
 
+### Volume Analysis
+
+Based on spread patterns, market liquidity appears adequate. The 100-point spread on e-Rate suggests normal trading conditions with no unusual market stress.
+
 ---
 
 ## 🌍 Global Factors Impacting IDR
@@ -185,14 +202,16 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 - Foreign direct investment inflows
 - BI rate policy supporting currency
 - Low inflation environment
+- Strong foreign exchange reserves
 
 ### Risk Factors
 
-- US dollar resilience (maintaining strength)
+- US dollar resilience in global markets
 - Global interest rate differentials
-- Geopolitical tensions
+- Geopolitical tensions affecting emerging markets
 - Commodity price fluctuations
 - Global growth slowdown concerns
+- US Federal Reserve policy stance
 
 ---
 
@@ -200,8 +219,8 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 **Data Source:** BCA E-Rate (Bank Central Asia)
 **Update Frequency:** Real-time (08:00-15:00 WIB)
-**Last Verified:** 31 Maret 2026 09:00 WIB
-**Methodology:** e-Rate scraping + technical analysis
+**Last Verified:** 1 April 2026 09:00 WIB
+**Methodology:** e-Rate scraping + technical analysis + historical tracking
 
 ---
 
@@ -209,8 +228,8 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ### High Priority
 
-- **Rate appreciation alert:** Mild USD strengthening (+20 pts from yesterday)
-- **Spread alert:** Exceptionally tight spread at 30 pts (historically low)
+- **Rate movement alert:** 25-point IDR strengthening from yesterday
+- **Spread alert:** Moderate 100-point spread (within normal range)
 
 ### Monitor
 
@@ -221,7 +240,7 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ---
 
-_Last updated: 31 Maret 2026 09:00 WIB_
+_Last updated: 1 April 2026 09:00 WIB_
 _Next scheduled update: Tomorrow 08:00 WIB_
 _Auto-generated by Pintar AI Assistant 🤖_
 
