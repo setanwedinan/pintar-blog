@@ -1,0 +1,15 @@
+{
+  "name": "knowledge-rag",
+  "version": "1.0.0",
+  "description": "Personal RAG knowledge base with semantic search",
+  "main": "index.js",
+  "scripts": {
+    "ingest": "node index.js ingest",
+    "query": "node index.js query",
+    "stats": "node index.js stats"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "lowdb": "^7.0.1"
+  }
+}

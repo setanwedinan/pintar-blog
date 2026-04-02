@@ -1,0 +1,6 @@
+{
+  "tavilyApiKey": "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",
+  "telegramUserId": "31300911",
+  "reportsDir": "/root/.openclaw/workspace/premarket-radar/reports",
+  "historyFile": "/root/.openclaw/workspace/skills/premarket-radar/history.json"
+}

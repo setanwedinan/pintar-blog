@@ -1,0 +1,61 @@
+{
+  "telegramUserId": "31300911",
+  "maxHistoryDays": 30,
+  "reportTimeout": 600,
+  "enableCategories": [
+    "regulasi",
+    "danantara",
+    "ma",
+    "aksi-korporasi",
+    "geopolitik-komoditas",
+    "struktur-pasar"
+  ],
+  "commodities": [
+    "Gold",
+    "Oil (WTI)",
+    "Oil (Brent)",
+    "Nickel",
+    "Palm Oil",
+    "Copper",
+    "Coal",
+    "Natural Gas"
+  ],
+  "searchQueries": {
+    "regulasi": [
+      "OJK terbaru regulasi IDX",
+      "Bank Indonesia kebijakan suku bunga",
+      "DJP pajak investasi saham",
+      "IDX circular terbaru 2025"
+    ],
+    "danantara": [
+      "Danantara BUMN governance",
+      "Danantara suntik modal BUMN",
+      "Danantara portofolio perusahaan",
+      "LMD investasi strategis"
+    ],
+    "ma": [
+      "IDX merger acquisition terbaru",
+      "backdoor listing Indonesia 2025",
+      "IDX filing tender offer",
+      "akuisisi perusahaan IDX"
+    ],
+    "aksi-korporasi": [
+      "IDX dividend announcement",
+      "rights issue IDX terbaru",
+      "stock buyback IDX",
+      "IDX corporate action today"
+    ],
+    "geopolitik-komoditas": [
+      "global geopolitical risk markets",
+      "commodity price forecast",
+      "China economic impact Indonesia",
+      "US Fed policy emerging markets"
+    ],
+    "struktur-pasar": [
+      "MSCI Indonesia rebalancing",
+      "FTSE Indonesia review",
+      "foreign flow IDX hari ini",
+      "IHSG foreign net buy sell"
+    ]
+  }
+}

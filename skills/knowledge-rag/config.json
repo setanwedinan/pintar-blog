@@ -1,0 +1,8 @@
+{
+  "embeddingProvider": "nvidia",
+  "nvidiaBaseUrl": "https://integrate.api.nvidia.com/v1",
+  "nvidiaKey": "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",
+  "nvidiaEmbeddingModel": "nvidia/nv-embedqa-e5-v5",
+  "telegramTopicId": "-1003743758645",
+  "allowedUserId": "31300911"
+}

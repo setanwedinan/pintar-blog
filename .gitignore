@@ -1,0 +1,11 @@
+node_modules/
+.env.local
+.env
+*.log
+.DS_Store
+dist/
+
+# Security: Files containing sensitive data (API keys, tokens, secrets)
+skills/pintar-email/config.json
+skills/notion-bookmarks/config.json
+hooks/knowledge-rag/handler.js

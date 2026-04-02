@@ -1,0 +1,129 @@
+[
+  {
+    "rate": 16812,
+    "buy": 16767,
+    "sell": 16857,
+    "date": "14 February 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16812,
+    "buy": 16767,
+    "sell": 16857,
+    "date": "2026-02-16",
+    "dateDisplay": "16 February 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16812,
+    "buy": 16767,
+    "sell": 16857,
+    "date": "2026-02-17",
+    "dateDisplay": "17 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16837,
+    "buy": 16792,
+    "sell": 16882,
+    "date": "2026-02-18",
+    "dateDisplay": "18 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16867,
+    "buy": 16837,
+    "sell": 16897,
+    "date": "2026-02-19",
+    "dateDisplay": "19 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16872,
+    "buy": 16842,
+    "sell": 16902,
+    "date": "2026-02-20",
+    "dateDisplay": "20 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16872,
+    "buy": 16842,
+    "sell": 16902,
+    "date": "2026-02-21",
+    "dateDisplay": "21 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16889,
+    "buy": 16847,
+    "sell": 16931,
+    "date": "2026-02-22",
+    "dateDisplay": "22 Februari 2026",
+    "source": "Frankfurter API (ECB)"
+  },
+  {
+    "rate": 16872,
+    "buy": 16842,
+    "sell": 16902,
+    "date": "2026-02-23",
+    "dateDisplay": "23 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16787,
+    "buy": 16757,
+    "sell": 16817,
+    "date": "2026-02-24",
+    "dateDisplay": "24 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16817,
+    "buy": 16787,
+    "sell": 16847,
+    "date": "2026-02-25",
+    "dateDisplay": "25 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16782,
+    "buy": 16752,
+    "sell": 16812,
+    "date": "2026-02-26",
+    "dateDisplay": "26 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16747,
+    "buy": 16717,
+    "sell": 16777,
+    "date": "2026-02-27",
+    "dateDisplay": "27 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16775,
+    "buy": 16732,
+    "sell": 16817,
+    "date": "2026-02-28",
+    "dateDisplay": "28 Februari 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16775,
+    "buy": 16732,
+    "sell": 16817,
+    "date": "2026-03-01",
+    "dateDisplay": "1 Maret 2026",
+    "source": "BCA e-Rate"
+  },
+  {
+    "rate": 16822,
+    "buy": 16802,
+    "sell": 16842,
+    "date": "2026-03-02",
+    "dateDisplay": "2 Maret 2026",
+    "source": "BCA e-Rate"
+  }
+]
