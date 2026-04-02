@@ -12,19 +12,19 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ## 🕐 Latest BCA E-Rate
 
-**Update Time:** 1 April 2026 09:00 WIB
+**Update Time:** 2 April 2026 09:00 WIB
 
 | Rate Type  | Beli (Buy)   | Jual (Sell)  | Spread  |
 | ---------- | ------------ | ------------ | ------- |
-| **e-Rate** | Rp 16.915,00 | Rp 17.015,00 | 100 pts |
-| TT Counter | Rp 16.830,00 | Rp 17.130,00 | 300 pts |
-| Bank Notes | Rp 16.830,00 | Rp 17.130,00 | 300 pts |
+| **e-Rate** | Rp 16.925,00 | Rp 17.005,00 | 80 pts  |
+| TT Counter | Rp 16.795,00 | Rp 17.095,00 | 300 pts |
+| Bank Notes | Rp 16.795,00 | Rp 17.095,00 | 300 pts |
 
 ### 🔸 Key Metrics
 
 - **Mid-Rate:** Rp 16.965,00
-- **Spread:** 100 IDR points (0.59%)
-- **Daily Change:** -25 pts (IDR strengthening)
+- **Spread:** 80 IDR points (0.47%)
+- **Daily Change:** 0 pts (stable)
 - **Rate Type:** e-Rate (e-Banking rates)
 
 ---
@@ -33,24 +33,24 @@ Real-time USD/IDR exchange rate tracking with BCA E-Rate data and market analysi
 
 ### Current Market Position
 
-The USD/IDR rate at **Rp 16.965** (mid-rate) shows a **25-point IDR appreciation** from yesterday's Rp 16.990, indicating modest IDR strengthening in today's session. The 100-point spread on e-Rate reflects:
+The USD/IDR rate at **Rp 16.965** (mid-rate) remains **unchanged** from yesterday, indicating market stability in today's session. The tighter 80-point spread on e-Rate reflects:
 
-- **Moderate market conditions** with normal spreads
-- **Low to moderate volatility** environment
-- **Slight IDR favor** in today's pricing
-- **Standard transaction costs** for traders and businesses
+- **Stable market conditions** with compressed spreads
+- **Low volatility** environment
+- **Balanced supply-demand dynamics**
+- **Reduced transaction costs** for traders and businesses
 
 ### Historical Context
 
 Based on 30-day tracking data:
 
-- **30-Day Average:** Rp 16.930
+- **30-Day Average:** Rp 16.956
 - **30-Day High:** Rp 16.990 (March 31, 2026)
 - **30-Day Low:** Rp 16.800 (March 26, 2026)
-- **Current Position:** Rp 16.965 (above average by 35 pts)
+- **Current Position:** Rp 16.965 (near average, just 9 pts above)
 - **Rate Range:** 190 points (16.800 - 16.990)
 
-The current rate sits comfortably within the recent consolidation range, closer to the upper quartile but below the 30-day peak.
+The current rate sits comfortably within the recent consolidation range, hovering around the 30-day average, suggesting equilibrium in the market.
 
 ### Rate Comparison Context
 
@@ -66,15 +66,15 @@ The current rate sits comfortably within the recent consolidation range, closer 
 
 ### 🟢 Bullish Signals (USD strengthening potential)
 
-- Rate still above 30-day average (16.965 vs 16.930)
-- Testing resistance near 16.980-17.000 zone
+- Rate hovering above 30-day average (16.965 vs 16.956)
+- Recent uptrend from mid-March lows
 - Global dollar maintaining strength
-- Market positioning suggests room for USD upside
+- Market positioning suggests potential for further USD gains
 
 ### 🔴 Bearish Signals (IDR strength factors)
 
-- **25-point IDR appreciation** from yesterday
-- Rate below recent peak of 16.990
+- **Stable rate** with no change from yesterday
+- Tighter spread (80 pts) indicating reduced volatility
 - Indonesian fundamentals remain supportive
 - Foreign investment flows continue steady
 - BI maintaining appropriate policy stance
@@ -84,19 +84,19 @@ The current rate sits comfortably within the recent consolidation range, closer 
 ## 📅 Daily Outlook
 
 **Session:** Jakarta Morning (09:00 WIB)
-**Volatility:** Low to Moderate
+**Volatility:** Low
 **Key Levels to Watch:**
 
-- Resistance: Rp 17.080
-- Support: Rp 16.900
+- Resistance: Rp 17.050 - Rp 17.100
+- Support: Rp 16.900 - Rp 16.920
 - Pivot Point: Rp 16.965
 
 ### Expected Range
 
 ```
-Low:  Rp 16.920 - Rp 16.960
-Mid:  Rp 16.970 - Rp 17.030
-High:  Rp 17.060 - Rp 17.120
+Low:  Rp 16.920 - Rp 16.950
+Mid:  Rp 16.960 - Rp 17.000
+High:  Rp 17.020 - Rp 17.080
 ```
 
 ---
@@ -111,10 +111,10 @@ High:  Rp 17.060 - Rp 17.120
 
 ### For Business
 
-- **Hedge strategy:** Consider partial forward contracts near 16.965
+- **Hedge strategy:** Consider stable-rate contracts near 16.965
 - **Timing:** Monitor US macroeconomic releases (typically 20:30-23:00 WIB)
 - **Bulk transactions:** Use TT Counter for better rates on large amounts
-- **Spread awareness:** 100-point e-Rate spread is moderate; shop around
+- **Spread awareness:** 80-point e-Rate spread is tight; good for frequent transactions
 
 ---
 
@@ -144,28 +144,29 @@ High:  Rp 17.060 - Rp 17.120
     fill="none"
     stroke="#088395"
     stroke-width="2"
-    points="50,197.3684210526316 150,250 250,139.4736842105263 350,60.5263157894737 450,60.5263157894737 550,71.05263157894737 650,50 750,76.31578947368419"
+    points="50,240 137.5,263.15789473684214 225,184.21052631578945 312.5,47.36842105263158 400,47.36842105263158 487.5,63.15789473684214 575,26.31578947368421 662.5,110.52631578947368 750,110.52631578947368"
   />
 
   <!-- Data points -->
-  <circle cx="50" cy="197.3684210526316" r="4" fill="#088395" />
-  <circle cx="150" cy="250" r="4" fill="#088395" />
-  <circle cx="250" cy="139.4736842105263" r="4" fill="#088395" />
-  <circle cx="350" cy="60.5263157894737" r="4" fill="#088395" />
-  <circle cx="450" cy="60.5263157894737" r="4" fill="#088395" />
-  <circle cx="550" cy="71.05263157894737" r="4" fill="#088395" />
-  <circle cx="650" cy="50" r="4" fill="#088395" />
-  <circle cx="750" cy="76.31578947368419" r="4" fill="#088395" />
+  <circle cx="50" cy="240" r="4" fill="#088395" />
+  <circle cx="137.5" cy="263.15789473684214" r="4" fill="#088395" />
+  <circle cx="225" cy="184.21052631578945" r="4" fill="#088395" />
+  <circle cx="312.5" cy="47.36842105263158" r="4" fill="#088395" />
+  <circle cx="400" cy="47.36842105263158" r="4" fill="#088395" />
+  <circle cx="487.5" cy="63.15789473684214" r="4" fill="#088395" />
+  <circle cx="575" cy="26.31578947368421" r="4" fill="#088395" />
+  <circle cx="662.5" cy="110.52631578947368" r="4" fill="#088395" />
+  <circle cx="750" cy="110.52631578947368" r="4" fill="#088395" />
 
   <!-- Latest point highlight -->
-  <circle cx="750" cy="76.31578947368419" r="6" fill="#ef4444" />
-  <text x="740" y="66.31578947368419" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
+  <circle cx="750" cy="110.52631578947368" r="6" fill="#ef4444" />
+  <text x="740" y="100.52631578947368" font-family="Arial" font-size="12" font-weight="bold" fill="#ef4444">
     16965.00
   </text>
 
   <!-- X-axis label -->
   <text x="400" y="295" text-anchor="middle" font-family="Arial" font-size="12" fill="#64748b">
-    Last 30 Days (8 data points)
+    Last 30 Days (9 data points)
   </text>
 </svg>
 
@@ -177,19 +178,19 @@ Tracking 30-day historical USD/IDR mid-rate data with technical indicators.
 
 ### Simple Moving Average (SMA)
 
-- **20-day SMA trend:** Neutral to slightly bullish
-- **50-day SMA trend:** Neutral
-- **200-day SMA trend:** Long-term stability
+- **7-day SMA trend:** Neutral, price consolidation
+- **14-day SMA trend:** Slightly bullish, uptrend from mid-March
+- **30-day SMA trend:** Neutral, price near average
 
 ### Support & Resistance Zones
 
 - **Strong Support:** Rp 16.800 - Rp 16.900
-- **Key Resistance:** Rp 17.080 - Rp 17.150
+- **Key Resistance:** Rp 17.050 - Rp 17.100
 - **Breakout Zone:** Above Rp 17.200
 
 ### Volume Analysis
 
-Based on spread patterns, market liquidity appears adequate. The 100-point spread on e-Rate suggests normal trading conditions with no unusual market stress.
+Based on spread patterns, market liquidity appears adequate. The reduced 80-point spread on e-Rate (down from 100 pts) indicates improved market conditions and lower volatility.
 
 ---
 
@@ -219,7 +220,7 @@ Based on spread patterns, market liquidity appears adequate. The 100-point sprea
 
 **Data Source:** BCA E-Rate (Bank Central Asia)
 **Update Frequency:** Real-time (08:00-15:00 WIB)
-**Last Verified:** 1 April 2026 09:00 WIB
+**Last Verified:** 2 April 2026 09:00 WIB
 **Methodology:** e-Rate scraping + technical analysis + historical tracking
 
 ---
@@ -228,8 +229,8 @@ Based on spread patterns, market liquidity appears adequate. The 100-point sprea
 
 ### High Priority
 
-- **Rate movement alert:** 25-point IDR strengthening from yesterday
-- **Spread alert:** Moderate 100-point spread (within normal range)
+- **Rate stability:** No change from yesterday (market equilibrium)
+- **Spread improvement:** 80-point spread (down from 100 pts) indicates lower volatility
 
 ### Monitor
 
@@ -240,7 +241,7 @@ Based on spread patterns, market liquidity appears adequate. The 100-point sprea
 
 ---
 
-_Last updated: 1 April 2026 09:00 WIB_
+_Last updated: 2 April 2026 09:00 WIB_
 _Next scheduled update: Tomorrow 08:00 WIB_
 _Auto-generated by Pintar AI Assistant 🤖_
 
