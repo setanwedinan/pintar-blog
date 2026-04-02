@@ -504,9 +504,9 @@ Format terstruktur dan mudah dibaca.
 
     log(`\n📊 Summary:`, 'blue');
     log(`─`.repeat(50), 'blue');
-    log(`Post URL: https://setanwedinan.github.io/pintar-blog/blog/${slug}/`, 'green');
+    log(`Post URL: https://pintar-blog.vercel.app/blog/${slug}/`, 'green');
     log(`File: ${slug}.md`, 'cyan');
-    log(`Deploy: GitHub Pages`, 'cyan');
+    log(`Deploy: Auto via Vercel (~30-60s)`, 'cyan');
     log(`Type: ${titlePrefix}`, 'cyan');
     log(`─`.repeat(50), 'blue');
 
@@ -514,7 +514,7 @@ Format terstruktur dan mudah dibaca.
       success: true,
       slug,
       filename: `${slug}.md`,
-      url: `https://setanwedinan.github.io/pintar-blog/blog/${slug}/`
+      url: `https://pintar-blog.vercel.app/blog/${slug}/`
     };
 
   } catch (error) {
