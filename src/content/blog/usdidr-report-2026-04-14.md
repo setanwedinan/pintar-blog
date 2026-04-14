@@ -9,54 +9,62 @@ tags: ["Daily Report", "USDIDR", "Market Analysis"]
 
 ### 1. Ringkasan Perubahan Hari Ini
 
-Kurs USD/IDR berdasarkan BCA E-Rate per 14 April 2026 (08:00 WIB) tercatat di level **Rp17.070 – Rp17.170**, dengan mid-rate di **Rp17.120**. Dibandingkan penutupan pekan lalu di kisaran Rp17.095 (data Frankfurter, 10 April), rupiah tercatat **melemah** sekitar Rp25–93 poin, atau setara kenaikan 0,15–0,54% di sisi USD/IDR.
-
-Secara mingguan (7–13 April), USD/IDR bergerak dalam range Rp16.976 – Rp17.188 dengan rata-rata di Rp17.050. Kenaikan terjadi terutama pada awal pekan ini setelah libur panjang akhir pekan, menandakan adanya tekanan jual yang tertunda terhadap rupiah.
+Kurs USD/IDR bergerak naik tipis ke level Rp17.130 dari penutupan sebelumnya Rp17.117, menguat sekitar 13 poin atau +0,08% pada perdagangan Selasa (14/4). Berdasarkan data BCA E-Rate per 11:17 WIB, kurs beli tercatat Rp17.123 dan kurs jual Rp17.143 dengan spread yang relatif stabil di sekitar Rp20. Sementara itu, Dolar Index (DXY) terpantau sedikit melemah di level 98,33 (-0,03%), menandakan bahwa penguatan USD/IDR hari ini lebih didorong oleh sentimen regional yang lemah terhadap emerging market currencies ketimbang kekuatan dolar AS secara broad-based. Dengan kenaikan tipis ini, **rupiah sedikit melemah** terhadap dolar AS, meskipun tekanannya tergolong moderat dibandingkan mata uang emerging market lainnya.
 
 ### 2. Diagnosis Struktur Pasar
 
-**Data Dasar USD/IDR:** Berdasarkan BCA E-Rate tanggal 14 April 2026 pukul 08:00 WIB, rate beli bank berada di Rp17.070 dan rate jual di Rp17.170. Spread beli-jual sebesar Rp100 masih dalam batas normal untuk transaksi e-rate perbankan. Data historis Frankfurter (13 April) menunjukkan level Rp17.188, sedikit di atas mid-rate BCA, mengindikasikan pasar spot internasional sedikit lebih lemah dibandingkan penawaran bank domestik.
+**Data Dasar USD/IDR:** Sumber: BCA E-Rate (14 Apr 2026, 11:17 WIB) — Beli Rp17.123 / Jual Rp17.143. Mid-rate Rp17.133. Yahoo Finance mengkonfirmasi level Rp17.130 (+0,08%), dengan previous close Rp17.117 dan range harian Rp17.117 – Rp17.130.
 
-**Pergerakan Mingguan:** USD/IDR menguat 0,69% secara mingguan (+118 IDR dari Rp17.070 ke Rp17.188). Rupiah sempat menyentuh titik terkuat di Rp16.976 pada 8 April sebelum tertekan kembali. Secara bulanan, range pergerakan USD/IDR di April 2026 berada di Rp16.914 – Rp17.188, dengan rata-rata Rp17.050. Pergerakan ini masih tergolong sideways namun dengan bias ke atas (bearish untuk rupiah).
+**Pergerakan Mingguan:** USD/IDR menunjukkan tren naik konsisten sepanjang minggu ini. Dari pembukaan Rp17.015 pada Senin (7/4), kurs telah menguat sekitar 115 poin atau +0,68% menuju Rp17.130. Pergerakan terbesar terjadi pada hari Senin (13/4) ketika USD/IDR menyentuh level Rp17.182 — rekor tertinggi dalam 52 minggu. Meski koreksi teknikal terjadi setelahnya, struktur tren mingguan tetap bullish dengan higher highs dan higher lows. Support mingguan di sekitar Rp16.930–17.000, sementara resistance psikologis kini berada di Rp17.200.
 
-**DXY & USD Strength:** Indeks Dolar AS (DXY) diperkirakan berada di kisaran **102,54**, naik dari ~102,29 pada 10 April (+0,24 mingguan). Penguatan moderat dolar AS ini berkontribusi terhadap pelemahan mayoritas mata uang emerging market, termasuk rupiah. Kenaikan DXY sekitar 0,25 poin dalam tiga hari perdagangan terakhir menunjukkan risk-off yang ringan di pasar global.
+**DXY & USD Strength:** Dolar Index bergerak sideways di level 98,33, sedikit di bawah penutupan sebelumnya 98,37. Pergerakan DXY yang relatif datar menunjukkan kekuatan dolar AS hari ini terbatas. Euro bertahan di $1,1761 (+0,03%), yen menguat tipis ke 159,3 per dollar (+0,08%), dan sterling sedikit naik ke $1,3508. Ketidakmampuan DXY untuk rally signifikan meski ada eskalasi geopolitik di Selat Hormuz menandakan pasar masih menimbang prospek negosiasi Washington-Tehran yang dilaporkan masih berlanjut.
 
-**Perbandingan Regional:** Dolar AS menguat terhadap seluruh mata uang Asia utama dalam tiga hari perdagangan terakhir:
+**Perbandingan Regional:** Mata uang Asia mengalami tekanan yang bervariasi. Yen Jepang menguat tipis (+0,08%) ke 159,3 di tengah penurunan ekspektasi kenaikan suku bunga BOJ bulan ini menjadi 40% dari 57%. Yuan China sedikit melemah terhadap dolar (+0,19%). Di emerging market Asia, tekanan lebih terasa — Rand Afrika Selatan dan Rupee India masing-masing turun sekitar 0,7%, sementara MSCI EM Index turun 0,8%. Dibandingkan rekan-rekan regionalnya, rupiah tergolong cukup resiliens dengan pelemahan hanya 0,08%.
 
-| Mata Uang | 10 Apr | 13 Apr | Perubahan |
-|-----------|--------|--------|-----------|
-| USD/JPY | 159,19 | 159,83 | +0,40% |
-| USD/CNY | 6,8284 | 6,8322 | +0,06% |
-| USD/SGD | 1,2739 | 1,2763 | +0,19% |
-| USD/THB | 32,10 | 32,29 | +0,59% |
-| USD/MYR | 3,965 | 3,975 | +0,25% |
-| USD/KRW | 1.483,27 | 1.489,95 | +0,45% |
-| **USD/IDR** | **17.095** | **17.188** | **+0,54%** |
-
-Rupiah berada di posisi tengah-tengah dalam performa regional — lebih lemah dari yuan yang relatif stabil berkat intervensi PBOC, namun lebih baik dibandingkan baht Thailand yang tertekan paling berat (-0,59%). Ini menunjukkan bahwa pelemahan rupiah sebagian besar bersifat global (dolar strength) dan bukan spesifik terhadap Indonesia.
-
-**Alokasi Modal Asing:** Data aliran modal asing terbaru dari Indonesia belum tersedia pada saat pelaporan ini. Namun, mengingat konteks global yang risk-on/off moderat dan penguatan dolar, kemungkinan terjadi outflow kecil dari pasar obligasi dan saham Indonesia dalam pekan ini. Investor asing cenderung menunggu kejelasan lebih lanjut mengenai kebijakan suku bunga The Fed sebelum melakukan positioning besar di emerging market.
+**Alokasi Modal Asing:** Sentimen terhadap aset emerging market hari ini cenderung negatif. MSCI EM equity index turun 0,8%, dengan saham teknologi seperti Samsung Electronics dan Tencent Holdings menyumbang kelemahan. Kenaikan harga minyak kembali di atas $100 per barel meningkatkan kekhawatiran inflasi dan memicu outflow dari emerging market bonds dan equities. Meski demikian, penurunan EM index masih di atas level pra-gencatan senjata minggu lalu, mengindikasikan investor belum sepenuhnya panic selling.
 
 ### 3. Tingkat Risiko
 
-**Moderate** — Tekanan terhadap rupiah tergolong moderat dengan beberapa catatan:
+**Moderat.** Tekanan pada USD/IDR hari ini tergolong moderat dan terkendali. Meskipun terdapat eskalasi geopolitik signifikan berupa blokade AS terhadap kapal-kapal Iran di Selat Hormuz, pasar telah menghargai sebagian risiko ini pada minggu lalu ketika USD/IDR menyentuh rekor 52 minggu. Faktor-faktor yang membatasi risiko meliputi: (1) negosiasi AS-Iran dilaporkan masih aktif, (2) DXY tidak rally agresif, (3) komoditas ekspor Indonesia seperti batu bara berpotensi mendapat tailwind dari harga energi yang tinggi, dan (4) Bank Indonesia diperkirakan masih memiliki buffer intervensi yang memadai. Namun, risiko ketidakpastian tinggi karena situasi geopolitik masih sangat cair.
 
-- **Sisi positif:** Pergerakan USD/IDR masih terkendali di bawah Rp17.200, spread e-rate normal, dan performa rupiah sejalan (bukan lebih buruk) dengan regional peers.
-- **Sisi negatif:** DXY menunjukkan tren penguatan yang konsisten dalam tiga hari terakhir, USD/IDR menembus resistance Rp17.100, dan monthly high tercapai di Rp17.188.
-- **Area kritis:** Breakdown di atas Rp17.250–17.300 bisa memicu aksi jual lebih lanjut. Support penting berada di Rp16.914 (monthly low) dan Rp16.976 (weekly low).
+### 4. Analisis Arah Hari Ini
 
-### 4. Analisis & Outlook
+**Bearish Rupiah (Sedikit).** USD/IDR berpotensi terus menguat moderat, meski ruang kenaikan terbatas mengingat level Rp17.182 sudah dicapai kemarin dan koreksi teknis sedang berlangsung.
 
-**Jangka pendek (1–2 minggu):** USD/IDR berpotensi bergerak di range Rp17.000 – Rp17.300. Penguatan dolar AS yang moderat kemungkinan akan berlanjut seiring ekspektasi pasar terhadap kebijakan The Fed. Absennya katalis positif domestik yang signifikan membuat rupiah rentan mengikuti sentimen global.
+**Ruang Pergerakan:** Rp17.050 – Rp17.200. Support kuat di Rp17.000 (psikologis) dan Rp16.930 (low 8-9 April). Resistance di Rp17.182 (52-week high kemarin) dan Rp17.200 (psikologis).
 
-**Faktor yang perlu dipantau:**
-1. **Kebijakan The Fed** — komunikasi terbaru terkait timing pemangkasan suku bunga masih menjadi penggerak utama dolar AS.
-2. **Data ekonomi Indonesia** — data inflasi dan perdagangan bulanan akan memberikan gambaran fundamental rupiah.
-3. **Harga komoditas** — sebagai ekonomi berbasis komoditas, pergerakan harga CPO, batu bara, dan nikel tetap menjadi penopang fundamental rupiah.
-4. **BI rate decision** — suku bunga acuan Bank Indonesia yang masih relatif tinggi memberikan buffer yang cukup untuk menahan tekanan terhadap rupiah.
+**Sentimen Pasar:** Sentimen hari ini dicirikan oleh risk-off moderat di emerging market Asia akibat blokade Selat Hormuz, namun dibatasi oleh ekspektasi bahwa negosiasi AS-Iran akan berlanjut. Faktor-faktor yang mendukung sentimen: harga emas yang tinggi di $4.790 (+0,49%), yield US Treasury 10Y yang sedikit turun ke 4,297% (-0,46%), dan VIX yang relatif stabil di 19,12. Di sisi domestik, Bank Indonesia diperkirakan mempertahankan stance hawkish, sementara harga komoditas ekspor Indonesia (batu bara, nikel) mendapat dukungan dari harga energi global yang tinggi.
 
-**Rekomendasi:** Pelaku pasar sebaiknya mempertahankan strategi hedging untuk eksposur USD dalam jangka pendek mengingat bias pelemahan rupiah. Namun, level saat ini belum memasuki zona krisis — pergerakan masih wajar dalam konteks dinamika pasar valuta asing regional.
+**Katalis Naik (Rupiah Melemah):**
+- Pecahnya negosiasi AS-Iran yang memicu eskalasi militer lebih lanjut di Teluk Persia
+- Kenaikan harga minyak tajam di atas $105/barel yang meningkatkan defisit neraca transaksi berjalan Indonesia
+- Risk aversion global yang mendorong capital outflow dari emerging market bonds
+- Penurunan harga komoditas ekspor Indonesia (CPO, nikel, batu bara)
+- Kebijakan proteksionis AS tambahan yang memukul mata uang berkembang
 
----
+**Katalis Turun (Rupiah Menguat):**
+- Tercapainya gencatan senjata permanen atau kesepakatan damai AS-Iran
+- Koreksi harga minyak kembali di bawah $90/barel
+- Inflow modal asing ke pasar obligasi Indonesia yang menarik oleh yield tinggi
+- Stabilisasi atau kenaikan harga komoditas (CPO, nikel, batu bara)
+- Sinyal dovish dari Federal Reserve
 
-*Sumber data: BCA E-Rate (14 Apr 2026), Frankfurter API, perhitungan DXY approximate dari komponen kurs mata uang utama. Laporan ini bersifat informatif dan bukan merupakan rekomendasi investasi.*
+**Skenario Terburuk/Terbaik Hari Ini:**
+- **Terburuk:** Negosiasi AS-Iran runtuh total, blokade diperluas, minyak melesat di atas $105 → USD/IDR bisa menembus Rp17.250–17.300
+- **Terbaik:** AS dan Iran menyepakati gencatan senjata baru atau jalan keluar diplomatik, harga minyak turun tajam → USD/IDR bisa koreksi ke Rp17.000–17.050
+
+### 5. Analisis & Outlook
+
+Outlook jangka pendek USD/IDR masih cenderung bullish (rupiah tertekan) sepanjang ketegangan geopolitik di Selat Hormuz belum mereda. Namun, momentum kenaikan kemungkinan akan melambat setelah rekor 52 minggu Rp17.182 tercapai pada Senin (13/4) dan pasar menunggu clearer direction dari negosiasi Washington-Tehran.
+
+Beberapa catatan penting untuk outlook:
+
+1. **Geopolitik sebagai driver utama:** Selat Hormuz menyumbang sekitar 20% pasokan minyak dunia. Blokade AS terhadap kapal Iran berisiko menganggu pasokan global dan menekan current account negara-negara importir energi. Indonesia, meski net importir minyak mentah, sebenarnya merupakan eksportir bersih energi (batu bara, LNG), sehingga dampaknya bersifat netral hingga sedikit positif dari sisi neraca perdagangan.
+
+2. **DXY tidak mendukung rally dolar agresif:** Level DXY 98,33 menunjukkan dolar AS tidak dalam momentum kuat. Treasury yield 10Y yang sedikit turun ke 4,297% juga mengurangi carry appeal dolar. Ini membatasi upside USD/IDR.
+
+3. **BI rate sebagai jangkar:** Bank Indonesia diperkirakan akan mempertahankan suku bunga acuan di level yang cukup tinggi untuk menjaga stabilitas rupiah dan menarik modal asing. Differensi suku bunga yang masih lebar dengan AS memberikan buffer bagi rupiah.
+
+4. **Level teknikal kunci:** Resistance psikologis Rp17.200 dan 52-week high Rp17.182 menjadi batas atas yang signifikan. Jika tembus, area Rp17.250-17.300 menjadi target berikutnya. Support utama di Rp17.000 dan Rp16.930.
+
+**Rekomendasi:** Pelaku pasar disarankan untuk mengambil stance defensif dengan memperhatikan secara ketat perkembangan negosiasi AS-Iran. Importir dapat melakukan hedging parsial untuk kebutuhan dolar jangka pendek, sementara eksporir dapat memanfaatkan level yang relatif tinggi untuk melakukan konversi dolar. Volatilitas yang tinggi diperkirakan akan berlanjut hingga ada kejelasan geopolitik yang lebih kuat.
