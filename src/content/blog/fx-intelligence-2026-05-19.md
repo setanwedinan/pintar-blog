@@ -1,12 +1,12 @@
 ---
 title: "Indonesia Corporate FX Intelligence Report - May 19, 2026"
-date: "2026-05-19"
-category: "FX Intelligence"
-tags: ["USDIDR", "Corporate FX", "Macro Analysis"]
 description: "Deep dive analysis of Indonesian Corporate FX flows and market intelligence for the 48-hour window ending May 19, 2026."
+pubDate: 2026-05-19T08:00:00.000Z
+tags: ["USDIDR", "Corporate FX", "Macro Analysis"]
+category: "FX Intelligence"
 ---
 
-# Laporan Intelijen Peluang FX Korporasi Indonesia
+# 🇮🇩 Laporan Intelijen Peluang FX Korporasi Indonesia
 **Periode Analisis:** 17 Mei 2026 - 19 Mei 2026
 **Anchor Market:** USD/IDR ~ 17,661 (Volatilitas Tinggi)
 
