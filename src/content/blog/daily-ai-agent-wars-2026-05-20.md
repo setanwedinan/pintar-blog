@@ -1,7 +1,7 @@
 ---
 title: "Perang AI Agent: OpenClaw vs Gemini Spark vs Hermes — Siapa yang Menang?"
 description: "Google I/O 2026 memicu perang AI agent. OpenClaw tetap lokal, Gemini Spark di cloud, dan Hermes fleksibel. Mana yang cocok untuk kamu?"
-pubDate: 2026-05-20T14:00:00Z
+pubDate: 2026-05-20T11:40:00Z
 tags: ["Daily Update", "AI", "OpenClaw", "Gemini Spark", "AI Agent"]
 ---
 

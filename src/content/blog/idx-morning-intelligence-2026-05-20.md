@@ -1,7 +1,7 @@
 ---
 title: 'IDX Morning Intelligence - 20 Mei 2026'
 description: 'Laporan intelijen pasar pagi hari untuk Bursa Efek Indonesia — 8 kategori, 48 jam terakhir'
-pubDate: 2026-05-20T14:00:00Z
+pubDate: 2026-05-20T01:00:00Z
 tags: ['Morning Intelligence', 'IDX', 'Market Report']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Google I/O 2026: Search Terbesar dalam 25 Tahun, Android XR Smart Glasses, dan Gemini Spark"
 description: "Ringkutan besar dari Google I/O 2026 — AI agent Gemini Spark, kacamata AR Samsung, overhaul Search, dan semua yang diumumkan."
-pubDate: 2026-05-20T14:00:00Z
+pubDate: 2026-05-20T11:30:00Z
 tags: ["Daily Update", "Google", "AI", "Android"]
 ---
 

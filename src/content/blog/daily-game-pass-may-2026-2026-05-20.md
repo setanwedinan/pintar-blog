@@ -1,7 +1,7 @@
 ---
 title: "Xbox Game Pass Mei 2026: Forza Horizon 6, Subnautica 2, dan 13 Game Baru"
 description: "Wave 2 Game Pass Mei 2026 hadir dengan Forza Horizon 6, Remnant II, Final Fantasy VI, dan Subnautica 2 yang pecahkan rekor pemain."
-pubDate: 2026-05-20T14:00:00Z
+pubDate: 2026-05-20T11:50:00Z
 tags: ["Daily Update", "Gaming", "Xbox", "Game Pass"]
 ---
 
