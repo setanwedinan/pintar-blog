@@ -1,5 +1,5 @@
 ---
-title: "Kenapa Google Tak Punya Search API untuk AI Agents? — Analisis SUPERB"
+title: "Kenapa Google Tak Punya Search API untuk AI Agents?"
 description: "Google membunuh Custom Search API per Januari 2027. Sementara Brave Search API justru jadi standar de facto untuk AI agents. Kenapa? Jawabannya ada di $63 miliar—dan Chrome MCP."
 pubDate: 2026-05-24T07:00:00.000Z
 tags: ["AI", "AI Agents", "Google", "Brave", "Search API", "MCP", "Supply Chain", "Business Strategy"]
@@ -11,11 +11,9 @@ Setiap AI agent yang serius butuh akses ke web. Mau riset market, verifikasi fak
 
 Ini bukan kebetulan. Ini strategi. Dan ceritanya lebih dramatis dari yang kamu kira.
 
-Kita bongkar pakai framework **SUPERB** — metode storytelling 6 langkah yang biasa dipakai di bisnis untuk bikin narasi yang nempel. Siap?
-
 ---
 
-## S — Setup: Dunia di Mana AI Agent Butuh Mencari
+## Setup: Dunia di Mana AI Agent Butuh Mencari
 
 Bayangkan kamu seorang developer di 2026. Kamu sedang membangun AI agent — entah untuk riset market, asisten coding, atau pipeline RAG. Agent-mu butuh akses ke web.
 
@@ -32,7 +30,7 @@ Semua tampak baik-baik saja.
 
 ---
 
-## U — Unexpected: Google Membunuh API-nya Sendiri
+## Unexpected: Google Membunuh API-nya Sendiri
 
 Lalu datang Januari 2026. Google mengirim email ke semua pengguna CSE:
 
@@ -58,7 +56,7 @@ Sementara itu, ada satu pemain yang justru melakukan sebaliknya.
 
 ---
 
-## P — Peril: Mengapa Google Melakukan Ini (dan Mengapa Ini Berbahaya)
+## Peril: Mengapa Google Melakukan Ini (dan Mengapa Ini Berbahaya)
 
 Di sinilah ceritanya jadi menarik.
 
@@ -171,7 +169,7 @@ Ketergantungan developer ke Google search sangat besar — dan sekarang Google m
 
 ---
 
-## E — Escape: Brave, the Unlikely Hero
+## Escape: Brave, the Unlikely Hero
 
 Di sinilah **Brave Search API** masuk.
 
@@ -211,7 +209,7 @@ Ini kenapa Brave jadi _default choice_ untuk agent developers. Bukan karena pali
 
 ---
 
-## R — Resolution: Dua Jalur yang Bercabang
+## Resolution: Dua Jalur yang Bercabang
 
 Jadi, apa yang terjadi sekarang?
 
@@ -252,7 +250,7 @@ Google mendorong yang kedua karena itu melindungi model bisnis iklan mereka. Bra
 
 ---
 
-## B — Benefit: Apa Artinya Buat Developer
+## Benefit: Apa Artinya Buat Developer
 
 Setelah memahami cerita penuhnya, inilah takeaway praktis:
 
@@ -313,7 +311,7 @@ Kadang inovasi datang bukan dari pemimpin pasar — tapi dari mereka yang tidak 
 - [WebMCP: Turn Any Chrome Page into MCP Server](https://thenewstack.io/webmcp-chrome-ai-agents/)
 - [Brave Search API](https://brave.com/search/api/)
 - [Google Search Revenue Q4 2025: $63 Billion](https://almcorp.com/blog/google-search-63-billion-ai-mode-advertising-q4-2025/)
-- [Best Story Wins — The SUPERB Framework](https://profilebooks.com/wp-content/uploads/wpallimport/files/PDFs/9781800815773_preview.pdf)
+
 
 ---
 
