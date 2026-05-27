@@ -414,7 +414,7 @@ hr {
 .tag {
   font-size: 0.75rem;
   padding: 0.25rem 0.75rem;
-  background: var(--accent-light);
+  background: rgba(77, 184, 204, 0.2);
   color: var(--accent);
   border-radius: 100px;
   font-weight: 600;
