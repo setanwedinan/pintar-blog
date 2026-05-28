@@ -1,6 +1,6 @@
 ---
 title: 'Xbox Showcase "Bocor" via Game Pass, The Witcher 3 Dapat Expansion Baru, dan Resident Evil Requiem Demo Tersedia'
-description: 'Daftar "Coming Soon" Game Pass diduga membocorkan lineup Xbox Showcase, CD Projekt umumkan ekspansi baru The Witcher 3, demo Resident Evil Requiem sudah bisa dimainkan, dan No Man's Sky dapat update gratis The Swarm.'
+description: 'Daftar "Coming Soon" Game Pass diduga membocorkan lineup Xbox Showcase, CD Projekt umumkan ekspansi baru The Witcher 3, demo Resident Evil Requiem sudah bisa dimainkan, dan No Man''s Sky dapat update gratis The Swarm.'
 pubDate: 2026-05-28T11:50:00Z
 tags: ['Daily Update', 'Gaming', 'Xbox', 'Game Pass']
 ---
