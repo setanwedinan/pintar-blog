@@ -1,7 +1,7 @@
 ---
 title: 'Paradoks Hatchback: Mati Suri karena SUV, Dihidupkan Lagi oleh Mobil Listrik'
 description: 'Hatchback yang sempat dianggap punah di Indonesia kini bangkit kembali — bukan karena Jazz atau Yaris, tapi karena gelombang EV. Data terbaru sampai April 2026.'
-pubDate: 2026-05-29T16:45:00Z
+pubDate: 2026-05-29T09:47:00Z
 tags: ['Otomotif', 'Mobil Listrik', 'EV', 'Analisis', 'Indonesia']
 ---
 
