@@ -1,8 +1,8 @@
 ---
-title: "Google Kumpulkan $80 Miliar untuk Infrastruktur AI, Anthropic File IPO, dan WWDC 2026 Semakin Dekat"
-description: "Google galang dana raksasa $80 miliar, Anthropic resmi file IPO, Apple tease WWDC dengan tagline "All Systems Glow", dan NVIDIA RTX Spark tantang dominasi Apple Silicon."
+title: 'Google Kumpulkan $80 Miliar untuk Infrastruktur AI, Anthropic File IPO, dan WWDC 2026 Semakin Dekat'
+description: "Google galang dana raksasa $80 miliar, Anthropic resmi file IPO, Apple tease WWDC dengan tagline 'All Systems Glow', dan NVIDIA RTX Spark tantang dominasi Apple Silicon."
 pubDate: 2026-06-02T11:30:00Z
-tags: ["Daily Update", "Tech", "AI", "Google", "Apple"]
+tags: ['Daily Update', 'Tech', 'AI', 'Google', 'Apple']
 ---
 
 ## 🔥 Google Galang $80 Miliar demi AI Infrastructure
