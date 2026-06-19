@@ -1,8 +1,8 @@
 ---
-title: AC Milan Daily — 19 Juni 2026: Kritik untuk Ibrahimovic Jadi Sorotan, Tiga Nama Baru untuk Direktur, dan Leao Mulai Gesekan dengan Amorim
-description: Ibrahimovic dapat kritik dari suporter Milan dan media Amerika karena perannya sebagai pundit TV di Piala Dunia. Tiga kandidat direktur baru muncul: Ozek, Boto, dan Ayto. Biasin kritik kekacauan pendekatan Milan. Leao mulai tidak cocok dengan Amorim. Birmingham City kehilangan pemain muda ke Milan.
+title: 'AC Milan Daily — 19 Juni 2026: Kritik untuk Ibrahimovic Jadi Sorotan, Tiga Nama Baru untuk Direktur, dan Leao Mulai Gesekan dengan Amorim'
+description: 'Ibrahimovic dapat kritik dari suporter Milan dan media Amerika karena perannya sebagai pundit TV di Piala Dunia. Tiga kandidat direktur baru muncul: Ozek, Boto, dan Ayto. Biasin kritik kekacauan pendekatan Milan. Leao mulai tidak cocok dengan Amorim. Birmingham City kehilangan pemain muda ke Milan.'
 pubDate: 2026-06-19T11:40:00Z
-tags: ["Daily Update", "AC Milan", "Sepak Bola"]
+tags: ['Daily Update', 'AC Milan', 'Sepak Bola']
 ---
 
 **19 Juni 2026** — Hari ini di AC Milan, tekanan terus berdatangan untuk Zlatan Ibrahimovic, muncul nama-nama baru untuk posisi direktur, dan Ruben Amorim mulai menghadapi tantangan pertamanya di atas lapangan.
