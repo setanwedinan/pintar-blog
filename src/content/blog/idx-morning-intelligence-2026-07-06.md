@@ -1,182 +1,181 @@
 ---
-title: 'IDX Morning Intelligence - 06 Juli 2026'
-description: 'IHSG rebound 4,1% dari bottom, rupiah tembus Rp18.021 sebelum retreat ke Rp17.964, DXY stabil di 100,88'
+title: 'IDX Morning Market Intelligence — 6 Juli 2026'
+description: 'IHSG menguat 0,69% ke 5.916 di Senin (6/7), USD/IDR stabil di 17.994, DXY melemah tipis ke 100,85. Pasar Asia dibayangi data inflasi AS dan prospek kebijakan Fed. Saham big caps RI terdiskon — MDKA, TINS, AADI jadi sorotan.'
 pubDate: 2026-07-06T01:00:00Z
 tags: ['Morning Intelligence', 'IDX', 'Market Analysis']
 ---
 
-# 📊 IDX Morning Market Intelligence — 06 Juli 2026
-
-> ⚠️ **Catatan:** Bursa IDX tutup pada Sabtu-Minggu (4-5 Juli). Data IHSG terakhir dari sesi Kamis (3 Juli). Data forex dan komoditas dari pasar global yang aktif.
+# 📊 IDX Morning Market Intelligence — 6 Juli 2026
 
 ## 1. Ringkasan Eksekutif
 
-IHSG mencetak reli **+2,28%** pada sesi terakhir (3 Juli), memantul dari level terendah pekan lalu di 5.643. Dalam 4 hari perdagangan, IHSG sudah naik **4,1%** dari bottom. Rupiah sempat menyentuh Rp18.021/USD pada 2 Juli — level psikologis kritis — sebelum retreat ke Rp17.964. DXY stabil di 100,88 dengan sinyal mixed (buy harian, sell 1-jam). Emas tembus US$4.200/oz (+1,82%) sementara minyak WTI sedikit melemah di US$68,30. Wall Street futures menghijau: S&P +0,52%, Nasdaq +1,47%. Pekan ini, pasar menanti sinyal The Fed dan musim laporan kinerja emiten Q2.
+IHSG menutup perdagangan Senin (6/7) dengan penguatan solid +0,69% (+40,29 poin) ke level **5.916,07**, melanjutkan tren positif dari pekan lalu. USD/IDR stabil di **17.994** (bid 17.955 / ask 17.962), sementara DXY melemah tipis ke **100,85** (-0,01%). Wall Street ditutup menghijau pekan lalu dengan S&P 500 naik 0,72% ke 7.537 dan Nasdaq +1,12% ke 26.121, didorong data tenaga kerja AS yang lebih kuat dari ekspektasi dan optimisme kesepakatan damai AS-Iran. Pasar komoditas mencatat penguatan tipis — emas di **$4.175/oz** (+0,18%), minyak WTI **$68,79/bbl** (+0,35%), dan tembaga stabil di **$6,249/lb**. VIX turun ke 15,57 (-1,52%), mengindikasikan sentimen risk-on yang nyaman. Dari dalam negeri, perhatian tertuju pada implementasi B50 yang diproyeksikan memperkuat rupiah, perkembangan RUU PFII dengan insentif pajak 0%, valuasi saham big caps yang disebut diskon, serta momentum dividen MTEL.
 
 ## 2. Data Pasar
 
-### IHSG (Data terakhir: 3 Juli 2026)
+| Indikator | Nilai | Perubahan | Keterangan |
+|-----------|-------|-----------|------------|
+| **IHSG** | 5.916,07 | +40,29 (+0,69%) | Close 6 Juli 2026 |
+| **USD/IDR** | 17.994 | 0,00% (stabil) | Bid 17.955 / Ask 17.962 |
+| **DXY** | 100,85 | -0,01 (-0,01%) | Range: 100,85–101,14 |
+| **S&P 500** | 7.537,43 | +54,19 (+0,72%) | US markets closed |
+| **Dow Jones** | 53.055,91 | +155,84 (+0,29%) | |
+| **Nasdaq** | 26.121,16 | +288,49 (+1,12%) | |
+| **VIX** | 15,57 | -0,24 (-1,52%) | Volatilitas rendah |
 
-| Tanggal | Open  | High  | Low   | Close        | Perubahan  |
-| ------- | ----- | ----- | ----- | ------------ | ---------- |
-| 3 Jul   | 5.806 | 5.899 | 5.806 | **5.875,78** | **+2,28%** |
-| 2 Jul   | 5.710 | 5.807 | 5.705 | 5.744,56     | +0,87%     |
-| 1 Jul   | 5.641 | 5.738 | 5.607 | 5.695,12     | +0,92%     |
-| 30 Jun  | 5.801 | 5.812 | 5.639 | 5.643,19     | -3,05%     |
-| 29 Jun  | 5.932 | 5.943 | 5.800 | 5.820,79     | -1,27%     |
+### Komoditas
 
-**IHSG mingguan:** Bottom di 5.643 (30 Jun) → Rebound ke 5.876 (3 Jul). Volume perdagangan stabil di 158 juta lot pada sesi terakhir.
+| Komoditas | Harga | Perubahan |
+|-----------|-------|-----------|
+| Emas (Gold Aug'26) | $4.175,00/oz | +$7,50 (+0,18%) |
+| Minyak WTI (Aug'26) | $68,79/bbl | +$0,24 (+0,35%) |
+| Tembaga (Sep'26) | $6,249/lb | +$0,017 (+0,27%) |
+| Tembaga (USD/ton) | ~$13.776/ton | Konversi ×2.204,62 |
+| Bitcoin USD | $64.105,99 | +$525,54 (+0,83%) |
 
-### Kurs & Valas
+### Cross Rates (Yahoo Finance)
 
-| Pair                  | Nilai                     | Perubahan   |
-| --------------------- | ------------------------- | ----------- |
-| USD/IDR (Yahoo)       | 17.955                    | Flat        |
-| USD/IDR (Frankfurter) | 17.964                    | —           |
-| USD/IDR (BCA e-Rate)  | Beli 17.900 / Jual 17.990 | Spread Rp90 |
-| SGD/IDR (BCA e-Rate)  | Beli 13.774 / Jual 14.003 | —           |
-| EUR/IDR (BCA e-Rate)  | Beli 20.343 / Jual 20.703 | —           |
-| GBP/IDR (BCA e-Rate)  | Beli 23.757 / Jual 24.158 | —           |
-| JPY/IDR (BCA e-Rate)  | Beli 110 / Jual 112       | —           |
+| Pair | Rate | Perubahan |
+|------|------|-----------|
+| USD/JPY | 162,018 | -0,03% |
+| USD/CNY | 6,7953 | +0,15% |
+| USD/SGD | 1,2915 | -0,04% |
+| SGD/IDR | 13.934,22 | +0,07% |
+| EUR/IDR | 20.584,00 | +0,02% |
+| USD/MYR | 4,0820 | 0,00% |
+| USD/THB | 33,2500 | +0,03% |
 
-### USD/IDR Mingguan (Frankfurter)
+### DXY — Support & Resistance
 
-| Tanggal | USD/IDR    | Catatan                  |
-| ------- | ---------- | ------------------------ |
-| 30 Jun  | 17.903     | Level terendah pekan ini |
-| 1 Jul   | 17.961     | Naik Rp58                |
-| 2 Jul   | **18.021** | **Tembus Rp18.000!**     |
-| 3 Jul   | 17.964     | Retreat Rp57             |
+| Level | Resistance | Support |
+|-------|------------|---------|
+| R1/S1 | **100,90** | **100,82** |
+| R2/S2 | **100,94** | **100,78** |
+| R3/S3 | **100,98** | **100,74** |
+| **Signal** | 1H: **Buy** | 1D: **Buy** |
 
-### DXY (Dollar Index)
-
-| Parameter         | Nilai                    |
-| ----------------- | ------------------------ |
-| Last Trade        | **100,88**               |
-| Change            | +0,02 (+0,02%)           |
-| High / Low / Open | 100,90 / 100,83 / 100,86 |
-| MA20 (Daily)      | 100,88                   |
-| MA50 (Daily)      | 98,06                    |
-| MA100 (Daily)     | 98,45                    |
-| 5-day High / Low  | 101,41 / 100,60          |
-| R1 / R2 / R3      | 101,07 / 101,30 / 101,46 |
-| S1 / S2 / S3      | 100,68 / 100,52 / 100,29 |
-| Sinyal 1-Day      | **Buy**                  |
-| Sinyal 1-Hour     | Sell                     |
-
-### Komoditas & Aset Global
-
-| Aset            | Nilai          | Perubahan  |
-| --------------- | -------------- | ---------- |
-| Gold (Spot)     | US$4.200,90/oz | **+1,82%** |
-| WTI Crude Oil   | US$68,30/bbl   | -0,57%     |
-| Bitcoin         | US$63.663      | +0,91%     |
-| S&P 500 Futures | 7.567          | +0,52%     |
-| Nasdaq Futures  | 29.989         | **+1,47%** |
-| Dow Futures     | 53.208         | +0,05%     |
-| VIX             | 15,81          | **-2,11%** |
-
-### Cross Rates (Frankfurter)
-
-| Pair    | Rate     |
-| ------- | -------- |
-| USD/JPY | 161,15   |
-| USD/CNY | 6,78     |
-| USD/SGD | 1,2905   |
-| USD/THB | 33,135   |
-| USD/MYR | 4,071    |
-| USD/KRW | 1.531,23 |
+> MA 20: 100,94 | MA 50: 98,11 | MA 100: 98,47 (daily) — DXY masih di atas MA utama, tren positif jangka menengah.
 
 ## 3. Berita & Analisis
 
 ### 📈 Pasar Modal
 
-- **IHSG Rebound 4,1% dari Bottom** — Setelah terpuruk ke 5.643 pada 30 Juni (terendah 2 bulan), IHSG membukukan reli 4 hari berturut-turut hingga 5.876. Dipimpin oleh saham blue chip perbankan: BBCA +4,31%, BMRI menguat, dan TLKM +2,86%. Volume perdagangan terakhir 158 juta lot — cukup sehat untuk reli.
-- **6 IPO Baru di Juli 2026** — Indonesia Business Post melaporkan enam perusahaan siap melantai di BEI bulan ini, menunjukkan pasar primer tetap aktif meski volatilitas.
-- **BNBR Rights Issue Rp4,36 Triliun** — PT Bakrie & Brothers Tbk menargetkan dana segar melalui rights issue untuk ekspansi bisnis (IDNFinancials).
-- **Asing Borong Saham Bank BUMN** — CNBC Indonesia melaporkan saham BRI, BNI, dan Mandiri diincar investor asing, dengan ekspektasi dividen yang menarik.
+- **IHSG Sesi II Ditutup Menguat 0,69% ke 5.916** — IHSG bergerak di rentang 5.857–5.936 sepanjang hari, ditopang aksi beli di sektor perbankan dan komoditas. Level 5.916 menjadi penutupan tertinggi dalam sepekan terakhir. (*BCASekuritas, CNBC Indonesia*)
+- **FCA Dievaluasi, Bursa Revisi 3 Kriteria Saham Papan Pemantauan Khusus** — OJK dan BEI tengah mengevaluasi kebijakan Full Call Auction (FCA). Revisi kriteria ini akan berdampak pada mekanisme perdagangan saham-saham yang masuk papan pemantauan khusus. (*CNBC Indonesia*)
+- **Saham Big Caps RI Sedang Diskon — BMRI, TLKM, ANTM, HRTA** — Valuasi saham big caps dinilai menarik di level saat ini, membuka peluang akumulasi bagi investor ritel dan institusi. (*Kompas Money — Cuan*)
+- **IHSG Diprediksi Menguat, Cermati MDKA, TINS, AADI** — Analis merekomendasikan saham berbasis komoditas dan tambang. MDKA (Merdeka Copper Gold), TINS (Timah), dan AADI (Adaro Energy) menjadi pilihan utama. (*Kompas Money*)
 
 ### 💱 Valas & Makro
 
-- **Rupiah Tembus Rp18.021, Lalu Retreat** — USD/IDR menyentuh Rp18.021 pada 2 Juli sebelum membaik ke Rp17.964 di 3 Juli. Level Rp18.000 adalah psikologis krusial. E-Rate BCA menunjukkan spread ketat Rp90 (beli 17.900 / jual 17.990).
-- **Fitch: Indonesia Hadapi Tekanan pada Confidence & FX Buffers** — Fitch Ratings memperingatkan tekanan meningkat pada cadangan devisa dan kepercayaan investor Indonesia (Petromindo).
-- **Stagflasi Mengancam** — Indeks manufaktur Indonesia mencapai level terendah setahun, memicu kekhawatiran stagflasi — pertumbuhan melambat tapi inflasi tetap tinggi (Indonesia Investments).
-- **Sinergi BI-Pemerintah Dorong IHSG & Rupiah** — Kolaborasi Bank Indonesia dan pemerintah dilaporkan berhasil mendukung penguatan IHSG dan stabilisasi rupiah (prabowosubianto.com).
-- **Wall Street Diuji: Investor Tunggu Sinyal The Fed** — Reli Wall Street menghadapi ujian dari ekspektasi suku bunga The Fed dan musim laporan kinerja emiten Q2 (Kompas).
+- **B50 Bisa Bantu Rupiah dan Neraca Dagang Tanpa Bebani APBN** — Program pencampuran biodiesel 50% dinilai positif untuk mengurangi impor solar, memperkuat rupiah, dan memperbaiki defisit neraca perdagangan tanpa membebani APBN. (*BCASekuritas*)
+- **Kurs Rupiah Stabil di 17.994** — Rupiah bergerak di kisaran sempit dengan spread bid-ask tipis (17.955–17.962), mengindikasikan pasar valas yang tenang. Data inflasi AS (CPI) minggu ini menjadi katalis utama pergerakan selanjutnya. (*Yahoo Finance*)
+- **Won Korea Diperdagangkan 24 Jam Mulai Hari Ini** — Korea Selatan meluncurkan perdagangan won 24 jam sebagai langkah strategis melawan dominasi dolar AS. Inisiatif ini bisa menjadi preseden bagi mata uang Asia lainnya, termasuk potensi implikasi bagi rupiah. (*CNBC Indonesia*)
 
 ### 🏢 Korporasi
 
-- **GOTO: PHK Tokopedia Tak Berdampak Material** — GOTO buka suara soal PHK di Tokopedia, memastikan tidak ada dampak material terhadap operasi perusahaan (Kompas).
-- **KB Bank PHK Ratusan Karyawan** — OJK angkat bicara soal PHK massal di KB Bank, menambah daftar bank yang merestrukturisasi operasi (CNBC Indonesia).
-- **Aturan Baru OJK: Bank-Bank Ini Terancam Stop Operasi** — Regulasi baru yang berlaku berpotensi memaksa beberapa bank kecil menghentikan operasi (CNBC Indonesia).
-- **NCKL Bagikan Dividen Rp42,64/saham** — PT Trimegah Bangun Persada Tbk membagikan dividen kepada pemegang saham (BCASekuritas).
-- **IEU-CEPA Tahap Krusial** — Airlangga Hartarto menyebut perjanjian dagang Indonesia-Uni Eropa menunggu restu Dewan UE (BCASekuritas).
+- **Geoprima Solusi (GPSO) Rampungkan Private Placement Rp28,4 Miliar** — Emiten teknologi merampungkan penambahan modal tanpa hak memesan efek terlebih dahulu dan memperluas cakupan KBLI. (*BCASekuritas*)
+- **TRIS Berencana Gelar Buyback Saham** — Perusahaan berencana pembelian kembali saham, menandakan keyakinan manajemen terhadap undervaluation dan prospek ke depan. (*BCASekuritas*)
+- **Mitratel (MTEL) Jadwalkan Cum Dividen 8 Juli 2026** — Emiten menara telekomunikasi akan memasuki jadwal cum dividen pada Rabu (8/7). Investor perlu mencermati tanggal ini untuk eligibility dividen. (*CNBC Indonesia*)
+- **PTPN III Target Pendapatan Naik 40%** — Holding BUMN Perkebunan menargetkan pendapatan naik signifikan. Laba 2025 melonjak 81% menjadi Rp6,39 triliun. Agrinas Palma (anak usaha) akan menghidupkan pabrik biodiesel tahun depan. (*CNBC Indonesia*)
+- **BATA Catat Penjualan Rp90,55 Miliar Hingga Maret 2026** — Kinerja penjualan masih tertekan di tengah perubahan pola konsumsi alas kaki. (*BCASekuritas*)
+- **ITDC Perkuat Bisnis Event dan MICE Premium** — Pengembang kawasan The Mandalika terus diversifikasi ke sektor MICE (Meetings, Incentives, Conferences, Exhibitions) premium. (*BCASekuritas*)
+- **PT Bank KB Bukopin (KB Bank) Beri Hak Jawab Soal PHK** — KB Bank memberikan klarifikasi terkait pemberitaan PHK ratusan karyawan. (*CNBC Indonesia*)
+- **BACH Incar Dana Segar Rp271 Miliar Lewat IPO** — Bach Multi Global (BACH) akan melepas 615 juta lembar saham dan menambah kapasitas genset 50 MW. (*CNBC Indonesia*)
 
-### 🛢️ Komoditas
+### 🛢️ Komoditas & Energi
 
-- **CPO Terpukul, Sentuh Level Terendah 3 Pekan** — Harga CPO turun tertekan, meskipun kebijakan B50 (campuran 50% biodiesel) mulai berlaku 1 Juli dan diproyeksi hemat devisa Rp157 triliun (investor.id).
-- **B50 Resmi Berlaku 1 Juli 2026** — Presiden memerintahkan koperasi masuk rantai bisnis kelapa sawit mendukung implementasi B50 (ANTARA).
-- **Emas Tembus US$4.200/oz** — Harga emas naik 1,82%, tertinggi dalam beberapa pekan. Harga emas Antam dilaporkan di Rp2,67 juta/gram (VOI.id).
+- **Nickel Sector — Depressed Share Price = Opportunity** — Riset BCASekuritas oleh Muhammad Fariz merekomendasikan akumulasi saham nikel di tengah harga saham yang tertekan. Katalis: permintaan baterai EV dan kebijakan hilirisasi pemerintah. (*BCASekuritas Research*)
+- **Harga Emas Antam 7 Juli 2026** — Emas batangan Antam dibanderol mengikuti tren penguatan emas global di kisaran $4.175/oz. Cek rincian harga di outlet Antam terdekat. (*Kompas Money*)
+- **Semen Indonesia (SMGR) Catat Penjualan 15,09 Juta Ton, Naik 4,4%** — Kinerja operasional SMGR solid didorong oleh permintaan infrastruktur dan properti. (*Kompas Money*)
+- **US-Iran Peace Deal Jadi Faktor Risiko Minyak** — Kesepakatan potensial antara AS dan Iran dapat meningkatkan pasokan minyak global. Stabilitas kesepakatan menjadi faktor kunci pergerakan harga minyak ke depan. (*Yahoo Finance*)
 
-### 🌍 Geopolitik
+### 🌍 Geopolitik & Kebijakan
 
-- **AS-Israel Serang Iran, MUI Sampaikan 10 Tausiyah** — Ketegangan di Timur Tengah meningkat pasca serangan AS-Israel terhadap Iran. Duta Besar Indonesia menghadiri pemakaman Pemimpin Tertinggi Iran Khamenei (MUI, ANTARA).
-- **Pertamina Tankers Terjebak di Iran** — Deputi Menlu mengonfirmasi Indonesia masih bernegosiasi terkait dua kapal tanker Pertamina yang terjebak di Iran (ANTARA).
-- **Ancaman Krisis BBM** — Kapasitas penyimpanan energi Indonesia rentan, mengingatkan pada risiko krisis BBM jika pasokan terganggu (Kompas.id).
+- **Prabowo: Kerja Sama Ekonomi Pilar Utama Hubungan Indonesia-Singapura** — Presiden Prabowo menegaskan prioritas kerja sama ekonomi bilateral dengan Singapura, yang merupakan salah satu investor terbesar di Indonesia. (*BCASekuritas*)
+- **RUU PFII: Pajak Penghasilan 0% untuk Investor, Modal Awal dari Danantara-BMN** — RUU Pengelolaan Fiskal dan Investasi Infrastruktur memberikan insentif pajak 0% untuk menarik investasi. Lembaga pengelola PFII akan bermodal awal dari Danantara dan Barang Milik Negara. (*CNBC Indonesia*)
+- **OJK Dorong SLIK Bersih Dalam 3 Hari** — Percepatan Sistem Layanan Informasi Keuangan (SLIK) bertujuan mempermudah akses kredit masyarakat dan mempercepat inklusi keuangan. (*CNBC Indonesia*)
+- **Menteri Ara Mau Lawan Rentenir** — Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait menyiapkan program pembiayaan alternatif untuk melawan praktik rentenir. (*CNBC Indonesia*)
 
-### 🏛️ Kebijakan Pemerintah
+### 📰 Analisis Eksternal — BCASekuritas Research
 
-- **Industri Nikel Terjepit Luar-Dalam** — Tempo.co melaporkan tekanan ganda pada industri nikel Indonesia dari sisi eksternal (permintaan global) dan internal (regulasi).
-- **Aturan Saldo Minimum Bank** — Pakar mengingatkan masyarakat untuk tidak menimbun uang tunai dan memperhatikan aturan saldo minimum bank BUMN (CNBC Indonesia).
+| Judul Riset | Sektor | Analis |
+|-------------|--------|--------|
+| Nickel Sector — Depressed Share Price = Opportunity | Basic Industry | Muhammad Fariz |
+| Economic Update — ID Data: Rising Pressures & Shifting Macro Backdrop | Macroeconomy | Felix Darmawan |
+| BIRD — The Meter Runs Slower | Transport | Hernanda Cahyo |
+| FORE — Small Cup, Big Returns | Cyclical | Laurencia Hiemas |
 
 ## 4. Outlook & Strategi
 
-### Outlook IHSG Hari Ini (Senin, 7 Juli)
+### 📊 Outlook IHSG (7 Juli 2026)
 
-**Netral-Bullish** dengan kecenderungan melanjutkan reli.
+**Cenderung Bullish** — IHSG berpotensi melanjutkan penguatan setelah ditutup positif di 5.916, didukung oleh:
 
-**Alasan bullish:**
+| Faktor | Dampak |
+|--------|--------|
+| Wall Street positif (S&P +0,72%, Nasdaq +1,12%) | ✅ Ekuitas global kondusif |
+| DXY melemah (100,85) | ✅ Mendukung inflow asing ke EM |
+| VIX rendah (15,57) | ✅ Risk-on mode |
+| Valuasi big caps diskon | ✅ Potensi akumulasi |
+| Musim dividen (MTEL cum date 8/7) | ✅ Katalis sektoral |
 
-- IHSG sudah membukukan 4 hari reli berturut-turut dari bottom 5.643
-- VIX turun 2,11% ke 15,81 — volatilitas global mereda
-- Futures Wall Street menghijau kuat (Nasdaq +1,47%)
-- Asing mulai mengakumulasi saham bank BUMN
-- Sinergi BI-pemerintah memberikan safety net
+### Support dan Resistance IHSG
 
-**Alasan waspada:**
+| Level | Harga |
+|-------|-------|
+| **Resistance 2** | 5.970 |
+| **Resistance 1** | 5.936 (high 6 Juli) |
+| **Support 1** | 5.876 (previous close) |
+| **Support 2** | 5.857 (low 6 Juli) |
+| **Support 3** | 5.806 (open 3 Juli) |
 
-- Rupiah sempat tembus Rp18.021 — level psikologis kritis
-- Fitch warning soal tekanan cadangan devisa
-- Stagflasi: manufaktur Indonesia di level terendah setahun
-- Geopolitik Timur Tengah meningkat (serangan AS-Israel ke Iran)
-- CPO melemah — sektor komoditas tertekan
+### Katalis Positif
 
-### Level Kunci IHSG
+✅ Implementasi B50 diproyeksikan memperkuat rupiah dan neraca dagang
+✅ Prospek data inflasi AS — potensi pemangkasan suku bunga The Fed
+✅ Valuasi saham big caps menarik untuk akumulasi jangka panjang
+✅ Momentum dividen MTEL — efek multiplier sektor telekomunikasi
+✅ Harga emas bertahan di atas $4.150 — positif untuk saham ANTM dan sektor tambang
 
-| Level        | Harga                     |
-| ------------ | ------------------------- |
-| Resistance 1 | 5.900                     |
-| Resistance 2 | 6.000 (psikologis)        |
-| Support 1    | 5.800                     |
-| Support 2    | 5.700                     |
-| Support 3    | 5.643 (bottom pekan lalu) |
+### Katalis Negatif
 
-### Saham/Sektor Perhatian
+⚠️ Inflasi Indonesia yang naik dan manufaktur melambat
+⚠️ Defisit neraca dagang — perlu diwaspadai efeknya ke rupiah
+⚠️ Fragmentasi moneter global (24-hour Won trading) — potensi volatilitas regional
+⚠️ Potensi US-Iran deal — risiko kelebihan pasokan minyak global
+⚠️ Data CPI AS pekan ini — jika lebih tinggi dari estimasi, bisa memicu koreksi pasar
 
-- **Perbankan BUMN (BBCA, BMRI, BBRI, BBNI)** — Asing net buy, ekspektasi dividen kuat
-- **NCKL** — Dividen Rp42,64/saham, nikel tetap menjadi sektor strategis
-- **BNBR** — Rights issue Rp4,36T, potensi volatilitas
+### Saham & Sektor yang Perlu Diperhatikan
+
+| Saham | Katalis | Sumber |
+|-------|---------|--------|
+| **MDKA** | Rekomendasi analis momentum IHSG | Kompas Money |
+| **TINS** | Momentum harga timah global | Kompas Money |
+| **AADI** | Rekomendasi analis | Kompas Money |
+| **ANTM** | Strategi dongkrak kinerja + harga emas tinggi | CNBC Indonesia |
+| **BMRI** | Big caps diskon, entry point menarik | Kompas Money |
+| **TLKM** | Big caps diskon, dividen | Kompas Money |
+| **MTEL** | Cum dividen 8 Juli 2026 | CNBC Indonesia |
+| **TRIS** | Rencana buyback saham | BCASekuritas |
+| **GPSO** | Private placement selesai | BCASekuritas |
+| **HRTA** | Valuasi diskon | Kompas Money |
 
 ## 5. Tren & Insight
 
-- **V-Shape Recovery IHSG** — Setelah kehilangan ~8% dari puncak 6.056 (25 Juni) ke bottom 5.643 (30 Juni), IHSG sudah memulihkan 4,1% dalam 4 sesi. Ini koreksi teknikal yang sehat setelah sell-off berlebihan.
-- **Rupiah di Persimpangan** — Level Rp18.000/USD adalah battle ground. Jika bertahan di bawahnya, ini sinyal positif. Jika tembus lagi, waspadai aksi jual asing di pasar obligasi.
-- **Emas Terus Meroket** — US$4.200/oz menandakan safe haven demand tetap tinggi di tengah ketidakpastian geopolitik. Investor Indonesia yang pegang emas Antam diuntungkan.
-- **The Fed Factor** — Dengan DXY stabil di ~100,88 dan sinyal mixed (buy harian, sell 1-jam), pasar menanti kejelasan arah suku bunga AS. Data NFP dan komentar pejabat The Fed pekan ini akan menjadi katalis utama.
-- **B50: Game Changer atau Press Release?** — Kebijakan B50 resmi berlaku tapi CPO justru turun. Pasar skeptis terhadap dampak jangka pendek, tapi jangka panjang bisa hemat devisa signifikan.
+1. **DXY Mendekati Resistance — Peluang IHSG** — DXY di 100,85 setelah gagal menembus 101,14. Daily signal masih Buy tapi 5-min menunjukkan Sell — indikasi potensi konsolidasi jangka pendek yang menguntungkan IHSG. MA 20 (100,94) sedikit di atas harga saat ini, menandakan resistance terdekat.
+
+2. **Big Caps Diskon — Momen Akumulasi** — BMRI, TLKM, ANTM, dan HRTA disebut dalam fase diskon oleh Kompas Money. Ini bisa menjadi momentum akumulasi jangka panjang, terutama jika data inflasi AS mendukung risk appetite global.
+
+3. **Nikel: Tertekan = Peluang** — Riset BCASekuritas secara eksplisit menyebut "Depressed Share Price = Opportunity" untuk sektor nikel. Dengan katalis baterai EV dan hilirisasi yang tetap kuat, koreksi harga saham bisa menjadi entry point strategis.
+
+4. **B50 sebagai Game Changer Rupiah** — Jika program B50 berhasil diimplementasikan, ini bisa menjadi katalis fundamental yang memperkuat rupiah secara struktural dan mengurangi defisit neraca dagang migas. Dampaknya: stabilitas makro yang lebih baik dan potensi penurunan inflasi.
+
+5. **Fragmentasi Sistem Moneter Asia** — Korea Selatan memulai perdagangan won 24 jam, menandai eskalasi de-dolarisasi di Asia. Indonesia, sebagai anggota BRICS baru, perlu mencermati implikasi strategis — termasuk potensi perluasan mekanisme serupa untuk rupiah di masa depan.
+
+6. **PFII & Danantara — Arsitektur Fiskal Baru** — RUU PFII dengan insentif pajak 0% dan Danantara sebagai modal awal menandai transformasi arsitektur fiskal Indonesia. Jika efektif, bisa menjadi katalis jangka panjang untuk investasi asing langsung (FDI).
 
 ---
 
-**Sumber:** Yahoo Finance, Frankfurter API, BCA E-Rate, dollarindex.org, BCASekuritas, CNBC Indonesia, Kompas Money, Google News RSS, IDNFinancials, investor.id, ANTARA, Petromindo, Tempo.co
-
-_Data terakhir diperbarui: 6 Juli 2026, 06:30 WIB_
+*Sumber: Yahoo Finance (^JKSE, IDR=X, GC=F, CL=F, HG=F, JPY=X), dollarindex.org, BCASekuritas, CNBC Indonesia Market, Kompas Money*
+*Data pasar per 6 Juli 2026, 16:00 WIB (IHSG) dan ~19:00–23:00 EDT (komoditas & US markets).*
+*Disclaimer: Informasi ini bersifat informatif dan bukan merupakan rekomendasi investasi.*
