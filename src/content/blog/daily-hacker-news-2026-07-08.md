@@ -1,30 +1,39 @@
 ---
-title: 'Ringkasan Hacker News — 8 Juli 2026'
-description: 'Top stories hari ini: Kokoro TTS lokal yang CPU-friendly, backdoor firmware Tenda, dan laporan GAO soal nuclear cleanup DOE.'
+title: 'Daily Hacker News — 8 Juli 2026: Bash Uniqlo, GitHub AI Leak, dan EVE Online Open Source'
+description: 'Ringkasan berita teknologi terpopuler di Hacker News pada 8 Juli 2026, termasuk decode bash script di kaos Uniqlo, eksploit GitHub AI Agent, dan open source-nya engine EVE Online.'
 pubDate: 2026-07-08T13:00:00Z
 tags: ['Daily Update', 'Hacker News']
 ---
 
-Hari ini, Rabu 8 Juli 2026, beberapa story menarik menghiasi halaman depan Hacker News. Berikut ringkasan tiga story paling populer:
+Hari ini Hacker News diramaikan oleh berbagai topik menarik mulai dari keamanan AI, open source game, hingga keunikan budaya teknologi. Berikut adalah rangkuman cerita-cerita terpopuler pada 8 Juli 2026.
 
-## 1. Local, CPU-Friendly, High-Quality TTS dengan Kokoro (306 poin)
+## 🥇 Decoding Bash Script Obfuscated di Kaos Uniqlo
 
-Story paling populer hari ini datang dari dunia AI — sebuah artikel teknis tentang Kokoro, sebuah model Text-to-Speech yang berjalan secara lokal di CPU tanpa perlu GPU mahal. Kualitas suara yang dihasilkan diklaim setara dengan model komersial besar, namun dengan footprint yang jauh lebih ringan. Ini menjadi angin segar bagi developer yang ingin mengintegrasikan TTS tanpa ketergantungan pada API eksternal atau hardware khusus. Detail teknis dan demo tersedia di blog penulis.
+Story paling populer dengan 675 poin berasal dari [sherliker.net](https://sherliker.net) yang berhasil mendekode script bash yang di-obfuscate pada sebuah kaos Uniqlo. Kaos tersebut menampilkan kode bash yang tampak seperti dekorasi, namun ternyata berisi script yang bisa dijalankan — dan butuh usaha decoding untuk memahami apa yang sebenarnya dilakukan oleh kode tersebut. Sebuah pengingat bahwa bahkan barang fashion pun bisa menyembunyikan misteri teknis yang menarik.
 
-🔗 https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
+## 🥈 GitLost: GitHub Copilot/Agent AI Bocorkan Private Repo
 
-## 2. GAO: DOE Prematurely Excluding Less Expensive Options for Nuclear Cleanup (118 poin)
+Dengan 328 poin, tim dari [noma.security](https://noma.security) berhasil mengeksploitasi GitHub AI Agent untuk membocorkan data dari repositori privat. Eksploitasi yang diberi nama "GitLost" ini menunjukkan bahwa agen AI coding dapat dimanipulasi untuk mengakses dan membocorkan kode dari repositori privat yang seharusnya tidak bisa diakses. Sebuah temuan keamanan penting di era AI-assisted development.
 
-Government Accountability Office (GAO) merilis laporan yang mengkritisi Department of Energy (DOE) karena dianggap terlalu dini mengesampingkan opsi yang lebih murah dalam proyek pembersihan limbah nuklir. Laporan ini menyoroti potensi pemborosan anggaran miliaran dolar dan merekomendasikan evaluasi ulang terhadap keputusan yang sudah diambil.
+## 🥉 Tenda Firmware Backdoor: Kerentanan Otentikasi Tersembunyi
 
-🔗 https://www.gao.gov/products/gao-26-108193
+Dengan 274 poin, peneliti keamanan dari [cert.org](https://cert.org) menemukan bahwa firmware Tenda di berbagai versi mengandung backdoor otentikasi tersembunyi. Kerentanan ini memungkinkan akses tidak sah ke perangkat jaringan Tenda, dan telah memicu peringatan keamanan dari CERT.
 
-## 3. Tenda Firmware Mengandung Backdoor Autentikasi Tersembunyi (40 poin)
+## EVE Online Carbon Engine Kini Open Source
 
-Sebuah laporan dari CERT mengungkapkan bahwa berbagai versi firmware Tenda mengandung backdoor autentikasi tersembunyi. Kerentanan ini memungkinkan akses tidak sah ke perangkat — risiko serius bagi pengguna router Tenda di seluruh dunia. Pemilik perangkat disarankan segera memeriksa pembaruan firmware dan mengganti perangkat jika diperlukan.
+EVE Online mengumumkan bahwa engine Carbon mereka kini dirilis sebagai open source. Dalam artikel di [gamesindustry.biz](https://gamesindustry.biz), Fenris Creations menjelaskan alasan di balik keputusan ini dan apa artinya bagi komunitas developer game. Mendapat 153 poin dari komunitas HN.
 
-🔗 https://kb.cert.org/vuls/id/213560
+## ZFS NAS Minimal Tanpa Synology/QNAP/TrueNAS
 
----
+Sebuah panduan komprehensif dengan 249 poin membahas cara membangun NAS ZFS minimal tanpa menggunakan solusi komersial seperti Synology, QNAP, atau TrueNAS. Panduan ini cocok untuk para penggemar homelab yang ingin kontrol penuh atas storage mereka.
 
-Itulah sorotan Hacker News hari ini. Tetap pantau perkembangan teknologi terkini hanya di Pintar Blog! 🚀
+## Berita Lainnya
+
+- **Apple & Broadcom**: Apple meningkatkan investasi chip AS bersama Broadcom — 116 poin
+- **Geosql**: Skill Claude/Codex untuk data geospasial — 60 poin
+- **NoiseLang**: Bahasa pemrograman unik di mana N=5 adalah Dirac delta — 34 poin
+- **FDA tolak petisi batas PFAS dalam makanan** — 30 poin
+- **Pusat data kecil digunakan untuk memanaskan kolam renang umum** di Inggris — 29 poin
+- **Hayabusa2 Jepang** akan terbang lintas asteroid Torifune — 25 poin
+
+Itulah ringkasan Hacker News hari ini. Dari keamanan AI hingga open source game, dunia teknologi terus bergerak cepat!
