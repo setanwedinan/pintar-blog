@@ -1,7 +1,7 @@
 ---
-title: "IDX Morning Market Intelligence — 8 Juli 2026"
-description: "IHSG ditutup melonjak 1,19% ke 5.987 pada Selasa (7/7) — tertinggi dalam 2 minggu. Rupiah stabil di 17.983, DXY menguat ke 101,02. Kabinet revisi anggaran MBG 2027 jadi Rp174 T. Danantara merger 4 asset management. OJK tutup 278 gadai ilegal. Saham perbankan BBCA & BMRI mendorong IHSG."
-pubDate: 2026-07-08T06:30:00Z
+title: "IDX Morning Market Intelligence — 8 Juli 2026: IHSG Anjlok 1,89%, Minyak Melonjak di Tengah Eskalasi AS-Iran"
+description: "IHSG putus tren penguatan 5 hari dengan koreksi tajam -1,89% ke 5.873. USD/IDR menembus 18.000. Minyak WTI melonjak 8,44% dalam sepekan setelah Trump ancam bom Iran. Cadangan devisa RI naik ke USD 145,6 miliar. Rupiah tertekan DXY di 100,99."
+pubDate: 2026-07-08T16:30:00Z
 tags: ["Morning Intelligence", "IDX", "Market Analysis"]
 ---
 
@@ -9,229 +9,215 @@ tags: ["Morning Intelligence", "IDX", "Market Analysis"]
 
 ## 1. Ringkasan Eksekutif
 
-**Sentimen Positif Mendominasi — IHSG Cetak Gain 5 Hari Beruntun**
+**📉 IHSG Putus Tren Penguatan — Koreksi Terbesar dalam Sebulan**
 
-IHSG ditutup **melambung 1,19% (+70,43 poin) ke 5.986,50** pada perdagangan Selasa (7/7), menandai kenaikan hari kelima berturut-turut dan level tertinggi dalam dua pekan terakhir. Momentum beli didorong oleh reli saham perbankan big caps — BBCA (+2,86%) dan BMRI (+0,99%) — serta sentimen positif dari data tenaga kerja AS yang solid dan ekspektasi pelonggaran kebijakan moneter global.
+IHSG ditutup **merosot 1,89% (-113,13 poin) ke 5.873,37** pada perdagangan Rabu (8/7), memutus tren penguatan lima hari berturut-turut. Bursa saham Indonesia terseret arus jual di tengah eskalasi geopolitik Timur Tengah dan aksi ambil untung *(profit taking)* setelah reli signifikan. Level tertinggi hari ini tercatat di 5.984 dan level terendah menyentuh 5.872 — volatilitas tinggi intraday.
 
-**Pasar Global Mixed — Wall Street Terkoreksi, Komoditas Beragam**
+**🔥 Minyak Melonjak — Trump Ancam Bom Iran**
 
-Di Wall Street, tiga indeks utama ditutup melemah: S&P 500 turun 0,45% ke 7.504, Dow Jones melemah 0,25% ke 52.925, dan Nasdaq turun 1,16% ke 25.819. VIX naik 3,60% ke 16,13 mengindikasikan peningkatan ketidakpastian pasar. Sementara itu, harga minyak WTI melonjak 2,81% ke **USD 72,42/bbl** dipicu persetujuan OPEC+ untuk meningkatkan produksi Agustus. Emas terkoreksi 1,02% ke **USD 4.115/oz** di tengah penguatan DXY.
+Harga minyak WTI **melonjak 8,44% dalam sepekan** ke **USD 74,49/bbl** — tertinggi dalam tiga bulan — setelah Presiden AS Donald Trump menyatakan kesepakatan nuklir AS-Iran "batal" dan mengancam blokade Selat Hormuz. Brent menembus USD 80/bbl. Kenaikan harga minyak memicu kekhawatiran inflasi baru di pasar global.
 
-**Valas — Rupiah Stabil di Bawah Rp18.000**
+**🌏 Pasar Global Mixed — Wall Street Tertekan, Nasdaq Bertahan**
 
-USD/IDR diperdagangkan di **17.983**, stabil dari penutupan sebelumnya. DXY menguat 0,27% ke **101,02** — level tertinggi dalam sepekan — didorong ekspektasi sikap hawkish The Fed. EUR/IDR di 20.506 (-0,05%), SGD/IDR di 13.911. Data Frankfurter API mencatat USD/IDR di 17.891 per 7 Juli.
+Wall Street ditutup melemah: **S&P 500 turun 0,28%** ke 7.483, **Dow Jones ambles 1,09%** ke 52.348, sementara **Nasdaq menguat tipis 0,20%** ke 25.871. VIX melonjak 4,77% ke **16,90** — indikasi ketidakpastian pasar meningkat signifikan. Obligasi AS (Treasury) juga tertekan: yield 10-tahun naik ke 4,02% di tengah kekhawatiran inflasi akibat kenaikan harga energi.
 
-**Fokus Hari Ini:** Rilis data inflasi AS (CPI) minggu ini, kelanjutan aksi beli asing di saham perbankan, serta perkembangan merger Danantara dan keputusan OJK terkait gadai ilegal.
+**💰 Rupiah Tertekan ke 18.000**
+
+USD/IDR menyentuh **18.000**, melemah 0,09% dari penutupan sebelumnya (17.983) dan terdepresiasi 1,19% dalam sepekan. DXY bertahan di **100,99** — level support yang solid. EUR/IDR di 20.545, SGD/IDR di 13.915.
+
+**🇮🇩 Makro Positif: Cadangan Devisa RI Naik ke USD 145,6 Miliar**
+
+Bank Indonesia melaporkan cadangan devisa Indonesia meningkat menjadi **USD 145,6 miliar** pada akhir Juni 2026, naik dari USD 144,9 miliar di bulan sebelumnya — level yang cukup untuk membiayai 6,3 bulan impor. Kabar positif lainnya: Pemerintah mentargetkan dana investor masuk PFII (Pengelolaan Dana Investasi Indonesia) bisa mencapai **Rp 500 triliun**.
 
 ## 2. Data Pasar
 
-### IHSG — Performa 10 Hari Terakhir
+### IHSG — Performa 5 Hari Terakhir
 
-| Tanggal | Open | Close | Perubahan |
-|---------|------|-------|-----------|
-| 24 Jun | 5.873 | 5.999 | +1,96% |
-| 25 Jun | 6.010 | 5.896 | −1,72% |
-| 26 Jun | 5.932 | 5.821 | −1,27% |
-| 29 Jun | 5.801 | 5.643 | −3,06% |
-| 30 Jun | 5.641 | 5.695 | +0,92% |
-| 1 Jul | 5.710 | 5.745 | +0,87% |
-| 2 Jul | 5.806 | 5.876 | +2,28% |
-| 3 Jul | 5.893 | 5.916 | +0,69% |
-| **7 Jul** | **5.934** | **5.987** | **+1,19%** |
+| Tanggal | Open | Close | Perubahan | Volume |
+|---------|------|-------|-----------|--------|
+| 2 Jul | 5.806 | 5.876 | +2,28% | 18,7B |
+| 3 Jul | 5.893 | 5.916 | +0,69% | 16,2B |
+| 6 Jul | 5.934 | 5.915 | -0,01% | 14,8B |
+| **7 Jul** | 5.934 | **5.987** | **+1,19%** | 21,3B |
+| **8 Jul** | 5.984 | **5.873** | **-1,89%** | 19,5B |
 
 **Performa IHSG:**
-- **1 Hari:** +1,19%
-- **1 Pekan (30 Jun → 7 Jul):** +5,12%
-- **1 Bulan (7 Jun → 7 Jul):** −15,23%
-- **YTD:** −26,48%
+- **1 Hari:** −1,89%
+- **1 Pekan (1 Jul → 8 Jul):** +2,24%
+- **1 Bulan (8 Jun → 8 Jul):** −14,33%
+- **YTD:** −28,12%
 - **52W Range:** 5.318 – 9.174
 
-### USD/IDR
+**Top movers (big caps yang drop):**
+- **BBCA** (Bank Central Asia): 6.175 (−1,98%)
+- **BMRI** (Bank Mandiri): 3.970 (−2,46%)
+- **TLKM** (Telkom): 2.510 (+1,21%) — *satu-satunya yang hijau di big caps*
+- **ASII** (Astra): 4.890 (data hari sebelumnya)
 
-| Metrik | Nilai |
-|--------|-------|
-| Kurs Saat Ini | **17.983** |
-| Previous Close | 17.983 |
-| Rentang Hari Ini | 17.983 – 17.983 |
-| 52W Range | 15.636 – 18.222 |
+### USD/IDR & DXY
 
-### DXY (Dollar Index)
+| Instrumen | Nilai | Perubahan 1Hr | Perubahan 1 Week |
+|-----------|-------|--------------|-----------------|
+| **USD/IDR** | 18.000 | +0,09% | +1,19% |
+| **DXY** | 100,99 | +0,04% | +1,35% |
+| EUR/IDR | 20.545 | -0,05% | — |
+| SGD/IDR | 13.915 | -0,02% | — |
+| USD/SGD | 1,2935 | +0,05% | — |
+| USD/MYR | 4,074 | flat | +0,52% |
+| USD/JPY | 162,57 | +0,01% | — |
+| EUR/USD | 1,1422 | flat | — |
+| GBP/USD | 1,3392 | +0,01% | — |
+| AUD/USD | 0,6935 | +0,04% | — |
+| USD/CNY | 6,8020 | +0,08% | — |
 
-| Metrik | Nilai |
-|--------|-------|
-| Last Trade | **101,02** |
-| Perubahan | +0,27 (+0,27%) |
-| High/Low | 101,15 / 101,02 |
-| Sinyal 1 Day | **Buy** |
-| MA20 (1D) | 101,00 |
-| MA50 (1D) | 98,15 |
+### Komoditas
 
-### Bursa Global & Komoditas
+| Komoditas | Harga | Perubahan 1Hr | Perubahan 1 Week |
+|-----------|-------|--------------|-----------------|
+| **WTI Crude** | USD 74,49/bbl | +1,33% | **+8,44%** 🔥 |
+| **Gold** | USD 4.085/oz | +0,07% | −0,67% |
+| **Silver** | USD 58,73/oz | — | −3,15% |
+| **Copper** | USD 6,12/lb | — | +0,11% |
+| **Nickel** | USD 29.415/ton | — | −0,48% |
 
-| Instrumen | Harga | Perubahan |
-|-----------|-------|-----------|
-| S&P 500 | 7.503,85 | −33,58 (−0,45%) |
-| Dow Jones | 52.925,15 | −130,76 (−0,25%) |
-| Nasdaq | 25.818,69 | −302,47 (−1,16%) |
-| VIX | 16,13 | +0,56 (+3,60%) |
-| **WTI Crude (Aug'26)** | **72,42** | **+1,98 (+2,81%)** |
-| **Gold (Aug'26)** | **4.114,90** | **−42,50 (−1,02%)** |
-| **Silver (Aug'26)** | **60,29** | Data terbatas |
-| **Copper (Aug'26)** | **6,17** | Data terbatas |
-| Bitcoin USD | 63.524 | −478 (−0,75%) |
+### Pasar Global
 
-### Cross Rates (Frankfurter API, 7 Jul 2026)
-
-| Pair | Rate |
-|------|------|
-| USD/IDR | 17.891 |
-| USD/JPY | 161,89 |
-| USD/CNY | 6,79 |
-| USD/EUR | 0,875 |
-| USD/GBP | 0,747 |
-| USD/SGD | 1,291 |
-| USD/MYR | 4,07 |
-| USD/THB | 33,26 |
-| EUR/IDR | 20.506 |
-| SGD/IDR | 13.911 |
+| Indeks | Nilai | Perubahan |
+|--------|-------|-----------|
+| **S&P 500** | 7.482,71 | −0,28% |
+| **Dow 30** | 52.348,39 | −1,09% 🔴 |
+| **Nasdaq** | 25.870,65 | +0,20% |
+| **VIX** | 16,90 | **+4,77%** ⚡ |
+| **Bitcoin** | USD 62.156 | −1,84% |
 
 ## 3. Berita & Analisis
 
 ### 📈 Pasar Modal
 
-**🔹 IHSG Ditutup Naik 1,19% — Saham Bank Jadi Motor Utama**
-IHSG ditutup menguat 1,19% ke 5.986,50 pada Selasa (7/7), menandai kenaikan hari kelima beruntun. Saham perbankan big caps menjadi pendorong utama: **BBCA** melesat 2,86% ke Rp6.300 dan **BMRI** naik 0,99% ke Rp4.070. Rentang perdagangan harian di 5.890–5.987. Volume perdagangan tercatat moderat.
-_Sumber: Yahoo Finance, CNBC Indonesia_
+**IHSG Putus Tren Penguatan — Ditutup Anjlok 1,89%**
 
-**🔹 Morgan Stanley Borong Saham CTRA di Harga Rp560**
-Morgan Stanley tercatat memborong saham PT Ciputra Development Tbk (CTRA) di level harga Rp560 per saham. Aksi beli asing di sektor properti ini mengindikasikan kepercayaan investor global terhadap prospek properti Indonesia di tengah penurunan suku bunga.
-_Sumber: CNBC Indonesia_
+Bursa Efek Indonesia (BEI) mencatat koreksi signifikan. IHSG ditutup di **5.873** dari level tertinggi intraday 5.984 — selisih 111 poin menunjukkan tekanan jual yang masif di sesi kedua. Analis menilai aksi ambil untung *(profit taking)* menjadi pemicu utama setelah IHSG menguat 5 hari beruntun. Volume perdagangan tercatat 19,5 triliun — di atas rata-rata 30 hari (15,6 triliun), mengindikasikan partisipasi pasar yang tinggi. Saham perbankan seperti BBCA dan BMRI menjadi kontributor utama pelemahan indeks.
 
-**🔹 IHSG Belum Pulih Sepenuhnya, Tapi 11 Perusahaan Antre IPO**
-Meskipun IHSG menunjukkan pemulihan dalam 5 hari terakhir (+5,12%), indeks masih jauh dari level awal tahun. Namun optimisme mulai terlihat — tercatat **11 perusahaan** tengah mengantre untuk IPO di BEI. Ini menjadi sinyal positif bagi likuiditas pasar dan minat emiten untuk mencari pendanaan melalui pasar modal.
-_Sumber: CNBC Indonesia_
+**BEI Review Papan Pemantauan Khusus**
 
-### 💰 Valas & Makroekonomi
+BEI sedang melakukan review terhadap Papan Pemantauan Khusus (PPK) untuk memperkuat integritas pasar. Langkah ini diambil untuk melindungi investor dari saham-saham yang berpotensi bermasalah dan meningkatkan transparansi perdagangan di bursa.
 
-**🔹 Indonesia Revisi Anggaran MBG 2027 — Turun dari Rp268 T ke Rp174 T**
-Pemerintah melalui Badan Anggaran DPR RI memutuskan merevisi anggaran Program Makan Bergizi Gratis (MBG) 2027 dari Rp268 triliun menjadi **Rp174 triliun**. Langkah ini merupakan bagian dari konsolidasi fiskal untuk menjaga defisit APBN tetap terkendali. BCA Sekuritas menyoroti hal ini dalam riset BCA VISTA edisi 8 Juli 2026.
-_Sumber: BCA Sekuritas_
+### 💱 Valas & Makro
 
-**🔹 Danantara Sepakat Merger 4 Asset Management — Jadi Terbesar di RI!**
-Danantara, holding BUMN yang dipimpin oleh Dony Oskaria, sepakat untuk merger **4 perusahaan asset management** menjadi satu entitas. Langkah ini diproyeksikan menciptakan manajer investasi terbesar di Indonesia dengan total aset under management (AUM) gabungan yang signifikan. Merger ini diperkirakan akan meningkatkan efisiensi dan daya saing di industri pengelolaan investasi nasional.
-_Sumber: CNBC Indonesia_
+**Cadangan Devisa RI Naik ke USD 145,6 Miliar**
 
-**🔹 OJK Respons Suntikan Rp400 T: Likuiditas Perbankan Makin Kuat**
-OJK merespons positif suntikan likuiditas Rp400 triliun dari Menteri Keuangan Sri Mulyani (Purbaya) ke sistem perbankan. Kepala Eksekutif Pengawas Perbankan OJK, Dian Ediana Rae, menyatakan tambahan likuiditas akan memperkuat kapasitas bank dalam menyalurkan kredit. Data terbaru menunjukkan **kredit per Mei 2026 naik 11,51% YoY**, dengan bank BUMN sebagai motor penggerak utama.
-_Sumber: CNBC Indonesia, OJK_
+Bank Indonesia melaporkan cadangan devisa meningkat dari USD 144,9 miliar menjadi **USD 145,6 miliar** pada akhir Juni 2026. Peningkatan ini didukung oleh penerimaan pajak dan belanja energi yang lebih rendah. Posisi cadangan devisa ini setara dengan 6,3 bulan impor atau 6,1 bulan impor dan pembayaran utang luar negeri pemerintah — di atas standar kecukupan internasional (3 bulan impor).
 
-**🔹 Dana SAL Kembali Masuk Perbankan, OJK Harap Persaingan Dana Mereda**
-Dana Sisa Anggaran Lebih (SAL) yang kembali masuk ke sistem perbankan diharapkan dapat meredakan persaingan ketat perebutan dana pihak ketiga (DPK) antar bank. Langkah ini menjadi stimulus tambahan bagi likuiditas perbankan nasional.
-_Sumber: Kompas Money_
+**PFII Ditargetkan Serap Dana Investor Rp 500 Triliun**
+
+Pemerintah melalui Kementerian Keuangan menargetkan **Pengelolaan Dana Investasi Indonesia (PFII)** bisa menyerap dana investor hingga **Rp 500 triliun**. Skema ini — mirip dengan sovereign wealth fund — akan menjadi kendaraan investasi strategis pemerintah dengan modal awal yang dipastikan tidak menggunakan APBN. Rezim pajak di PFII akan mengikuti standar global.
+
+**IMF: Ekonomi Global Tumbuh 3% pada 2026, Inflasi Masih Tinggi**
+
+IMF memperkirakan pertumbuhan ekonomi global sebesar **3% pada 2026**, namun inflasi masih menjadi kekhawatiran utama. Tekanan harga energi akibat konflik Iran-AS berpotensi mendorong inflasi lebih tinggi dari proyeksi awal, yang bisa menunda siklus pelonggaran moneter The Fed.
 
 ### 🏢 Korporasi
 
-**🔹 Emiten Udang Kaesang (PMMP) Krisis — Utang Numpuk, Direksi Resign**
-PT Purnama Mukti Sejahtera (PMMP), emiten udang milik Kaesang Pangarep, dilaporkan mengalami krisis keuangan. Utang perusahaan menumpuk dan sejumlah direksi mengundurkan diri. Saham PMMP menjadi sorotan di tengah tekanan likuiditas yang dihadapi perusahaan.
-_Sumber: CNBC Indonesia_
+**BRI Sukses Tekan Cost of Fund, CASA Tembus Rp 1.058,6 Triliun**
 
-**🔹 OJK Tutup 278 Gadai Ilegal — Warga Diimbau Waspada**
-OJK menutup 278 entitas gadai ilegal yang beroperasi tanpa izin. Kepala Eksekutif Pengawas Perilaku Usaha Jasa Keuangan OJK, Dicky Kartikoyono, mengimbau masyarakat untuk hanya bertransaksi dengan lembaga gadai yang terdaftar resmi. Sepanjang tahun ini, OJK telah menerima 22.206 aduan terkait keuangan ilegal dan menutup 951 pinjaman online (pinjol) ilegal.
-_Sumber: CNBC Indonesia_
+PT Bank Rakyat Indonesia (BBRI) berhasil menekan biaya dana *(cost of fund)* dengan pertumbuhan dana murah (CASA) mencapai **Rp 1.058,6 triliun**. Kinerja positif BRI menjadi katalis yang menahan pelemahan lebih dalam di sektor perbankan.
 
-**🔹 BCA Sekuritas Rekomendasikan BUY DEWA — TP Rp800**
-BCA Sekuritas mempertahankan rekomendasi **BUY** untuk PT Darma Henwa Tbk (DEWA) dengan target harga Rp800 per saham, mengimplikasikan potensi upside 156%. Rekomendasi ini didasarkan pada prospek bisnis energi perusahaan yang solid.
-_Sumber: BCA Sekuritas (BCA VIRTUE)_
+**PalmCo Bukukan Laba Bersih Rp 7,08 Triliun — Naik 90,3%**
+
+PalmCo, anak usaha PTPN III, mencatatkan lonjakan laba bersih **90,3%** menjadi **Rp 7,08 triliun**. Kinerja gemilang ini didukung oleh harga CPO yang tetap solid dan efisiensi operasional.
+
+**TOTL — Built for the Data Center Cycle (BCA Sekuritas)**
+
+BCA Sekuritas merekomendasikan **BUY** untuk PT Total Bangun Persada Tbk (TOTL) dengan kenaikan target harga dari Rp 900 menjadi **Rp 1.330/saham** — mengimplikasikan upside 27,9% pada 9,4x 2026F P/E. Perusahaan diposisikan untuk memanfaatkan siklus pembangunan data center di Indonesia.
 
 ### 🛢️ Komoditas
 
-**🔹 OPEC+ Setujui Peningkatan Produksi Agustus**
-OPEC+ secara resmi menyetujui peningkatan produksi minyak untuk bulan Agustus 2026. Keputusan ini mendorong harga minyak WTI naik 2,81% ke **USD 72,42/bbl** karena pasar menyambut potensi peningkatan pasokan. BCA Sekuritas menyoroti langkah ini dalam riset harian mereka.
-_Sumber: BCA Sekuritas_
+**Harga Minyak Melonjak 5% — Trump Ancam Bom Iran**
 
-**🔹 Nikel RI: Harga Saham Tertekan = Peluang?**
-BCA Sekuritas mengeluarkan riset sektor nikel berjudul "Depressed Share Price = Opportunity", menilai bahwa koreksi harga saham emiten nikel memberikan peluang akumulasi bagi investor jangka panjang. Indonesia terus berupaya menjadi pusat industri baterai global, meskipun tantangan hilirisasi masih membayangi.
-_Sumber: BCA Sekuritas, CNBC Indonesia_
+Harga minyak mentah WTI melesat 1,33% dalam sehari dan **8,44% dalam sepekan** setelah Trump mengumumkan pembatalan kesepakatan nuklir AS-Iran dan mengancam blokade Selat Hormuz. Brent menembus level **USD 80/bbl**. Jika ancaman blokade terealisasi, pasokan minyak global bisa terganggu signifikan karena sekitar 20% pasokan minyak dunia melewati Selat Hormuz. Kenaikan harga minyak juga mendorong imbal hasil *(yield)* obligasi AS naik — yield 10-tahun di kisaran 4,02%.
 
-### 🏛️ Kebijakan & Regulasi
+**PalmCo & Harga CPO Solid**
 
-**🔹 OJK Restui 81 BPR Merger Jadi 24 BPR**
-OJK telah menyetujui merger 81 Bank Perkreditan Rakyat (BPR) menjadi 24 BPR yang lebih besar. Langkah konsolidasi ini bertujuan memperkuat ketahanan sektor BPR dan meningkatkan efisiensi operasional. Ratusan BPR lainnya masih dalam proses antrean merger.
-_Sumber: Kompas Money_
+Di tengah volatilitas komoditas global, harga CPO tetap solid. Laba PalmCo naik 90,3% YoY — indikasi bahwa sektor sawit Indonesia tetap resilien. Peningkatan ekspor dan efisiensi biaya produksi menjadi pendorong utama.
 
-**🔹 Prabowo Instruksikan Percepatan Batam sebagai Gerbang Investasi Global**
-Presiden Prabowo Subianto menginstruksikan percepatan pengembangan Batam sebagai gerbang maritim dan investasi global. Langkah strategis ini diharapkan dapat menarik lebih banyak investasi asing langsung (FDI) ke kawasan Batam dan sekitarnya.
-_Sumber: Kompas Money_
+### 🌍 Geopolitik
 
-**🔹 Investor Kripto RI Tembus 22,4 Juta — Transaksi Rp23 Triliun di Mei 2026**
-OJK mencatat jumlah investor kripto di Indonesia telah mencapai **22,4 juta** orang dengan total transaksi sebesar Rp23 triliun pada Mei 2026. Pertumbuhan ini menunjukkan adopsi aset kripto yang terus meningkat di Indonesia, seiring dengan pengawasan yang semakin ketat dari regulator.
-_Sumber: CNBC Indonesia_
+**Eskalasi Konflik AS-Iran — Dampak ke Pasar Global**
+
+Ketegangan AS-Iran meningkat drastis setelah Trump menyatakan perjanjian nuklir Iran "batal" dan mengancam serangan militer. Ancaman blokade Selat Hormuz — jalur laut paling vital untuk pasokan minyak global — menjadi katalis utama kenaikan harga minyak. Dampak langsung:
+- **Harga minyak** melonjak ke level tertinggi 3 bulan
+- **Safe haven** (emas, DXY, yen) menguat
+- **Pasar saham** emerging market tertekan termasuk IHSG
+- **Yield obligasi** naik karena ekspektasi inflasi meningkat
+
+**OPEC+ Setujui Kenaikan Produksi Agustus**
+
+Di tengah kenaikan harga akibat krisis Iran, OPEC+ telah menyetujui peningkatan produksi untuk Agustus 2026. Keputusan ini diharapkan bisa meredam lonjakan harga, namun efektivitasnya masih dipertanyakan mengingat kapasitas cadangan *(spare capacity)* yang terbatas.
+
+### 🏦 Kebijakan
+
+**Pemerintah Pastikan Rezim Pajak PFII Sesuai Standar Global**
+
+Kementerian Keuangan memastikan bahwa rezim perpajakan untuk PFII akan mengikuti standar global untuk menarik investor asing. Skema ini diharapkan bisa menjadi game changer untuk investasi infrastruktur dan hilirisasi di Indonesia.
+
+**Anggaran MBG 2027 Direvisi Jadi Rp 174 Triliun**
+
+Pemerintah merevisi anggaran program Makan Bergizi Gratis (MBG) untuk 2027 menjadi **Rp 174 triliun**, turun dari usulan awal. Langkah ini sebagai bagian dari konsolidasi fiskal di tengah tekanan APBN.
 
 ## 4. Outlook & Strategi
 
-### 🔮 IHSG Outlook — Rabu, 8 Juli 2026
+### 🔮 IHSG Outlook — Sesi Berikutnya
 
-**Sentimen: Cenderung Positif-Netral**
+**Sentimen:** 🔴 Bearish jangka pendek — rawan koreksi lanjutan
 
-IHSG berhasil menembus level psikologis **5.950** dan ditutup di **5.987**. Momentum bullish 5 hari berturut-turut (+5,12%) mengindikasikan demand yang kuat, terutama di saham perbankan dan sektor siklikal.
-
-**Support & Resistance:**
-
-| Level | Harga | Keterangan |
-|-------|-------|------------|
-| R3 | 6.100 | Target psikologis berikutnya |
-| R2 | 6.050 | Resistance dekat |
-| R1 | **5.987** | **Resistance — High hari ini** |
-| Pivot | 5.934 | Open hari ini |
-| S1 | **5.916** | **Support — Previous Close** |
-| S2 | 5.890 | Low harian |
-| S3 | 5.745 | Level support 1 Juli |
+**Level Teknikal:**
+| Level | IHSG | Keterangan |
+|-------|------|------------|
+| **Resistance 3** | 6.100 | Level psikologis |
+| **Resistance 2** | 5.987 | Penutupan 7 Juli |
+| **Resistance 1** | 5.920 | Moving average 5-hari |
+| **Support 1** | **5.820** | Level low 26 Juni |
+| **Support 2** | **5.700** | Level psikologis |
+| **Support 3** | **5.643** | Level low 29 Juni |
 
 **Katalis Positif:**
-- 🔺 Momentum penguatan 5 hari beruntun — sentimen risk-on
-- 🔺 Aksi beli asing di saham perbankan (BBCA, BMRI)
-- 🔺 Likuiditas perbankan menguat — suntikan Rp400 T + dana SAL
-- 🔺 Kredit tumbuh 11,51% YoY — indikasi ekspansi ekonomi
-- 🔺 11 perusahaan antre IPO — minat emiten tinggi
-- 🔺 Harga minyak naik — positif untuk emiten energi dan komoditas
+- Cadangan devisa meningkat — buffer bagi stabilitas rupiah
+- PFII diharapkan menarik inflow asing jangka panjang
+- Data tenaga kerja AS yang solid minggu lalu masih menopang ekspektasi soft landing
+- Harga CPO solid mendukung sektor agrikultur
 
 **Katalis Negatif:**
-- 🔻 Wall Street terkoreksi — S&P 500, Nasdaq turun
-- 🔻 VIX naik ke 16,13 — meningkatnya ketidakpastian
-- 🔻 DXY menguat ke 101,02 — tekanan bagi rupiah dan pasar emerging
-- 🔻 Data inflasi AS (CPI) minggu ini — bisa memicu volatilitas
-- 🔻 IHSG masih YTD -26,48% — pemulihan belum sepenuhnya terjadi
-- 🔻 PMMP krisis — risiko sektoral emiten kecil
+- Eskalasi Iran-AS bisa menekan lebih dalam — minyak tinggi = inflasi tinggi = suku bunga tinggi lebih lama
+- Aksi jual asing di pasar saham emerging
+- VIX di 16,90 menunjukkan risk aversion global meningkat
+- USD/IDR di 18.000 — level psikologis yang jika ditembus bisa memicu depresiasi lebih lanjut
 
 **Strategi:**
-- **Trading jangka pendek:** Akumulasi di area support 5.916–5.934, target ambil untung di 6.050–6.100
-- **Investasi:** BBCA, BMRI tetap jadi pilihan utama untuk eksposur perbankan. CTRA menarik setelah aksi Morgan Stanley
-- **Komoditas:** WTI menguat signifikan — perhatikan emiten energi seperti DEWA (BCA Sekuritas BUY call)
-- **Wait and see** jelang rilis CPI AS — potensi volatilitas tinggi
+- **Trading jangka pendek:** Wait and see — hindari *bottom fishing* sebelum konfirmasi support 5.820
+- **Investor jangka menengah:** Akumulasi bertahap di saham big cap perbankan dan komoditas saat koreksi
+- **Sektor defensif:** Konsumer dan infrastruktur bisa menjadi pilihan di tengah volatilitas
+- **Sektor prospektif:** Data center (TOTL) dan energi terbarukan
 
 ## 5. Tren & Insight
 
-**📌 Tren #1: Saham Perbankan Jadi Leader Pemulihan IHSG**
-BBCA (+2,86%) dan BMRI (+0,99%) menjadi motor utama penguatan IHSG 5 hari beruntun. Kombinasi likuiditas longgar (suntikan Rp400 T + dana SAL) dan pertumbuhan kredit 11,51% YoY mendukung prospek sektor perbankan. OJK juga mengonfirmasi likuiditas bank makin kuat. Ini menjadi katalis struktural yang dapat mendorong IHSG lebih tinggi dalam jangka menengah.
+**📌 Pattern Analysis — Minggu Volatil**
 
-**📌 Tren #2: Konsolidasi Fiskal — Anggaran MBG Dipangkas
-Pemerintah memangkas anggaran MBG 2027 dari Rp268 T ke Rp174 T (turun 35%). Ini menunjukkan komitmen fiskal yang hati-hati di tengah tekanan defisit. Namun, dampaknya terhadap sektor konsumen dan rantai pasok pangan perlu dicermati.
+Sejak awal Juli, IHSG menunjukkan pola *V-shape recovery* dari level terendah 5.643 (29 Juni) ke puncak 5.987 (7 Juli) — penguatan 6% dalam 6 hari — hanya untuk terkoreksi balik 1,89% dalam sehari. Ini mengonfirmasi bahwa sentimen pasar masih rentan dan belum sepenuhnya bullish.
 
-**📌 Tren #3: Konsolidasi Industri Keuangan**
-Dua langkah konsolidasi besar terjadi: merger 4 asset management oleh Danantara dan merger 81 BPR menjadi 24 BPR. Ini mengindikasikan tren efisiensi dan penguatan modal di sektor jasa keuangan Indonesia, sejalan dengan arahan OJK untuk memperkuat ketahanan sistem keuangan nasional.
+**📌 KRITIS: Ketergantungan IHSG pada Minyak dan Rupiah**
 
-**📌 Tren #4: Adopsi Kripto dan Aset Digital Meningkat**
-Investor kripto RI menembus 22,4 juta dengan transaksi Rp23 triliun di Mei 2026. Pertumbuhan ini diiringi pengawasan ketat OJK terhadap keuangan ilegal (22.206 aduan, 951 pinjol ditutup, 278 gadai ilegal). Regulasi yang lebih jelas menjadi kunci keberlanjutan pertumbuhan sektor ini.
+Korelasi IHSG dengan harga minyak dan nilai tukar rupiah semakin terlihat. Minyak naik → beban subsidi energi naik → tekanan APBN → rupiah terdepresiasi → IHSG tertekan. Investor perlu memonitor:
+1. Perkembangan Iran-AS — penentu arah minyak global
+2. Posisi cadangan devisa — buffer rupiah
+3. Data inflasi AS (CPI) — penentu sikap The Fed
+4. Aliran dana asing ke PFII — indikator kepercayaan investor
+
+**📌 Potensi Rotasi Sektor**
+
+Jika tekanan inflasi global berlanjut, rotasi dari sektor siklikal ke sektor defensif (konsumer, kesehatan) dan komoditas (batu bara, emas) bisa terjadi dalam pekan ini.
 
 ---
 
-*> Disclaimer: Laporan ini bersifat informatif dan bukan merupakan rekomendasi investasi. Keputusan investasi sepenuhnya menjadi tanggung jawab pembaca.*
+*Sumber: Yahoo Finance, BCA Sekuritas, CNBC Indonesia, Kompas Money, DollarIndex.org, Bank Indonesia*
 
-**Sumber:**
-- [Yahoo Finance — ^JKSE](https://finance.yahoo.com/quote/%5EJKSE/)
-- [Yahoo Finance — IDR=X](https://finance.yahoo.com/quote/IDR%3DX/)
-- [DollarIndex.org](https://dollarindex.org/)
-- [BCA Sekuritas Research](https://www.bcasekuritas.co.id/research)
-- [CNBC Indonesia — Market](https://www.cnbcindonesia.com/market)
-- [Kompas Money](https://money.kompas.com/)
-- [Frankfurter API](https://api.frankfurter.app/)
+*Disclaimer: Report ini bersifat informatif dan bukan merupakan rekomendasi investasi. Keputusan investasi sepenuhnya berada di tangan investor.*
