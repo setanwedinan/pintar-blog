@@ -1,30 +1,31 @@
 ---
-title: "IDX Morning Market Intelligence — 20 Juli 2026: IHSG Tembus 6.200, Reli Berlanjut! Rupiah Melemah ke Rp17.939"
-description: "IHSG melanjutkan reli pagi ini, menembus level 6.200 dan menyentuh 6.249,90 intraday. Rupiah sedikit melemah ke Rp17.939/USD. Konflik AS-Iran di Selat Hormuz memanas. BI rate decision jadi katalis utama pekan ini."
-pubDate: 2026-07-20T06:30:00Z
+title: "IDX Market Close — 20 Juli 2026: IHSG Ditutup di 6.231, Reli 4 Hari Beruntun! Prabowo Tutup 700 BUMN"
+description: "IHSG ditutup menguat 0,91% ke 6.231,78 — reli 4 hari beruntun dengan total +3,2%. Rupiah melemah ke Rp17.971 dari open Rp17.890. Prabowo umumkan penutupan 250 BUMN, target 700 akhir tahun. Sidang Kabinet rilis PFII, Bullion Bank 153 ton emas."
+pubDate: 2026-07-20T14:30:00Z
 tags: ["Daily Update", "IDX", "Market Intelligence", "IHSG", "Rupiah"]
 ---
 
 ## Ringkasan Eksekutif
 
-Pekan baru dibuka dengan semangat yang sama! **IHSG pagi ini (Senin, 20 Juli) dibuka menguat +0,36% ke 6.197,48 dan langsung menembus level psikologis 6.200**, mencapai **6.249,90 intraday** sebelum sedikit terkoreksi ke **6.225,44** pada saat penulisan — naik **+49,91 poin (+0,81%)** dari penutupan Jumat. Dengan demikian, IHSG telah menguat **+3,13%** dalam sepekan terakhir.
+**IHSG sukses menutup pekan dengan performa spektakuler!** Indeks ditutup di **6.231,78** pada Senin (20/7) — menguat **+56,24 poin (+0,91%)** — melanjutkan reli selama 4 hari berturut-turut dengan total penguatan **+3,2%** dalam sepekan. Level ini merupakan yang tertinggi sejak awal Mei 2026.
 
-Namun, **rupiah justru melemah tipis** — dibuka di Rp17.890/USD dan bergerak ke **Rp17.939/USD**, mengakhiri penguatan lima hari berturut-turut. Pelemahan ini terjadi di tengah **eskalasi konflik AS-Iran di Selat Hormuz** yang meningkatkan *risk aversion* global.
+Namun, **rupiah justru berbalik melemah signifikan** dari pagi hari. Dibuka menguat di **Rp17.890/USD**, rupiah perlahan tertekan hingga ditutup di **Rp17.971/USD** — melemah **-81 poin (-0,45%)** dari harga bid pagi. Pelemahan ini terjadi di tengah penguatan DXY ke **100,95 (+0,23%)** dan aksi ambil untung setelah penguatan 5 hari beruntun pekan lalu.
 
-Sementara itu, minyak WTI melesat **+4,47% dalam sepekan** ke US$83,46 — didorong oleh tensi geopolitik yang memicu kekhawatiran gangguan pasokan. Emas tetap kokoh di atas US$4.000 (**US$4.025/oz**), menandakan permintaan *safe haven* yang masih tinggi.
+**Hari ini juga diwarnai Sidang Kabinet Paripurna** yang dipimpin Presiden Prabowo, dengan sederet pengumuman besar: penutupan 250 BUMN (target 700 akhir tahun), Bullion Bank kelola 153 ton emas dalam setahun, dan insentif pajak 0% hingga 50 tahun di PFII yang memicu perdebatan.
 
-### Katalis Utama Pekan Ini:
-- 🏦 **IHSG menembus 6.200** — level resistance psikologis yang tertembus setelah 2 bulan
-- 🌍 **Konflik AS-Iran memanas** — bursa Asia dibuka beragam, pasar cemas dampak ke pasokan minyak
-- 💰 **BI rate decision minggu ini** — pasar menunggu sikap BI terhadap suku bunga
-- 🛢️ **Minyak WTI naik ke US$83,46** — kekhawatiran gangguan pasokan dari Timur Tengah
-- 🇮🇩 **Prajogo incar akuisisi raksasa panas bumi Filipina** — nilai transaksi Rp90 triliun
+### Katalis Utama Hari Ini:
+- 🏦 **IHSG reli 4 hari ke 6.231** — ditutup di level tertinggi 2,5 bulan
+- 🏛️ **Sidang Kabinet Paripurna** — Prabowo umumkan restrukturisasi BUMN, Bullion Bank, PFII
+- 💰 **PFII insentif pajak 0% 50 tahun** — heboh di pasar, DJP dan Purbaya buka suara
+- 🌍 **Wall Street melemah** — S&P 500 -0,19%, Dow -0,59% karena konflik AS-Iran
+- 🛢️ **Minyak WTI di US$82,56** — tetap tinggi didorong tensi geopolitik
+- 🏛️ **Restrukturisasi BUMN Karya libatkan Himbara** — Waskita Karya masuk program
 
 ---
 
 ## 📈 Data Pasar
 
-### IHSG (5 Hari Terakhir)
+### IHSG (5 Hari Terakhir — Closing)
 
 | Tanggal | Penutupan | Perubahan |
 |---------|-----------|-----------|
@@ -32,11 +33,20 @@ Sementara itu, minyak WTI melesat **+4,47% dalam sepekan** ke US$83,46 — didor
 | 15 Jul 2026 | 6.041,97 | +2,45 (+0,04%) |
 | 16 Jul 2026 | 6.108,21 | +66,24 (+1,10%) |
 | 17 Jul 2026 | 6.175,54 | +67,33 (+1,10%) |
-| **20 Jul 2026** | **6.225,44*** | **+49,91 (+0,81%)** |
+| **20 Jul 2026** | **6.231,78** | **+56,24 (+0,91%)** |
 
-*\*Harga intraday (market masih berlangsung)*
+**Performa mingguan:** +192,26 poin (+3,18%) — level tertinggi sejak awal Mei 2026!  
+**Range Hari Ini:** 6.191,04 — 6.249,90  
+**52-Week Range:** 5.317,91 — 9.174,47
 
-**Performa mingguan:** +185,92 poin (+3,08%) — level tertinggi sejak awal Mei 2026!
+### IHSG Intraday Hari Ini
+
+| Sesi | Level | Keterangan |
+|------|-------|------------|
+| Open | 6.197,48 | Gap up dari close Jumat 6.175 |
+| Sesi I High | 6.249,90 | Sentuh level tertinggi 2,5 bulan |
+| Sesi II Low | 6.191,04 | Koreksi setelah kabinet paripurna |
+| **Close** | **6.231,78** | **+0,91%, 4 hari beruntun hijau** |
 
 ### USD/IDR (5 Hari Terakhir)
 
@@ -46,143 +56,184 @@ Sementara itu, minyak WTI melesat **+4,47% dalam sepekan** ke US$83,46 — didor
 | 15 Jul 2026 | 18.157 | +46 (+0,25%) |
 | 16 Jul 2026 | 18.069 | -88 (-0,48%) |
 | 17 Jul 2026 | 17.985 | -84 (-0,46%) |
-| **20 Jul 2026** | **17.939** | **-46 (-0,26%)*** |
+| **20 Jul 2026** | **17.971** | **+81 (+0,45%)*** |
 
-*\*Rupiah melemah tipis — hari ini dibuka di 17.890 dan melemah ke 17.939*
+*\*Terhadap open pagi Rp17.890 — rupiah melemah signifikan dari intraday high*
+**Range Hari Ini:** 17.890 — 17.971
 
-### Indeks & Komoditas Global
+### Indeks & Komoditas Global (20 Juli 2026)
 
-| Aset | Level | Perubahan (vs Jumat) |
-|------|-------|---------------------|
-| DXY (Dollar Index) | 100,73 | -0,02 (-0,02%) |
-| S&P 500 Futures | 7.501,75 | +4,00 (+0,05%) |
-| Nasdaq Futures | 28.860,00 | +86,75 (+0,30%) |
-| Dow Futures | 52.318,00 | -57,00 (-0,11%) |
-| VIX (Volatility) | 18,77 | +2,04 (+12,19%) |
-| Emas (Gold) | US$4.025,10 | +12,40 (+0,31%) |
-| Minyak WTI (Sep 26) | US$83,46 | +1,68 (+2,05%) |
-| Copper (HG=F) | US$4,294/lb | +0,024 (+0,57%) |
-| Bitcoin | US$64.779 | +108,93 (+0,17%) |
+| Aset | Level | Perubahan |
+|------|-------|-----------|
+| DXY (Dollar Index) | 100,95 | +0,23 (+0,23%) |
+| S&P 500 | 7.443,28 | -14,41 (-0,19%) |
+| Nasdaq | 25.508,07 | -12,17 (-0,05%) |
+| Dow Jones | 51.839,26 | -307,16 (-0,59%) |
+| VIX (Volatility) | 18,65 | -0,12 (-0,64%) |
+| Emas (Gold) | US$4.009,10 | -6,80 (-0,17%) |
+| Minyak WTI (Sep 26) | US$82,56 | +0,08 (+0,10%) |
+| Bitcoin | US$65.210,67 | +528,88 (+0,82%) |
 
 ### Cross Rates (via Frankfurter API)
 
 | Pair | Kurs | Perubahan (vs Jumat) |
 |------|------|---------------------|
-| EUR/USD | 0,8745 | +0,0002 (+0,02%) |
-| USD/SGD | 1,2912 | 0,00 (stable) |
-| USD/MYR | 4,095 | +0,002 (+0,06%) |
-| USD/THB | 33,635 | +0,065 (+0,19%) |
-| USD/JPY | 162,35 | +0,75 (+0,46%) |
-| EUR/IDR | 20.516 | +1 (+0,005%) |
-| SGD/IDR | 13.901 | +9 (+0,06%) |
+| EUR/USD | 0,8752 | — |
+| USD/SGD | 1,2908 | stable |
+| USD/MYR | 4,0925 | stable |
+| USD/THB | 33,625 | +0,055 (+0,16%) |
+| USD/JPY | 162,38 | +0,03 (+0,02%) |
+| EUR/IDR | 20.510 | +4 (+0,02%) |
+| SGD/IDR | 13.908 | +16 (+0,12%) |
+| GBP/USD | 0,7429 | — |
 
-### Indeks Pasar Domestik
+### Indeks Pasar Domestik (BCA Sekuritas)
 
 | Indeks | Level | Perubahan |
 |--------|-------|-----------|
-| IHSG | 6.225,44 | +0,81% |
-| LQ45 | 628,69 | +1,09% |
-| IDX 30 | 355,60 | +1,17% |
-| JII (Syariah) | 370,63 | +1,00% |
-| Sri-Kehati | 309,78 | +0,83% |
-| Pefindo i-Grade | 157,99 | +1,43% |
-
-**Catatan:** LQ45 dan IDX 30 kembali *outperform* IHSG — reli tetap dipimpin saham blue-chip. Pefindo i-Grade naik 1,43%, menandakan obligasi korporasi juga menarik minat investor.
+| IHSG | 6.231,78 | +0,91% |
+| LQ45 | 627,75 | +0,97% |
+| IDX 30 | 354,44 | +0,84% |
+| JII (Syariah) | 374,16 | +0,83% |
+| Sri-Kehati | 307,75 | +0,80% |
+| Pefindo i-Grade | 157,84 | +1,32% |
 
 ---
 
 ## 📰 Berita & Analisis
 
-### 🏛️ Pasar Modal: IHSG Tembus 6.200 — Reli Berlanjut atau Jebakan?
+### 🏛️ Sidang Kabinet Paripurna: Prabowo Umumkan Restrukturisasi BUMN Masif
 
-Pagi ini IHSG kembali membuka pekan dengan semangat positif, menembus level **6.200** yang merupakan resistance psikologis penting. Setelah sempat menyentuh **6.249,90** intraday — level tertinggi sejak awal Mei — IHSG kini berada di **6.225,44**.
+Hari ini Presiden Prabowo menggelar **Sidang Kabinet Paripurna** di Istana Negara, 20 Juli 2026, dengan sederet pengumuman penting yang langsung menjadi perhatian pasar:
 
-Menurut CNBC Indonesia, **asing terdeteksi mulai menjual** di tengah reli ini, meskipun kemarin (Jumat) asing tercatat net buy besar. Ini adalah sinyal divergensi yang perlu diwaspadai — jika aksi jual asing berlanjut, momentum reli bisa terhambat.
+**1. Penutupan 250 BUMN, Target 700 Akhir Tahun**
+Prabowo mengungkapkan bahwa pemerintah telah menutup **250 Badan Usaha Milik Negara** per Juli 2026 dan menargetkan total **700 BUMN tutup** pada akhir tahun. Langkah ini merupakan bagian dari restrukturisasi besar-besaran — CNBC Indonesia melaporkan negara berpotensi **menghemat Rp80 triliun** dari efisiensi ini. Prabowo bahkan menyebut **"Duit Rp50 Triliun Sudah Selamat"** dari restrukturisasi yang sudah berjalan.
 
-**Pasar menanti keputusan BI pekan ini** — IHSG dibuka menguat 0,36% dengan ekspektasi bahwa BI akan mempertahankan suku bunga acuan di level saat ini. Namun, jika BI mengejutkan pasar dengan kenaikan bunga (untuk menahan tekanan inflasi dan rupiah), koreksi bisa terjadi.
+**2. Bullion Bank: 153 Ton Emas Dikelola dalam Setahun**
+Prabowo memamerkan pencapaian **Bullion Bank Indonesia** yang telah mengelola **153 ton emas dalam setahun** — jumlah yang signifikan dan menunjukkan bahwa program bullion bank berjalan sesuai target. Ini menjadi katalis positif bagi sektor emas dan logam mulia dalam negeri.
 
-🔍 **Rekomendasi saham hari ini** dari analis mencakup **TLKM, BUVA, dan BRIS** — sektor telekomunikasi dan syariah mulai dilirik setelah rally perbankan pekan lalu.
+**3. RI Sempat Ditakut-takuti Rating Agency**
+Dalam pidatonya, Prabowo mengungkap bahwa Indonesia sempat **ditakut-takuti oleh lembaga pemeringkat** asing, namun S&P justru memberikan dukungan terhadap Danantara (DSI — Daya Anagata Nusantara). "S&P malah mendukung DSI," ujar Prabowo. Ini menandakan bahwa upaya pemerintah memperkuat sovereign wealth fund mendapat pengakuan internasional.
 
-### 💼 Korporasi: Prajogo Incar Akuisisi Raksasa Panas Bumi Filipina
+**4. Prabowo Murka: Ratusan Miliar Dolar Kekayaan RI Dibawa Kabur**
+Prabowo juga meluapkan kemarahannya terkait praktik yang merugikan negara — menyebut bahwa **ratusan miliar dolar kekayaan RI telah dibawa kabur**. Ini sinyal bahwa pemerintah akan semakin agresif dalam penegakan hukum dan pengembalian aset negara.
 
-**Prajogo Pangestu** melalui grup Barito Pacific dikabarkan sedang mengincar akuisisi perusahaan panas bumi raksasa di Filipina. Nilai transaksi diperkirakan mencapai **Rp90 triliun** — salah satu akuisisi terbesar oleh pengusaha Indonesia di sektor energi terbarukan.
+### 💰 PFII Heboh: Insentif Pajak 0% hingga 50 Tahun
 
-Jika terealisasi, akuisisi ini akan menjadikan grup Barito sebagai salah satu pemain energi geothermal terbesar di Asia Tenggara. Dari sisi pasar, sentimen positif bagi saham-saham energi terbarukan di BEI, meskipun dampak langsung mungkin terbatas pada anak usaha BRPT.
+Forum atau **Pusat Investasi dan Inovasi Indonesia (PFII)** menjadi topik hangat setelah terungkap bahwa insentif pajak yang diberikan mencapai **0% hingga 50 tahun**. Kabar ini sempat memicu perdebatan di pasar:
 
-### 📦 Korporasi: Pos Indonesia Rombak Direksi
+- **Bos DJP, Bimo Wijayanto**, membenarkan bahwa PFII mendapat insentif pajak 0% hingga 50 tahun dalam program Squawk Box CNBC Indonesia
+- **Menkeu Purbaya Yudhi Sadewa** buka suara bahwa tujuan PFII **bukan sekadar mengejar investasi**, tapi juga memperkuat ekosistem inovasi dalam negeri
+- Ditjen Stabilitas dan Pengembangan Sektor Keuangan, **Herman Saheruddin**, menjelaskan bahwa PFII juga mengincar dana asing, namun investor lokal tetap memiliki akses yang sama
 
-PT Pos Indonesia melakukan perubahan besar di jajaran direksi — **M. Iskandar Kunaefi** ditunjuk sebagai Direktur Utama yang baru. Rombakan ini merupakan bagian dari transformasi bisnis Pos Indonesia yang tengah beradaptasi dengan era digital, di mana layanan pos konvensional terus menurun.
+Namun, pertanyaan muncul: **apakah insentif 0% ini tetap kena aturan pajak global (Pillar Two OECD)?** Anak buah Purbaya mengakui bahwa kebijakan ini masih perlu diselaraskan dengan aturan pajak internasional. PFII menjadi salah satu instrumen baru yang diharapkan bisa menarik investasi langsung asing (FDI) signifikan ke Indonesia.
 
-### 🛢️ Komoditas: Selat Hormuz Kembali Memanas, Minyak WTI Tembus US$83
+### 🏦 Pasar Modal: IHSG Ditutup 6.231 — Reli Berlanjut ke Sesi II
 
-Ketegangan antara **AS dan Iran kembali meningkat** di sekitar Selat Hormuz — jalur transit 20% pasokan minyak dunia. Bursa Asia dibuka beragam dengan kekhawatiran pasar terhadap eskalasi konflik. Situasi ini mendorong:
+IHSG sukses mempertahankan momentum positif hingga penutupan. BCA Sekuritas mengkonfirmasi bahwa **IHSG Sesi II ditutup menguat 56 poin di level 6.231**. Indeks sempat menyentuh **6.249,90** pada pagi hari (level tertinggi 2,5 bulan) sebelum sedikit terkoreksi ke **6.191,04** di sesi II — kemungkinan dipengaruhi aksi wait-and-see menjelang pengumuman Sidang Kabinet.
 
-- **Minyak WTI naik +2,05% ke US$83,46** — level tertinggi dalam beberapa bulan
-- **Emas bertahan di atas US$4.000** — safe haven tetap diminati
-- **VIX di 18,77 (+12,19%)** — volatilitas pasar global meningkat signifikan
+**Saham Favorit Hari Ini (dari Kompas Money & BCAS):**
+- **BBCA**: Stabil di Rp6.475 — tidak berubah, menandakan investor masih hold
+- **BMRI**: Turun tipis -0,67% ke Rp4.450 — koreksi wajar setelah rally pekan lalu
+- **TLKM**: Naik +1,88% ke Rp2.710 — melanjutkan penguatan di sektor telekomunikasi
+- **AMMN, ANTM, ADRO**: Direkomendasikan analis untuk dicermati — sektor komoditas dan tambang mulai dilirik
 
-CNBC Indonesia melaporkan bahwa **IHSG terbukti resilient** selama periode ketegangan ini, meskipun bursa Asia lainnya tertekan. Namun, jika konflik benar-benar mengganggu pasokan minyak, Indonesia sebagai importir minyak neto akan merasakan tekanan (kenaikan BBM, subsidi membengkak).
+**BCAS Technical View** mencatat bahwa IHSG berhasil menembus resistance 6.200 dan kini membuka jalan menuju target berikutnya di 6.300-6.350. Namun, indikator teknikal mulai menunjukkan kondisi mendekati overbought.
 
-### 💵 Valas: Rupiah Melemah Tipis, Pasar Tunggu BI Rate
+### 💵 Valas: Rupiah Berbalik Melemah, Dari Rp17.890 ke Rp17.971
 
-Rupiah dibuka menguat di **Rp17.890/USD** (level terkuat sejak akhir Juni) namun perlahan melemah ke **Rp17.939/USD**. Pelemahan ini relatif terbatas dibanding penguatan +0,97% sepanjang pekan lalu, dan masih dalam rentang wajar.
+Rupiah membuka hari dengan optimisme di **Rp17.890/USD** — level terkuat dalam pekan ini — namun perlahan tertekan hingga ditutup di **Rp17.971/USD**. Pelemahan ini cukup signifikan (-0,45% dari open) dan mengindikasikan:
 
-**Katalis pekan ini untuk rupiah:**
-1. **BI rate decision** (hari ini atau pekan ini) — pasar memperkirakan BI akan hold
-2. **Aksi jual asing di saham** — jika berlanjut, bisa menekan rupiah
-3. **Konflik Selat Hormuz** — jika membaik, rupiah bisa kembali menguat
+1. **Profit taking setelah penguatan 5 hari** — pekan lalu rupiah menguat hampir 1%
+2. **DXY menguat ke 100,95** — dolar AS kembali perkasa setelah tertekan pekan lalu
+3. **Ketidakpastian Sidang Kabinet** — pasar menunggu kejelasan kebijakan baru
+4. **Aksi jual asing di saham** — rupiah ikut tertekan saat asing melakukan profit taking
 
-### 📊 Ekonomi Makro: Lelang Surat Utang Rp32 Triliun
+Dari data bid-ask Yahoo Finance, USD/IDR berada di **17.939/17.949** pada malam hari — artinya rupiah sedikit membaik dari closing. Pasar valas masih terbuka (pasar internasional).
 
-Direktur Jenderal Pengelolaan Pembiayaan dan Risiko (DJPPR) **Purbaya Yudhi Sadewa** akan melelang **9 seri surat utang negara** besok dengan target indikatif **Rp32 triliun**. Instrumen yang dilelang mencakup SPN-S (3 seri), FR (5 seri), dan PBS (1 seri).
+### 🛢️ Komoditas: Minyak Stabil Tinggi, Emas Koreksi Tipis dari US$4.000+
 
-Lelang ini akan menjadi **test of appetite** investor terhadap SUN di tengah reli IHSG. Jika yield yang diminta investor wajar (tidak melonjak), itu akan menjadi sinyal positif bagi pasar obligasi dan menunjukkan kepercayaan investor terhadap fundamental fiskal Indonesia.
+**Minyak WTI** stabil di **US$82,56** (+0,10%) — masih dalam tren tinggi didorong oleh konflik AS-Iran di Selat Hormuz. Harga masih di bawah US$83,46 yang sempat disentuh pekan lalu. Saham emiten energi di Indonesia ikut melambung, seperti dilaporkan CNBC Indonesia.
+
+**Emas** terkoreksi tipis -0,17% ke **US$4.009/oz** — masih bertahan di atas level psikologis US$4.000. Permintaan safe haven masih ada, tapi aksi ambil untung setelah reli pekan lalu mulai terlihat.
+
+**Copper (tembaga)** tetap menjadi perhatian mengingat perannya dalam transisi energi global. Komoditas logam industri masih didukung oleh prospek elektrifikasi.
+
+### 🏢 Korporasi: JP Morgan Balik Arah, Target Harga BBRI Naik
+
+**JP Morgan** dilaporkan berbalik arah dan menaikkan target harga **BBRI (Bank Rakyat Indonesia)**. Ini sinyal positif setelah sebelumnya beberapa bank investment asing cenderung konservatif terhadap perbankan Indonesia. Jika target harga naik, ini bisa menjadi katalis tambahan bagi sektor perbankan yang sudah rally pekan lalu.
+
+**Waskita Karya (WSKT)** masuk dalam program restrukturisasi BUMN Karya yang melibatkan Himbara (Himpunan Bank Negara). Restrukturisasi ini diharapkan bisa menyelesaikan masalah keuangan BUMN konstruksi yang selama ini terbebani utang.
+
+### 📊 Ekonomi Makro: LPS — Simpanan Kelas Menengah Membaik
+
+**Lembaga Penjamin Simpanan (LPS)** melaporkan bahwa simpanan kelas menengah dan aktivitas rekening mulai menunjukkan perbaikan. Ini indikator positif bagi daya beli masyarakat setelah periode tekanan ekonomi.
+
+**Kredit Bank** tumbuh **11,5%** secara tahunan — menunjukkan bahwa intermediasi keuangan berjalan normal. Namun, penyaluran kredit UMKM masih menjadi pekerjaan rumah utama.
+
+**Vietnam dan Filipina Naik Kelas** — Kompas Money melaporkan bahwa kedua negara ASEAN kini telah naik status menjadi **negara berpenghasilan menengah atas** (upper-middle income), sejajar dengan Indonesia. Ini menandakan tren positif ekonomi di kawasan Asia Tenggara.
 
 ---
 
 ## 🔮 Outlook & Strategi
 
-### IHSG: Resistance 6.250 Diuji, Waspada Overbought
+### IHSG: Resistance 6.250 Teruji, Potensi Konsolidasi
 
 **Level kunci:**
-- **Support:** 6.175 (closing Jumat), 6.100 (MA-20), 6.040 (support minggu lalu)
-- **Resistance:** 6.250 (intraday high hari ini), 6.300 (psikologis berikutnya), 6.350 (target berikutnya)
+- **Support:** 6.175 (close Jumat), 6.100 (MA-20), 6.040 (level 14 Juli)
+- **Resistance:** 6.250 (intraday high), 6.300 (target teknikal berikutnya), 6.350 (psikologis)
 
-**Skenario bullish (55%):** Jika asing net buy kembali dan BI rate decision dovish, IHSG berpotensi menguji 6.250-6.300 pekan ini. Saham syariah (BRIS, TLKM) mulai dilirik setelah rally perbankan pekan lalu.
+**Skenario bullish (55%):** Momentum masih kuat dengan 4 hari beruntun penguatan. Jika pengumuman Sidang Kabinet (restrukturisasi BUMN, PFII) disambut positif investor, IHSG berpeluang menguji 6.300 dalam pekan ini. Saham komoditas (ANTM, ADRO, AMMN) dan telekomunikasi (TLKM) menjadi kandidat penggerak berikutnya setelah perbankan rally pekan lalu.
 
-**Skenario bearish (45%):** Konsolidasi wajar setelah rally +3% dalam sepekan. Indikator teknikal mulai menunjukkan kondisi *overbought* jangka pendek. Jika VIX terus naik di atas 20, koreksi ke 6.100-6.175 sangat mungkin terjadi. **Konflik AS-Iran** menjadi *wild card* utama — eskalasi bisa memicu aksi ambil untung massal.
+**Skenario bearish (45%):** Indikator teknikal menunjukkan IHSG mendekati **overbought** setelah reli +3,2% dalam 4 hari. S&P 500 dan Dow Jones yang melemah semalam (-0,19% dan -0,59%) menjadi tekanan eksternal. Rupiah yang melemah ke Rp17.971 dari pagi juga sinyal waspada. Jika aksi jual asing berlanjut, koreksi ke 6.100-6.175 sangat mungkin terjadi.
 
-### Rupiah: Rentang Rp17.800-18.100
+### Rupiah: Rentang Rp17.850-18.100
 
-Rupiah diperkirakan bergerak dalam rentang **Rp17.850-18.050/USD** pekan ini, dengan bias melemah tipis setelah penguatan signifikan minggu lalu. Faktor penentu:
-- **BI rate decision** (hold → positif untuk rupiah, naik → kejutan negatif untuk IHSG)
-- **Selera risiko global** — jika VIX turun, rupiah bisa kembali menguat
-- **Aksi korporasi besar** (akuisisi Prajogo, lelang SUN) berpotensi mempengaruhi aliran dolar
+Rupiah diperkirakan bergerak dalam rentang **Rp17.850-18.050/USD** dalam 1-2 hari ke depan. Pelemahan hari ini lebih bersifat teknikal (profit taking) daripada fundamental. Faktor penentu ke depan:
 
-### Emas & Minyak: Geopolitical Premium
+- **Konflik AS-Iran** — jika mereda, rupiah bisa kembali ke Rp17.800-an
+- **Respon pasar terhadap PFII** — jika aliran dana asing masuk, rupiah terbantu
+- **DXY di 100,95** — dolar masih cukup kuat, perlu dipantau pergerakannya
 
-Emas di **US$4.025** dan minyak di **US$83,46** mencerminkan *geopolitical premium* yang signifikan. Kedua aset ini kemungkinan akan tetap tinggi selama ketegangan AS-Iran belum mereda. Bagi investor Indonesia, saham komoditas (ANTM, MDKA, ADRO, PTBA, ITMG) bisa menjadi *hedge* terhadap risiko geopolitik.
+### Emas & Minyak: Geopolitical Premium Masih Tinggi
 
-> **Catatan:** Emiten CPO **JARR (haji Isam)** baru saja membeli CPO sitaan dari Agrinas — berita ini telah menjadi perhatian pasar dan bisa mempengaruhi sektor CPO minggu ini.
+Emas di **US$4.009** dan minyak di **US$82,56** masih mencerminkan *geopolitical premium* yang signifikan. Kedua aset ini kemungkinan akan volatile selama ketegangan global belum mereda. Bagi investor Indonesia, emiten komoditas tambang (ANTM, MDKA, ADRO, PTBA) bisa menjadi pilihan defensif.
+
+### Strategi Menyikapi Sidang Kabinet
+
+Sidang Kabinet hari ini menghasilkan banyak pengumuman, namun pasar baru akan merespon secara penuh dalam 1-2 hari ke depan. Beberapa imbauan:
+
+1. **PFII dan insentif pajak** — perhatikan detail implementasi dan respons investor asing
+2. **Restrukturisasi BUMN** — BUMN Karya yang direstrukturisasi (WSKT, dll) perlu dicermati risikonya
+3. **Bullion Bank 153 ton emas** — positif untuk sektor emas/logam mulia
+4. **Penutupan 700 BUMN** — efisiensi APBN positif, tapi PHK massal BUMN butuh diantisipasi
 
 ---
 
 ## 💡 Tren & Insight
 
-### Pattern: "Overbought Rally — Waktunya Konsolidasi?"
+### Pattern: "IHSG 4-Day Rally — Overbought Alert"
 
-IHSG telah menguat **+3,08% dalam sepekan** (14-20 Juli), sebuah laju yang cukup agresif. Secara historis, reli sebesar ini biasanya diikuti oleh konsolidasi 2-3 hari sebelum menentukan arah selanjutnya. Indikator teknikal menunjukkan RSI mendekati area overbought.
+IHSG telah mencatat **4 hari berturut-turut penguatan** dengan total +3,2% — laju yang cukup agresif. Secara historis, reli sebesar ini biasanya diikuti oleh **konsolidasi 1-2 hari**. Indikator RSI kemungkinan sudah mendekati area overbought.
 
-### Pattern: "Divergensi Asing — Beli di Jumat, Jual di Senin"
+Yang menarik: reli kali ini dipimpin oleh **saham blue-chip perbankan** di pekan lalu, dan mulai bergeser ke **saham komoditas dan telekomunikasi** hari ini. Rotasi sektor seperti ini biasanya menandakan bahwa reli masih memiliki *legs* — bukan sekadar *dead cat bounce*.
 
-Data menunjukkan bahwa asing terdeteksi **net sell hari ini** setelah **net buy besar Rp638,6 miliar Jumat lalu**. Ini bisa berarti:
-- **Profit taking** — asing mengambil untung setelah rally pekan lalu
-- **Rotasi portofolio** — asing mungkin sedang melakukan rebalancing
-- **Risk-off menjelang BI rate** — sikap wait-and-see
+### Pattern: "Divergensi IHSG vs Rupiah"
 
-### Insight: Momentum Syariah & Telekomunikasi
+Fenomena menarik hari ini: **IHSG naik +0,91% tapi rupiah melemah** dari pagi ke sore. Ini adalah divergensi yang tidak biasa:
+- Biasanya IHSG dan rupiah bergerak searah
+- Divergensi ini bisa berarti: (a) asing melakukan **hedging** dengan beli saham + jual rupiah, atau (b) kenaikan IHSG lebih didorong oleh **investor domestik** daripada asing
+- Jika divergensi berlanjut, koreksi IHSG bisa terjadi dalam 1-2 hari
 
-Rekomendasi saham hari ini mulai mencakup **BRIS (Bank Syariah Indonesia)** dan **TLKM (Telkom Indonesia)** — sektor yang sebelumnya tertinggal dari perbankan konvensional. Jika rotasi sektor terjadi, ini bisa menjadi katalis baru yang memperpanjang durasi rally IHSG.
+### Insight: PFII — Game Changer atau Window Dressing?
+
+Insentif pajak **0% hingga 50 tahun** di PFII adalah kebijakan yang sangat agresif — belum pernah ada di Indonesia sebelumnya. Jika berhasil menarik investasi asing yang signifikan, ini bisa menjadi *game changer* bagi perekonomian Indonesia. Namun, beberapa risiko perlu dicermati:
+
+1. **Aturan pajak global OECD (Pillar Two)** — tarif minimum 15% bisa membuat insentif 0% kurang efektif
+2. **Persepsi ketidakadilan** — investor di luar PFII mungkin merasa dirugikan
+3. **Potensi moral hazard** — perusahaan bisa memindahkan laba ke PFII untuk menghindari pajak
+
+Pasar obligasi akan menjadi indikator awal — jika yield SUN turun setelah pengumuman PFII, berarti investor menyambut positif.
 
 ---
 
@@ -190,10 +241,10 @@ Rekomendasi saham hari ini mulai mencakup **BRIS (Bank Syariah Indonesia)** dan 
 
 | Hari | Katalis |
 |------|---------|
-| Senin, 20 Jul | Konflik AS-Iran, aksi jual asing |
-| Selasa, 21 Jul | Lelang SUN Rp32 triliun |
+| Senin, 20 Jul | Sidang Kabinet: restrukturisasi BUMN, PFII, Bullion Bank |
+| Selasa, 21 Jul | Respons pasar terhadap PFII & kebijakan baru |
 | Rabu-Kamis, 22-23 Jul | BI Rate Decision (RDG) |
-| Jumat, 24 Jul | Data cadangan devisa |
+| Jumat, 24 Jul | Data cadangan devisa, closing pekan |
 
 ---
 
@@ -201,8 +252,8 @@ Rekomendasi saham hari ini mulai mencakup **BRIS (Bank Syariah Indonesia)** dan 
 
 - [Yahoo Finance — IHSG (^JKSE)](https://finance.yahoo.com/quote/%5EJKSE/)
 - [Yahoo Finance — USD/IDR (IDR=X)](https://finance.yahoo.com/quote/IDR%3DX/)
-- [Yahoo Finance — Indeks & Komoditas Global](https://finance.yahoo.com/)
 - [DollarIndex.org — DXY](https://dollarindex.org/)
+- [BCA Sekuritas](https://www.bcasekuritas.co.id/)
 - [CNBC Indonesia — Market](https://www.cnbcindonesia.com/market)
 - [Kompas Money](https://money.kompas.com/)
 - [Frankfurter API — Kurs Valas](https://api.frankfurter.app/)
