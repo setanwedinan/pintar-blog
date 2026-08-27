@@ -1,14 +1,10 @@
 ---
 import { SITE_TITLE } from '../consts'
-import HeaderLink from './HeaderLink.astro'
 ---
 
 <header>
   <nav>
     <h2><a href="/">{SITE_TITLE}</a></h2>
-    <div class="internal-links">
-      <HeaderLink href="/">Blog</HeaderLink>
-    </div>
     <div class="social-links">
       <a
         href="https://github.com/setanwedinan/pintar-blog"
@@ -102,14 +98,6 @@ import HeaderLink from './HeaderLink.astro'
   @media (max-width: 720px) {
     header {
       padding: 0 var(--space-1);
-    }
-
-    .internal-links {
-      display: flex;
-    }
-
-    .internal-links a:first-child {
-      display: none;
     }
 
     h2 {
