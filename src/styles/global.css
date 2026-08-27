@@ -251,11 +251,6 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: var(--space-1);
-  transition: transform 0.3s ease;
-}
-
-img:hover {
-  transform: scale(1.02);
 }
 
 /* Code */
@@ -354,33 +349,6 @@ hr {
   background: linear-gradient(90deg, var(--accent), var(--accent-dark));
   z-index: 1000;
   transition: width 0.1s ease-out;
-}
-
-/* Fade-in animation */
-.prose > * {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeInUp 0.6s ease forwards;
-}
-
-.prose > *:nth-child(1) {
-  animation-delay: 0s;
-}
-.prose > *:nth-child(2) {
-  animation-delay: 0.1s;
-}
-.prose > *:nth-child(3) {
-  animation-delay: 0.2s;
-}
-.prose > *:nth-child(n + 4) {
-  animation-delay: 0.3s;
-}
-
-@keyframes fadeInUp {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 /* Paragraph spacing in prose */
