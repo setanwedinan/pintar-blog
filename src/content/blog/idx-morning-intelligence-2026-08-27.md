@@ -1,141 +1,138 @@
 ---
-title: "IDX Morning Market Intelligence — 27 Agustus 2026: IHSG Jatuh ke 6.405, PCE AS Panas, Nvidia Rekor Tapi Sahamnya Turun"
-description: "IHSG ditutup 6.405,69 (-1,48%) di titik terendah sesi meski asing net buy Rp1,37 T (DSSA Rp1,4 T). PCE AS panas dorong DXY ke 99,07; Nvidia rekor US$96,2 M tapi saham turun. Rupiah 17.725, demo 27/8 jadi katalis domestik."
-pubDate: 2026-08-27T01:00:00Z
-tags: ["Morning Intelligence", "IDX", "Market Analysis"]
+title: 'IDX Market Close — 27 Agustus 2026: IHSG Rebound 1,81% ke 6.522, DPR Setujui Destry Damayanti Pimpin BI'
+description: 'IHSG ditutup di level tertinggi harian 6.521,75 (+1,81%) dengan seluruh 11 sektor hijau. Komisi XI DPR setujui Destry Damayanti jadi Gubernur BI 2026-2031; demo 27/8 berlalu tertib. Rupiah 17.740, DXY 99,09.'
+pubDate: 2026-08-27T16:00:00Z
+tags: ['Morning Intelligence', 'IDX', 'Market Analysis']
 ---
 
-# 📊 IDX Morning Market Intelligence
+# 📊 IDX Market Close — Update Penutupan
 
-Edisi Kamis, 27 Agustus 2026. Data pasar dari penutupan Rabu (26/8) — sesi penuh pertama setelah libur Maulid Nabi.
+Edisi Kamis, 27 Agustus 2026 — 16.30 WIB. Laporan pagi hari menyoroti risiko demo; edisi ini mereviu realitas penutupan: pasar justru berbalik menguat signifikan.
 
 ## 📌 Ringkasan Eksekutif
 
-IHSG membuka menguat di 6.507 dan sempat menyentuh 6.532, tapi tekanan jual kian deras sepanjang sesi hingga menutup hari di **titik terendahnya: 6.405,69 (-1,48% atau -95,98 poin)** — kembali ke bawah level psikologis 6.500. Koreksi ini terjadi saat bursa Asia justru kompak menguat (Nikkei +0,62%, Shanghai +0,59%), sinyal tekanan lebih bersifat domestik: profit taking setelah rebound Senin, antisipasi data inflasi AS yang ternyata panas, dan kewaspadaan menjelang aksi demo 27 Agustus.
+Lawan dari prediksi skenario terburuk: IHSG ditutup **menguat 116,06 poin (+1,81%) ke 6.521,75 — level tertinggi harian** — setelah dibuka di 6.390,35 dan sempat menyentuh low 6.376,65 di awal sesi. Rebound ini sepenuhnya menghapus koreksi Rabu (-1,48%) dan menjadi kebalikan sempurna pola "trap" kemarin: hari ini pembeli justru menahan harga di penutupan, bukan menjualnya.
 
-Di global, **PCE AS Juli lebih panas dari ekspektasi** (headline 3,7% YoY; MoM +0,2% vs proyeksi +0,1%) memicu penguatan dolar — DXY naik ke 99,07 (+0,23%) — dan menaikkan ekspektasi The Fed tetap hawkish. Semalam **Nvidia mencetak rekor pendapatan US$96,2 miliar (+106% YoY)** melampaui konsensus, namun sahamnya justru turun ~1,2% ke US$207: pola klasik *sell the news* setelah reli panjang.
+Dua katalis menjelaskan pembalikan arah. **Pertama**, Komisi XI DPR menetapkan **Destry Damayanti sebagai Gubernur BI periode 2026-2031** — disertai Aida S. Budiman (Deputi Gubernur Senior) dan Solikin M. Juhro (Deputi Gubernur) — menyelesaikan ketidakpastian kepemimpinan bank sentral yang selama dua pekan menahan selera risiko. **Kedua**, aksi demo 27 Agustus di depan Gedung DPR berlalu **tertib dan gagal menjadi sentimen negatif**; pelaku pasar yang semula wait-and-see kembali masuk sepanjang sesi II.
 
-Sentimen jangka pendek: **netral-cenderung-bearish**, risk level **MODERAT**. Fear & Greed global 55,17 (greed, turun dari 58,8). Catatan menarik: di tengah koreksi, investor asing justru mencatat **net buy Rp1,37 triliun** di seluruh pasar — didominasi transaksi besar di saham DSSA (Rp1,4 T) via pasar tunai/negosiasi.
+Penguatan bersifat sangat luas: **553 saham naik vs hanya 96 melemah**, dan **seluruh 11 sektor IDX-IC ditutup hijau** — sektor industri memimpin +3,95%. Sentimen global mendukung: S&P 500 +0,72%, VIX turun 4,6% ke 14,51, dan Fear & Greed naik ke 58 (greed). Catatan: penguatan indeks **tidak** diikuti rupiah — USD/IDR justru melemah ke 17.740 (JISDOR 17.762), sinyal rebound digerakkan dana domestik, bukan inflow asing regional. Risk level: **MODERAT** — momentum positif, tapi tren turun jangka menengah (YTD -24,6%) belum berubah.
 
 ## 💹 Data Pasar
 
-### Gerak IHSG (5 sesi terakhir)
+### Gerak IHSG (6 sesi terakhir)
 
-| Tanggal | Open | High | Low | Close | Perubahan |
-|---|---|---|---|---|---|
-| 20 Agu (Kam) | 6.447,25 | 6.514,68 | 6.444,40 | 6.501,58 | +1,68% |
-| 21 Agu (Jum) | 6.524,08 | 6.551,96 | 6.507,43 | 6.525,69 | +0,37% |
-| 24 Agu (Sen) | 6.544,00 | 6.551,00 | 6.474,57 | 6.501,67 | -0,37% |
-| 25 Agu (Sel) | — | — | — | — | ⛔ Libur Maulid Nabi |
-| 26 Agu (Rab) | 6.507,14 | 6.532,17 | 6.405,69 | **6.405,69** | **-1,48%** |
+| Tanggal      | Open     | High         | Low      | Close        | Perubahan            |
+| ------------ | -------- | ------------ | -------- | ------------ | -------------------- |
+| 20 Agu (Kam) | 6.447,25 | 6.514,68     | 6.444,40 | 6.501,58     | +1,68%               |
+| 21 Agu (Jum) | 6.524,08 | 6.551,96     | 6.507,43 | 6.525,69     | +0,37%               |
+| 24 Agu (Sen) | 6.544,00 | 6.551,00     | 6.474,57 | 6.501,67     | -0,37%               |
+| 25 Agu (Sel) | —        | —            | —        | —            | ⛔ Libur Maulid Nabi |
+| 26 Agu (Rab) | 6.507,14 | 6.532,17     | 6.405,69 | 6.405,69     | -1,48%               |
+| 27 Agu (Kam) | 6.390,35 | **6.521,75** | 6.376,65 | **6.521,75** | **+1,81%**           |
 
-IHSG melemah 0,68% dalam lima hari perdagangan terakhir dan **-25,92% sejak awal tahun** — konteks penting: pasar masih dalam tren turun jangka menengah.
+IHSG nyaris flat untuk pekan ini (-0,06% vs close 21/8) dan **-24,58% sejak awal tahun** — rebound hari ini memangkas separuh kerugian tahunan yang sempat -25,92%.
 
 ### Indikator Utama
 
-| Indikator | Nilai | Perubahan |
-|---|---|---|
-| IHSG | 6.405,69 | -1,48% |
-| USD/IDR (spot, tutup 26/8) | 17.725 | melemah tipis (JISDOR: 17.717) |
-| DXY | 99,07 | +0,23% |
-| S&P 500 | 7.675,83 | -0,02% |
-| Dow Jones | 53.463,88 | -0,21% |
-| Nasdaq 100* | 29.598,5 | +1,05% |
-| VIX | 15,21 | -1,55% |
-| Gold (futures) | 4.675,60 | +0,81% |
-| WTI Crude | 81,83 | -0,64% |
-| Bitcoin | 78.986 | +0,54% |
-| Fear & Greed (saham) | 55,17 | greed (sebelumnya 58,8) |
-| Asing, seluruh pasar (26/8) | +Rp1,37 T | net beli (pasar reguler: -Rp201 M) |
-| BI Rate | 5,75% | hold (RDG 19/8) |
-| Inflasi Indonesia (Jul) | 2,88% | YoY |
-
-\*Data Zapi — indeks acuan Nasdaq 100; Nasdaq Composite ditutup ~26.151.
+| Indikator               | Nilai     | Perubahan                          |
+| ----------------------- | --------- | ---------------------------------- |
+| IHSG                    | 6.521,75  | **+1,81%**                         |
+| USD/IDR (spot)          | 17.740    | melemah +0,14% (JISDOR: 17.762)    |
+| DXY                     | 99,09     | flat, tertahan jelang Jackson Hole |
+| S&P 500                 | 7.730,79  | +0,72%                             |
+| Dow Jones               | 53.568,55 | +0,20%                             |
+| Nasdaq 100              | 29.612    | -0,28%                             |
+| VIX                     | 14,51     | -4,60%                             |
+| Gold (futures)          | 4.654,11  | -0,21%                             |
+| WTI Crude               | 83,62     | +0,11%                             |
+| Fear & Greed (saham)    | 58,17     | greed (sebelumnya 55,17)           |
+| Fear & Greed (kripto)   | 71        | greed                              |
+| BI Rate                 | 5,75%     | hold (RDG 19/8)                    |
+| Inflasi Indonesia (Jul) | 2,88%     | YoY                                |
 
 ### Komoditas
 
-| Komoditas | Harga | Perubahan | Satuan | Impakt ke IDX |
-|---|---|---|---|---|
-| WTI Crude Oil | 81,83 | -0,6% | USD/bbl | energi: MEDC, AKRA |
-| Gold (futures) | 4.675,60 | +0,8% | USD/oz | emas: ANTM, MDKA |
-| Emas Antam | 2.750.000 | -18.000 | IDR/gr | ANTM (buyback 2.610.000) |
-| CPO (FCPO) | 4.946 | -1,4% | MYR/ton | perkebunan: AALI, LSIP, UNSP |
-| Newcastle Coal | N/A | N/A | USD/ton | batubara: ADRO, PTBA, ITMG |
-| Nickel (LME) | 16.780 | N/A | USD/ton | nikel: ANTM, INCO |
-| Copper (LME) | 14.425 | N/A | USD/ton | tambang: ANTM, MDKA |
-| Tin (LME) | 55.700 | N/A | USD/ton | timah: TINS |
+| Komoditas         | Harga    | Perubahan | Unit    | Impakt ke IDX                |
+| ----------------- | -------- | --------- | ------- | ---------------------------- |
+| WTI Crude Oil     | 83,62    | +0,1%     | USD/bbl | energi: MEDC, AKRA, PGAS     |
+| Gold (futures)    | 4.654,11 | -0,2%     | USD/oz  | emas: ANTM, MDKA             |
+| CPO (FCPO Sep'26) | 4.661    | +31       | MYR/ton | perkebunan: AALI, LSIP, UNSP |
+| Newcastle Coal    | N/A      | N/A       | USD/ton | batubara: ADRO, PTBA, ITMG   |
+| Nickel (LME)      | 16.895   | -155      | USD/ton | nikel: ANTM, INCO            |
+| Copper (LME)      | 14.525   | +189      | USD/ton | tambang: ANTM, MDKA, Vale    |
+| Zinc (LME)        | 4.107    | +174      | USD/ton | logam: ANTM, INCO            |
+| Tin (LME)         | 55.300   | -200      | USD/ton | timah: TINS                  |
 
-*Harga LME = official settlement 25/8 (WestMetall). Tembaga COMEX 6,72 USD/lb (+0,2%), silver 68,93 (+0,4%).*
+_Harga LME = official settlement terbaru (WestMetall, 26/8). CPO = penutupan MDEX 27/8 via agropost._
 
-### Nilai Tukar (26/8)
+### Nilai Tukar (ECB fixing, 27/8)
 
-| Pasangan | Nilai | Pasangan | Nilai |
-|---|---|---|---|
-| EUR/USD | 1,1669 | USD/CNY | 6,7205 |
-| USD/JPY | 159,07 | USD/THB | 32,75 |
-| GBP/USD | 1,363 | USD/MYR | 4,03 |
-| USD/SGD | 1,2698 | USD/KRW | 1.383,5 |
-| EUR/IDR | ~20.670 | SGD/IDR | ~13.950 |
+| Pasangan | Nilai  | Pasangan | Nilai    |
+| -------- | ------ | -------- | -------- |
+| EUR/USD  | 1,1645 | USD/CNY  | 6,7203   |
+| USD/JPY  | 159,39 | USD/THB  | 32,855   |
+| GBP/USD  | 1,3582 | USD/MYR  | 4,033    |
+| USD/SGD  | 1,2713 | USD/KRW  | 1.380,38 |
 
 ## 📰 Berita & Analisis
 
 ### 📈 Pasar Modal
 
-- **IHSG jatuh ke titik terendah sesi, 11 sektor merah** — Seluruh sektor IDX-IC terkoreksi: terdalam transportasi -4,15%, properti -2,71%, energi -2,61%, konsumer nonprimer -2,42%. Pemberat utama: BBRI (-9,33 poin indeks, ditutup Rp3.130), AMMN (-4,94), BBCA (-4,70), BMRI (-4,35). Penopang: saham grup Merdeka (+4,22), BYAN (+3,47), MDKA (+1,72). Hanya 3 saham LQ45 hijau: MDKA +2,03%, ICBP +1,29%, ADMR +0,30%. Nilai transaksi Rp18,06 T; 583 saham turun vs 118 naik. *Sumber: CNBC Indonesia, Kontan, Databoks, 26/8*
-- **Asing net buy Rp1,37 T di tengah koreksi** — Didominasi transaksi jumbo DSSA Rp1,4 T di pasar tunai/negosiasi; di pasar reguler justru net sell Rp201,1 M. Net buy besar lain: BMRI Rp257,3 M, EXCL Rp246,5 M. Net sell: TPIA Rp200,4 M, GOTO Rp82,2 M, ISAT Rp58,5 M. Ini bukan capital flight — ini rotasi institusi ke saham yang dinilai murah. *Sumber: Kontan, 26/8*
+- **IHSG ditutup di level tertinggi harian, semua sektor hijau** — Industri +3,95%, konsumer nonprimer +3,79%, dan kesehatan +3,76% memimpin; keuangan paling "kalem" (+0,79%) setelah jadi pemberat utama kemarin. Top gainers: GRPH +25,35%, BIKE & KETR +25%, NICK +24,92%. Nilai transaksi Rp13,66 triliun — lebih rendah dari Rp18 triliun kemarin. _Sumber: CNBC Indonesia, Kompas, Databoks (RTI), 27/8_
+- **Asing lanjut akumulasi di saham lapis kedua** — Top net buy asing (reguler): BUMI, BIPI, INET, DMAS, BNBR. Pola ini melanjutkan rotasi institusi yang mulai terlihat saat koreksi Rabu: dana besar pindah dari saham yang sudah rally ke nilai yang tertinggal. _Sumber: Infovesta/IDX data, 27/8_
 
 ### 💱 Valas & Makro
 
-- **PCE AS panas, mantra hawkish kembali** — PCE headline Juli 3,7% YoY dan +0,2% MoM (di atas ekspektasi +0,1%); core PCE 3,3% YoY. Risalah pasar: The Fed dipandang tak akan buru-buru memangkas suku bunga; dolar menguat ke 99,07. Tekanan untuk rupiah dan aset EM berlanjut. *Sumber: TradingEconomics, Reuters, fxstreet-id, 26/8*
-- **FnP Gubernur BI: pasar tunggu kepastian** — Destry Damayanti menjalani fit & proper test di Komisi XI DPR (26/8, 10.00 WIB), disusul calon Deputi Gubernur Senior Aida S. Budiman. Destry memberi sinyal BI Rate tak akan buru-buru naik dan mengandalkan strategi "smart intervention" untuk stabilitas rupiah; keputusan Komisi XI dijadwalkan Rabu 16.00 WIB. Hari ini (27/8) agenda berlanjut untuk dua calon DGS — Solikin M. Juhro dan Anwar Basori (14.00 WIB). Rupiah ditutup 17.725, melemah tipis dari 17.723. *Sumber: CNBC Indonesia, investor.id, ANTARA, MetroTV, 26/8*
+- **DPR "Tok!" Destry Damayanti pimpin BI 2026-2031** — Komisi XI DPR menyetujui Destry (Gubernur), Aida S. Budiman (Deputi Gubernur Senior), dan Solikin M. Juhro (Deputi Gubernur) via rapat internal/musyawarah mufakat, Kamis sore. Analis Pilarmas Investindo menilai penguatan IHSG hari ini adalah respons langsung atas kepastian kontinuitas kebijakan moneter. Penetapan resmi di Sidang Paripurna DPR: **1 September 2026**. _Sumber: detikFinance, Suara.com, RRI, 27/8_
+- **Rupiah melemah ke 17.740 meski IHSG menguat** — Rupiah ditutup di 17.740 (+0,14%) dengan JISDOR 17.762. Dolar AS bertahan di DXY 99 jelang simposium Jackson Hole; investor menunggu kejelasan arah kebijakan era kepemimpinan Fed baru. Inflasi AS yang panas (PCE 3,7%) menjaga ekspektasi "higher for longer", menahan apresiasi rupiah meski sentimen saham domestik membaik. _Sumber: fxstreet-id, Reuters, 27/8_
 
 ### 🏢 Korporasi
 
-- **MEJA: rights issue + akuisisi batu bara + jadi holding** — PT Harta Djaya Karya Tbk (MEJA) menyetujui peningkatan modal dasar dari Rp100 M ke Rp208,64 M (RUPSLB 21/8), menyiapkan rights issue (indikasi Rp450-550/saham) dan akuisisi PT Trimata Coal Perkasa (TCP), sekaligus transformasi menjadi perusahaan induk. Target seluruh rangkaian tuntas Q4 2026. Saham MEJA naik 25% dalam sebulan. *Sumber: CNBC Indonesia, 26/8*
-- **BAJA ex-date rights issue** — Cum date 24/8, ex-date 26/8, recording date hari ini (27/8). 900 juta saham baru @Rp500 (rasio 2:1), potensi dana Rp450 miliar; perdagangan HMETD 31/8-4/9. *Sumber: BEI/Ajaib, 24-26/8*
+- **WEGE amankan kontrak baru Rp775 miliar** — PT Wahana Inti Makmur Tbk (WEGE) mencatat kontrak baru senilai Rp775 miliar per akhir Agustus 2026, penguatan orderbook yang relevan bagi sektor infrastruktur/energi terkait. _Sumber: Kontan, 27/8_
+- **Marvell forecasting revenue di atas estimasi** — Semikonduktor global kembali menyerah di atas konsensus, menegaskan siklus belanja AI masih ekspansif — relevan bagi emiten teknologi dan manufaktur rantai pasok Asia. _Sumber: Reuters, 27/8_
 
 ### 🛢️ Komoditas & Energi
 
-- **Minyak tertekan 3 hari, emas tetap kokoh** — WTI ~US$81,8 setelah turun tiga sesi beruntun; pasar menimbang risiko permintaan vs premi pasokan. Emas futures bertahan US$4.675 (+0,8%) meski dolar menguat; emas Antam turun Rp18 ribu ke Rp2.750.000/gram (buyback Rp2.610.000). *Sumber: Kontan, Yahoo Finance, 26/8*
-- **Logam dasar LME tetap tinggi** — Tembaga US$14.425/ton, timah US$55.700/ton, nikel US$16.780/ton (settlement 25/8). Saham tambang relatif tahan di tengah koreksi: MDKA +2,03% dan ADMR +0,30% justru jadi penopang LQ45. *Sumber: WestMetall, 25-26/8*
+- **Minyak rebound, premi risiko Iran kembali** — WTI naik ke US$83,6 setelah Trump membatalkan MOU dengan Iran, membuat negosiasi Selat Hormuz macet dan risiko pasokan tinggi. Brazil memperpanjang pajak ekspor minyak mentah 60 hari. Penguatan ini positif untuk MEDC, AKRA, dan PGAS. _Sumber: Investing.com/Reuters via Zapi, 27/8_
+- **Tembaga & seng menguat, nikel melemah** — Settlement LME: tembaga US$14.525/ton (naik dari 14.336) dan seng US$4.107/ton (+4,4%), sementara nikel turun ke US$16.895. CPO ditutup menguat ke RM4.661/ton (+31) — tailwind untuk AALI, LSIP, dan sektor perkebunan yang sempat tertekan. _Sumber: WestMetall, agropost, 26-27/8_
 
 ### 🌍 Geopolitik & Kebijakan
 
-- **Demo 27 Agustus: risiko domestik hari ini** — Aliansi GERAM menggelar aksi di depan Gedung DPR/MPR Senayan mulai 14.00 WIB (estimasi ~1.000 massa, 10 tuntutan); sejumlah perkantoran di kawasan Sudirman menerapkan WFH. CoRE menilai dampak ke rupiah dan IHSG tidak otomatis negatif selama aksi tertib — BEM SI dan KSPI/Partai Buruh tidak ikut mobilisasi besar. *Sumber: Kontan, tirto.id, Media Indonesia, 25-26/8*
-- **Nvidia rekor, sahamnya turun** — Pendapatan Q2 FY27 US$96,2 M (+106% YoY), EPS non-GAAP US$2,22 (konsensus US$2,08), Data Center US$89 M (+117%), guidance Q3 US$108 M di atas ekspektasi. Saham turun ~1,2% ke US$207 setelah sempat -2%: pasar sudah mempriskannya. Implikasi jangka menengah tetap positif untuk ekosistem AI global. *Sumber: TradingKey, StockTitan, 26/8*
+- **Demo 27 Agustus jadi non-event** — Aksi di depan Gedung DPR/MPR berlangsung tertib dan tidak mengganggu aktivitas bursa; investor yang semula khawatir (IHSG dibuka melemah ke 6.390) kembali masuk sejak sesi I. Ini konfirmasi empiris bahwa risiko demonstrasi bersifat temporer selama aksi tidak beresonansi luas. _Sumber: BeritaSatu, investor.id, 27/8_
+- **Jackson Hole: pasar antre arah kebijakan Fed baru** — Investor menunggu klarifikasi rencana Kevin Warsh di Fed; Gubernur Collins menilai data inflasi terkini "mixed" dan tetap terbuka terhadap kenaikan suku bunga. Volatilitas aset global berpotensi naik akhir pekan ini. _Sumber: Reuters, 27/8_
 
 ## 🎯 Outlook & Strategi
 
-| Faktor | Dampak |
-|---|---|
-| IHSG di bawah 6.500, close di titik terendah sesi | ⚠️ Momentum negatif; uji support 6.400-6.373 |
-| PCE panas → Fed hawkish lebih lama, DXY 99 | ⚠️ Tekanan rupiah & aset EM |
-| Demo 27/8 hari ini (14.00 WIB) | ⚠️ Volatilitas intraday; pantau ketertiban aksi |
-| Nvidia beat + guidance kuat | ✅ Sentimen AI/teknologi global tetap positif |
-| Asing net buy Rp1,37 T (akumulasi institusi) | ✅ Dana asing tak keluar masif |
-| FnP BI lanjut, ekspektasi BI Rate tetap 5,75% | ✅ Kepastian kebijakan moneter |
-| Keputusan DPR calon DGS (sore ini) | ⚠️ Event domestik menjelang penutupan |
+| Faktor                                                     | Dampak                                          |
+| ---------------------------------------------------------- | ----------------------------------------------- |
+| Close di level tertinggi harian + breadth 553:96           | ✅ Momentum bullish jangka pendek               |
+| Kepastian kepemimpinan BI (Destry dkk.)                    | ✅ Ketidakpastian domestik berkurang            |
+| Penetapan paripurna 1 Sep + rebalancing MSCI efektif 1 Sep | ✅ Dua katalis struktural awal September        |
+| Demo tertib, risiko sosial-politik mereda                  | ✅ Diskon risiko domestik menyempit             |
+| Rupiah melemah ke 17.740 di tengah IHSG hijau              | ⚠️ Rebound bukan didorong inflow asing regional |
+| Jackson Hole + narasi "higher for longer"                  | ⚠️ Volatilitas global akhir pekan               |
+| YTD masih -24,6%, downtrend menengah                       | ⚠️ Rebound belum tentu reversal tren            |
 
-**Support:** 6.400 (low 26/8) → 6.373 (low 19/8) → 6.272
-**Resistance:** 6.500 (psikologis) → 6.532 (high 26/8) → 6.551 (high 21/8)
+**Support:** 6.450 → 6.405 (low 26/8) → 6.376 (low 27/8)
+**Resistance:** 6.551 (high 21/8) → 6.600 → 6.705
 
-**Katalis Positif:** kelanjutan proses FnP BI (kontinuitas kebijakan), akumulasi asing di big caps (DSSA, BMRI, EXCL), emas & logam dasar kokoh (ANTM, MDKA, TINS), sentimen AI global pasca-Nvidia.
+**Katalis Positif:** penetapan paripurna kepemimpinan BI (1/9), rebalancing MSCI efektif 1/9, CPO & tembaga menguat (AALI, ANTM, MDKA), minyak rebound (energi), VIX turun ke 14,5.
 
-**Katalis Negatif:** demo 27/8, PCE panas (risiko hawkish berkepanjangan), WTI turun 3 hari (sektor energi), posisi IHSG di bawah 6.500 dengan YTD -25,92%.
+**Katalis Negatif:** Jackson Hole berpotensi hawkish, rupiah bertahan di 17.700-an, nilai transaksi merosot ke Rp13,7 T (rebound tanpa konfirmasi volume penuh), downtrend YTD belum patah.
 
-**Watchlist:** MDKA & ICBP (satu-satunya LQ45 hijau — kekuatan relatif), BMRI & EXCL (borongan asing), BYAN (penopang IHSG), ANTM & TINS (logam dasar), BBRI (pemberat utama — tunggu stabilisasi di Rp3.130).
+**Watchlist:** BUMI & BIPI (akumulasi asing berlanjut), saham industri & konsumer nonprimer (sektor terkuat hari ini), ANTM & MDKA (tembaga/emas kokoh), AALI & LSIP (CPO naik), BBRI (pantau stabilisasi pasca-koreksi 9% indeks Rabu).
 
 ## 💡 Tren & Insight
 
-1. **Sesi "trap di tengah"** — IHSG menyentuh 6.532 lalu ditutup di titik terendah 6.405. Pola reversal intraday ini menandakan supply besar di atas 6.500: setiap rebound ke 6.500-6.530 rawan dijual, selama support 6.400 belum teruji ulang.
-2. **Divergensi asing vs indeks** — IHSG -1,48% tapi asing net buy Rp1,37 T. Ini rotasi, bukan outflow: keluar dari saham yang sudah rally (TPIA, GOTO, ISAT) masuk ke nilai yang dianggap murah (DSSA, BMRI, EXCL). Institusi mulai "memancing di air keruh" — sinyal kontrarian untuk jangka menengah.
-3. **Domestik lebih lemah dari regional** — Bursa Asia menguat saat IHSG terjun; pembedanya event politik domestik (demo + proses FnP BI). Pola serupa Juli (tekanan jelang ketidakpastian kebijakan) muncul dalam skala lebih kecil.
-4. **PCE 3,7% menghidupkan kembali narasi "higher for longer"** — DXY 99 dan rupiah di 17.700-an menguji kesabaran BI. Sinyal Destry (BI Rate tak buru-buru naik + smart intervention) menunjukkan penjagaan stabilitas lewat intervensi, bukan suku bunga — netral-positif untuk pertumbuhan kredit.
-5. **"Sell the news" Nvidia** — Ekonomi AI tetap ekspansif (revenue +106%, Data Center +117%), tapi harga sudah di depan fakta. Koreksi saham Nvidia jangka pendek tidak mengubah tren belanja AI — tailwind jangka panjang untuk rantai pasok semikonduktor.
-6. **Defensif baru: logam mulia & perbankan** — Di tengah koreksi, saham emas/tambang (MDKA, BYAN, EMAS) dan perbankan besar justru diakumulasi asing. Rotasi ke sektor berarus kas kuat adalah ciri pasar yang menunggu kejelasan katalis.
+1. **Rebound V-shape, tapi belum terkonfirmasi volume** — Dari -1,48% ke +1,81% dalam dua sesi, ditutup di level tertinggi harian: kebalikan sempurna pola "trap" Rabu. Namun nilai transaksi Rp13,66 T (dari Rp18 T) menunjukkan kenaikan digerakkan short-covering dan kembalinya risiko, bukan dana baru masif. Konfirmasi lanjutan butuh transaksi >Rp15 T.
+2. **Politik keluar dari persamaan, kebijakan masuk** — Demo yang dianggap risiko utama minggu ini ternyata non-event; yang benar-benar menggerakkan pasar adalah kepastian institusi: DPR menyetujui jenazah kepemimpinan BI tepat saat sesi II berjalan. Pasar membayar kontinuitas, bukan kejutan.
+3. **Divergensi saham vs rupiah adalah sinyal yang jujur** — IHSG +1,81% tapi rupiah melemah ke 17.740. Penguatan indeks murni onshore; tanpa inflow asing regional (yang masih terkunci Jackson Hole dan dolar 99), ruang apresiasi IHSG di atas 6.550 terbatas.
+4. **Rotasi high-beta menyempurnakan siklus dua hari** — Rabu: transportasi & properti paling jatuh, keuangan pemberat. Kamis: industri, konsumer nonprimer, dan kesehatan paling naik. Pasar sedang dalam mode trading range — keuntungan ada di sisi yang kontra, bukan mengejar momentum sektor yang sudah bergerak.
+5. **Kalender 1 September padat ganda** — Penetapan paripurna BI dan efektifnya rebalancing MSCI jatuh di hari yang sama. Kombinasi kepastian institusi + keharusan beli/sell dana indeks berpotensi membuat awal September lebih likuid dan arah lebih tegas daripada akhir Agustus.
+6. **Komoditas domestik kembali memberi arah** — Tembaga +189, seng +4,4%, CPO +31, minyak +0,1%: keranjang komoditas yang relevan bagi IHSG (tambang, perkebunan, energi) menguat serentak untuk pertama kalinya dalam sepekan. Jika bertahan, sektor barang baku bisa melanjutkan reli yang baru dimulai Kamis.
 
 ---
 
-⚠️ *Disclaimer: Laporan ini bersifat informatif, bukan rekomendasi jual/beli. Selalu lakukan riset mandiri sebelum berinvestasi.*
+⚠️ _Disclaimer: Laporan ini bersifat informatif, bukan rekomendasi jual/beli. Selalu lakukan riset mandiri sebelum berinvestasi._
 
-**Sumber:** CNBC Indonesia, Kontan (Pusat Data), Bisnis.com, ANTARA, Databoks, tirto.id, Media Indonesia, WestMetall, Yahoo Finance, TradingEconomics, TradingKey, StockTitan, fxstreet-id, Bank Indonesia (BI Rate, inflasi, JISDOR via Zapi API), Investing.com (via Zapi API).
+**Sumber:** CNBC Indonesia, Kompas, Databoks (RTI), BeritaSatu, detikFinance, Suara.com, RRI, investor.id, Kontan, Infovesta/IDX, Reuters, fxstreet-id, WestMetall (LME), agropost (MDEX), Investing.com (via Zapi API), Bank Indonesia (JISDOR, BI Rate, inflasi via Zapi API).
