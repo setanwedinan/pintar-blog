@@ -1,7 +1,7 @@
 ---
 title: "IDX Morning Market Intelligence — 27 Agustus 2026: IHSG Jatuh ke 6.405, PCE AS Panas, Nvidia Rekor Tapi Sahamnya Turun"
 description: "IHSG ditutup 6.405,69 (-1,48%) di titik terendah sesi meski asing net buy Rp1,37 T (DSSA Rp1,4 T). PCE AS panas dorong DXY ke 99,07; Nvidia rekor US$96,2 M tapi saham turun. Rupiah 17.725, demo 27/8 jadi katalis domestik."
-pubDate: 2026-08-26T23:32:00Z
+pubDate: 2026-08-27T01:00:00Z
 tags: ["Morning Intelligence", "IDX", "Market Analysis"]
 ---
 
