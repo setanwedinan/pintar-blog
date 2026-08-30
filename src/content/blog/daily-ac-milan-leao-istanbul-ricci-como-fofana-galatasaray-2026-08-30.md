@@ -39,12 +39,12 @@ Pihak AC Milan dan Como telah merilis pernyataan resmi mengenai tuntasnya proses
 
 ## 💼 Gerry Cardinale Turun Tangan: Kejar 2 Pemain Baru & Update Situasi Fofana
 
-Dengan hengkangnya Leão dan Ricci, pemilik RedBird Capital, **Gerry Cardinale**, dilaporkan memilih tetap berada di kota Milano untuk memimpin langsung koordinasi bursa transfer bersama Giorgio Furlani, Geoffrey Moncada, dan pelatih Rúben Amorim.
+Dengan hengkangnya Leão dan Ricci, pemilik RedBird Capital, **Gerry Cardinale**, dilaporkan memilih tetap berada di kota Milano untuk memimpin langsung koordinasi bursa transfer bersama pelatih Rúben Amorim _(MilanReports, mengutip MilanNews.it)_.
 
 Beberapa sorotan dinamika transfer terkini (_MilanReports_ & _Sports Yahoo_):
 
 1. **Dua Rekrutan Baru Wajib Hadir:** Amorim secara gamblang menegaskan kepada jajaran direksi bahwa timnya membutuhkan satu penyerang sayap berkarakter eksplosif dan satu bek multifungsi untuk mengarungi jadwal padat Serie A dan kompetisi Eropa.
-2. **Youssouf Fofana Masuk Radar Keluar:** Gelandang asal Prancis, Youssouf Fofana, dilaporkan menerima tawaran konkret dari beberapa klub, termasuk minat serius dari Galatasaray. Namun, Milan menegaskan hanya akan melepas Fofana lewat skema penjualan permanen tunai, menolak segala bentuk opsi peminjaman.
+2. **Youssouf Fofana Masuk Radar Keluar:** Gelandang asal Prancis, Youssouf Fofana, dilaporkan menerima tawaran konkret dari beberapa klub — termasuk minat dari Galatasaray (yang mengincar skema pinjaman) dan sejumlah klub Premier League, dengan Juventus yang juga diproyeksikan mencoba lagi dalam beberapa hari ke depan.
 3. **Frustrasi di Lini Belakang & Depan:** Beberapa nama seperti Santiago Giménez dan Fikayo Tomori dikabarkan menginginkan kepastian peran taktikal di bawah skema anyar Amorim.
 
 ---
@@ -59,7 +59,7 @@ Pihak klub telah mengimbau para suporter untuk bersiap menyambut pembukaan penju
 
 ## 💡 Insight Hari Ini
 
-Restrukturisasi AC Milan di bawah Rúben Amorim berjalan sangat cepat dan tanpa kompromi. Pelepasan Rafael Leão dan Samuele Ricci menunjukkan kesiapan manajemen merombak pilar lama demi membangun tim yang lebih kompak dan sesuai dengan tuntutan taktik sang _allenatore_. Kunci keberhasilan musim 2026/27 kini berada di tangan Cardinale dan Moncada: 48 jam ke depan akan menentukan apakah dana hasil penjualan bintang mampu ditransformasikan menjadi kedalaman skuat yang seimbang.
+Restrukturisasi AC Milan di bawah Rúben Amorim berjalan sangat cepat dan tanpa kompromi. Pelepasan Rafael Leão dan Samuele Ricci menunjukkan kesiapan manajemen merombak pilar lama demi membangun tim yang lebih kompak dan sesuai dengan tuntutan taktik sang _allenatore_. Kunci keberhasilan musim 2026/27 kini berada di tangan Cardinale dan Amorim: 48 jam ke depan akan menentukan apakah dana hasil penjualan bintang mampu ditransformasikan menjadi kedalaman skuat yang seimbang.
 
 ---
 
