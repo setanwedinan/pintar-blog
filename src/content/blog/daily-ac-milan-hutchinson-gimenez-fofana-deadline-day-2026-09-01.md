@@ -14,7 +14,8 @@ Sudah bukan rumor lagi. AC Milan mengumumkan **penandatanganan sementara (loan) 
 Detail menarik dari liputan lintas media:
 
 - Forest sendiri mengonfirmasi kepergiannya lewat situs resmi klub, menyebut Hutchinson kini akan menjalani musim 2026/27 bersama "seven-time European champions" AC Milan [nottinghamforest.co.uk].
-- Angka yang beredar: pemain ini mencatat **delapan assist dalam 42 penampilan** di semua kompetisi pada musim lalu [SuperSport]. Ironisnya, sebagian statistik itu ia catat di bawah asuhan Ruben Amorim — yang kini jadi pelatihnya di Milan.
+- Angka yang beredar: pemain ini mencatat **delapan assist dan satu gol dalam 42 penampilan** di semua kompetisi pada musim lalu [SuperSport, The Athletic].
+- Menariknya, **Amorim sendiri jadi pendorong utama transfer ini** — ia kenal baik profil Hutchinson dari masa jabatannya di Manchester United, dan yakin kreativitas winger ini akan berkembang di sistem Milan yang lebih mendominasi bola [Goal.com].
 - The Athletic (via New York Times) mencatat Sabtu lalu Milan memang sudah dalam "advanced talks" dengan Forest, dan Transfermarkt menyorot betapa cepat putar baliknya: Hutchinson baru setahun lalu menjadi **record signing Nottingham Forest**, kini sudah dipinjamkan.
 
 ## ✈️ Resmi Juga: Santiago Gimenez Menuju FC Porto
@@ -60,6 +61,7 @@ Pola hari ini jelas: Amorim membentuk squad sesuai skemanya — Hutchinson masuk
 - [BBC Sport — Omari Hutchinson joins AC Milan on season-long loan](https://www.bbc.com/sport/football/articles/c62k7n7p64eo)
 - [Nottingham Forest — Hutchinson joins AC Milan on loan](https://www.nottinghamforest.co.uk/news/2026/august/31/hutchinson-joins-ac-milan-on-loan/)
 - [SuperSport — AC Milan sign Hutchinson on loan](https://supersport.com/football/news/8a0d665f-3343-4eef-b9a7-56389bae552e/ac-milan-sign-hutchinson-on-loan-from-nottingham-forest)
+- [Goal.com — Hutchinson set for AC Milan medical as loan move nears completion](https://www.goal.com/en-us/lists/omari-hutchinson-ac-milan-medical-nottingham-forest-loan-move-completion/bltc799d2e8dbb7c208)
 - [The New York Times / The Athletic — Hutchinson joins AC Milan on loan](https://www.nytimes.com/athletic/live-blogs/transfer-news-live-updates-latest-premier-league/VCYQgT1A1J4K/8YxtMY1wj9oK/)
 - [ESPN — Santi Gimenez at Porto for medical](https://www.espn.com/soccer/story/_/id/49782594/santi-gimenez-porto-medical-ahead-loan-move-ac-milan-sources)
 - [Football Italia — Milan loan Gimenez to Porto with €18m option](https://football-italia.net/official-milan-loan-gimenez-porto-e18m-option/)
