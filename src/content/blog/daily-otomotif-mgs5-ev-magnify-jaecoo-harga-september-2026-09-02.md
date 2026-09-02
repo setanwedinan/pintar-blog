@@ -27,7 +27,7 @@ Moladin merilis daftar harga OTR terbaru mobil Jaecoo per September 2026, mencak
 
 ## ⚡ Sinyal Industri: Xpeng Siapkan Model Baru
 
-GridOto melaporkan Xpeng menyiapkan model baru yang diprediksi meluncur akhir 2026 — kabar yang menambah panjang daftar pabrikan China yang serius garap pasar. Ditambah berita lain dari kanal yang sama: Denza B5, SUV premium tahun 2026, sudah ada di Indonesia. Pasar EV dan mobil China di Indonesia semakin ramai, dan persaingan di tiap segmen makin tajam.
+GridOto melaporkan Xpeng menyiapkan model baru yang diprediksi meluncur akhir 2026 — kabar yang menambah panjang daftar pabrikan China yang serius garap pasar. Ditambah berita lain dari kanal yang sama: Denza B5, SUV premium PHEV tahun 2026, sudah diperkenalkan dan dipajang di dealer-dealer Indonesia, dengan pre-order sudah dibuka menanti peluncuran resmi yang direncanakan semester 2/2026. Pasar EV dan mobil China di Indonesia semakin ramai, dan persaingan di tiap segmen makin tajam.
 
 ## 🛵 Sekilas: Skema Baterai Motor Listrik
 
