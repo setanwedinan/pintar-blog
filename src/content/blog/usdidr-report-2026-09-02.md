@@ -66,7 +66,7 @@ Headline onshore juga menyoroti proses transisi kepemimpinan BI — proyeksi dar
 - **Minyak WTI +1,9% ke US$91,93** akibat eskalasi konflik AS–Iran — buruk untuk neraca perdagangan dan imported inflation Indonesia
 - **Imbal hasil 10Y AS di 4,81%** — yield yang tinggi menarik dana keluar dari pasar berkembang
 - **Fed hawkish** — FXStreet mencatat posisi Fed yang keras sebagai pendorong utama pelemahan akhir Agustus
-- **Inflasi Indonesia Agustus tembus 3,19% YoY** (dari 2,88%) — di atas batas atas target, investor.id menulis BI-Rate berpeluang naik lagi; tapi kenaikan bunga karena inflasi tidak serta-merta positif untuk sentimen
+- **Inflasi Indonesia Agustus naik ke 3,19% YoY** (dari 2,88%) — mendekati batas atas target 1,5–3,5% (masih 0,31pp di bawah plafon); investor.id menulis BI-Rate berpeluang naik lagi; tapi kenaikan bunga karena inflasi tidak serta-merta positif untuk sentimen
 - **VIX +9,5% dan Fear & Greed masuk zona fear** — risk-off global
 
 **Katalis penguat rupiah:**
@@ -86,12 +86,12 @@ Headline onshore juga menyoroti proses transisi kepemimpinan BI — proyeksi dar
 
 1. Eskalasi/de-eskalasi konflik AS–Iran — penentu arah minyak, dan minyak adalah penentu arah rupiah pekan ini
 2. Risalah rapat The Fed yang akan dirilis — konfirmasi seberapa hawkish posisi pedagang
-3. RDG Bank Indonesia September — dengan inflasi 3,19%, pasar akan menguji apakah BI naikkan rate atau tetap
+3. RDG Bank Indonesia September — inflasi 3,19% kini hanya 0,31pp di bawah plafon target, pasar akan menguji apakah BI naikkan rate atau tetap
 4. Data inflasi AS pekan ini — penggerak langsung yield Treasury dan DXY
 
 **Rekomendasi singkat:** Kebutuhan dolar jangka pendek (bayar impor, liburan) sebaiknya dicicil karena bias masih melemah. Bagi investor, pelemahan ke Rp17.750+ bukan alarm — struktural rupiah masih jauh lebih kuat dari awal tahun. Hedger dengan eksposur besar bisa mulai lindung nilai sebagian di resistance.
 
-**Kesimpulan:** September dibuka dengan rupiah di bawah tekanan — bukan karena masalah domestik, melainkan badai gaba global: konflik AS–Iran mendorong minyak ke atas US$90, yield Treasury AS menyentuh 4,81%, dan volatilitas pasar naik. Dengan inflasi domestik yang kembali tembus 3%, jalan bagi rupiah di pekan-pekan ini bergantung pada dua hal: redanya gejolak geopolitik, dan sikap BI di RDG September. Selama neraca perdagangan surplus dan BI Rate 5,75% dipertahankan, pelemahan kemungkinan masih terkendali di koridor Rp17.700–17.800.
+**Kesimpulan:** September dibuka dengan rupiah di bawah tekanan — bukan karena masalah domestik, melainkan badai gaba global: konflik AS–Iran mendorong minyak ke atas US$90, yield Treasury AS menyentuh 4,81%, dan volatilitas pasar naik. Dengan inflasi domestik yang naik ke 3% dan kini menempel di plafon target 1,5–3,5%, jalan bagi rupiah di pekan-pekan ini bergantung pada dua hal: redanya gejolak geopolitik, dan sikap BI di RDG September. Selama neraca perdagangan surplus dan BI Rate 5,75% dipertahankan, pelemahan kemungkinan masih terkendali di koridor Rp17.700–17.800.
 
 ---
 
