@@ -37,7 +37,7 @@ Dilaporkan **Samantha Kelly** dari **Bloomberg**, startup robotika dan AI **Lyte
 
 ## 🔬 iPronics Dapat $125 Juta untuk Teknologi Optical Circuit Switch, Nvidia Ikut Menanam Modal
 
-Dilaporkan **Stephen Nellis** dari **Reuters**, startup asal Valencia, Spanyol, **iPronics**, mengumumkan pendanaan **$125 juta** yang dikopimpin bersama Maverick Silicon dan Light Street, dengan partisipasi dari **Nvidia**. Fokusnya: mengembangkan teknologi optical circuit switch — teknologi yang semakin penting untuk menghubungkan ribuan chip AI di data center secara efisien.
+Dilaporkan **Stephen Nellis** dari **Reuters**, startup asal Valencia, Spanyol, **iPronics**, mengumumkan pendanaan **$125 juta** yang dipimpin bersama Maverick Silicon dan Light Street, dengan partisipasi dari **Nvidia**. Fokusnya: mengembangkan teknologi optical circuit switch — teknologi yang semakin penting untuk menghubungkan ribuan chip AI di data center secara efisien.
 
 Sumber: [TechMeme — laporan Reuters](https://www.techmeme.com/260902/p18#a260902p18)
 
