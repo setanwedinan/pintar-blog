@@ -11,7 +11,7 @@ Halaman depan Hacker News hari ini dipenuhi rilis besar: Google mengumumkan dua 
 
 Story paling mendominasi hari ini dengan jarak jauh: **1.092 poin dan 620 komentar**. Google mengumumkan **Gemini 3.8 Flash** bersama varian khusus **Gemini 3.8 Flash Cyber** melalui blog resminya. Menariknya, versi Cyber disebut ditujukan untuk para pembela keamanan siber (cyber defense) melalui program kemitraan baru bernama Fairwind.
 
-Rilis ini juga cepat sekali — hanya sekitar tiga pekan setelah Gemini 3.7 Flash. Dengan harga perkenalan $0,75 per 1 juta token input dan $3,75 per 1 juta token output hingga akhir tahun, Google jelas sedang agresif memperebutkan pasar model cepat berm biaya rendah. Diskusi di HN sendiri berputar di sekitar hasil benchmark dan posisinya dibanding model pesaing.
+Rilis ini juga cepat sekali — hanya sekitar tiga pekan setelah Gemini 3.7 Flash. Dengan harga perkenalan $0,75 per 1 juta token input dan $3,75 per 1 juta token output hingga akhir tahun, Google jelas sedang agresif memperebutkan pasar model cepat berbiaya rendah. Diskusi di HN sendiri berputar di sekitar hasil benchmark dan posisinya dibanding model pesaing.
 
 Sumber: [blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | [diskusi HN](https://news.ycombinator.com/item?id=49537553)
 
