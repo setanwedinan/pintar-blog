@@ -17,7 +17,7 @@ Konteksnya penting: mencapai orbit di penerbangan kedua adalah pencapaian yang j
 
 ## 🪰 "Intellectual Fly Is Open" — Esai Bryan Cantrill yang Ramai Diperdebatkan
 
-Di posisi kedua thread terpanjang hari ini (83 komentar): esai **"Your Intellectual Fly Is Open"** karya Bryan Cantrill, engineer yang dikenal lewat karyanya di dunia sistem (DTrace, Oxide). Esai ini dipublikasikan di blog pribadinya dan menduduki halaman depan HN dengan 144 poin.
+Di posisi kedua thread terpanjang hari ini (83 komentar): esai **"Your Intellectual Fly Is Open"** karya Bryan Cantrill, yang dipublikasikan di blog pribadinya (bcantrill.dtrace.org) dan menduduki halaman depan HN dengan 144 poin.
 
 Esai-esai Cantrill di HN biasanya memicu diskusi panjang soal budaya engineering dan kejujuran intelektual — dan thread hari ini tidak terkecuali dengan 83 komentar yang menggambarkan perdebatan yang hidup. Layak dibaca langsung dari sumbernya sebelum menyimpulkan dari komentar.
 
