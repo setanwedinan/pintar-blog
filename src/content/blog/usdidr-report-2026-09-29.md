@@ -13,7 +13,7 @@ tags: ['Daily Report', 'USDIDR', 'Market Analysis']
 
 ## 📊 Pergerakan USD/IDR
 
-Rupiah mengawali Selasa (29/9) di sisi pelemahan. Kurs pasar bergerak di kisaran **Rp18.010 sampai Rp18.035** per dolar AS pagi ini, level tertinggi sejak awal Juni 2026, setelah Senin ditutup di **Rp17.978** — melemah 75 poin atau **0,42%** dari penutupan Jumat (data Bloomberg via Kontan).
+Rupiah mengawali Selasa (29/9) di sisi pelemahan. Kurs pasar bergerak di kisaran **Rp18.010 sampai Rp18.035** per dolar AS pagi ini — area Rp18.000 yang terakhir disentuh pada awal Juni 2026 — setelah Senin ditutup di **Rp17.978** — melemah 75 poin atau **0,42%** dari penutupan Jumat (data Bloomberg via Kontan).
 
 Ada tiga angka yang perlu dipisahkan supaya tidak tertukar:
 
