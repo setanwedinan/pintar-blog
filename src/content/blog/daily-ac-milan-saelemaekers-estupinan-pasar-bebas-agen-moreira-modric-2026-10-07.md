@@ -1,6 +1,6 @@
 ---
 title: '⚽ AC Milan Daily — 7 Oktober 2026: Milan Kehilangan Saelemaekers dan Estupinan Jangka Panjang, Amorim Mulai Berhitung Ulang'
-description: 'Cedera Alexis Saelemaekers dipastikan membuatnya absen panjang dan kemungkinan kembali ke meja operasi, sementara Pervis Estupinan juga absen lama sehingga Ruben Amorim harus menyusun ulang sektor sayap Milan. Milan disebut mempertimbangkan pasar bebas agen, sementara laporan Calcio e Finanza mengungkap biaya nyata transfer Diego Moreira.'
+description: 'Cedera Alexis Saelemaekers dipastikan membuatnya absen panjang dan kemungkinan kembali ke meja operasi, sementara Pervis Estupinan juga absen lama sehingga Ruben Amorim harus menyusun ulang sektor sayap Milan. Milan disebut mempertimbangkan pasar bebas agen, sementara laporan Calcio e Finanza mengungkap biaya transfer Diego Moreira.'
 pubDate: 2026-10-07T00:10:00Z
 tags: ['Daily Update', 'AC Milan', 'Sepak Bola']
 ---

@@ -1,6 +1,6 @@
 ---
 title: '🚗 Omoda Jaecoo Buka Dealer ke-43 di Bandung dengan Investasi Rp55 Miliar, MG ZS Hybrid+ Merambah Bali dan Manado'
-description: 'Omoda & Jaecoo Indonesia mengoperasikan dealer ke-43 di Bandung melalui Trimegah Group dengan nilai investasi Rp55 miliar, bagian dari target 80 dealer nasional, di tengah penjualan Jaecoo 23.359 unit hingga Agustus 2026. MG ZS Hybrid+ resmi hadir di Bali dan Manado.'
+description: 'Omoda & Jaecoo Indonesia mengoperasikan dealer ke-43 di Bandung melalui Trimegah Group dengan nilai investasi Rp55 miliar, bagian dari target 80 dealer nasional. MG ZS Hybrid+ resmi hadir di Bali dan Manado.'
 pubDate: 2026-10-07T00:30:00Z
 tags: ['Daily Update', 'Otomotif', 'Mobil']
 ---

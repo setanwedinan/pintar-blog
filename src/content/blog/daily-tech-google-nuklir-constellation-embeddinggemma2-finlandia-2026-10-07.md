@@ -1,6 +1,6 @@
 ---
-title: '🤖 Google Borong 890 MW Nuklir dari 11 PLTN, EmbeddingGemma 2 Multimodal Rilis, dan Apple Ditahan di Finlandia'
-description: 'Google meneken kesepakatan dengan Constellation Energy untuk menambah 890 megawatt dari 11 PLTN di Illinois, Pennsylvania, dan New Jersey, sementara Finlandia memerintahkan penghentian sementara dua proyek data center Google di Muhos dan Kajaani. Google juga merilis EmbeddingGemma 2, model embedding multimodal terbuka 740 juta parameter.'
+title: '🤖 Google Borong 890 MW Nuklir dari 11 Unit PLTN, EmbeddingGemma 2 Multimodal Rilis, dan Google Ditahan di Finlandia'
+description: 'Google meneken kesepakatan dengan Constellation Energy untuk menambah 890 megawatt dari 11 unit nuklir di Illinois, Pennsylvania, dan New Jersey, sementara Finlandia memerintahkan penghentian sementara dua proyek data center Google di Muhos dan Kajaani. Google juga merilis EmbeddingGemma 2, model embedding multimodal terbuka 740 juta parameter.'
 pubDate: 2026-10-07T00:00:00Z
 tags: ['Daily Update', 'Google', 'Android', 'Apple', 'AI', 'Tech']
 ---
