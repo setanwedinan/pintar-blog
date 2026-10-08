@@ -65,8 +65,13 @@ Bacaan strategisnya: Google tampaknya memakai produk ini untuk **memamerkan kema
 
 - **Amazon menghentikan merek Fire untuk tablet setelah 15 tahun**, menggantinya dengan **Alexa Tablets** yang menjalankan Android dan mulai dikirim **14 Oktober**, termasuk **12 Pro seharga $499**. _(Ringkasan TechMeme atas laporan David Pierce/The Verge.)_
 - **Startup komputasi kuantum Oratomic** menggalang **Series B $475 juta** pada valuasi **$5,4 miliar** — naik dari **$1,5 miliar** setelah **Series A $300 juta** pada Juli — sehingga total pendanaannya mencapai **$775 juta**. _(Ringkasan TechMeme atas laporan Isabelle Bousquette/Wall Street Journal.)_
+- **Sumber menyebut Isomorphic Labs**, startup penemuan obat berbasis AI yang lahir dari Google DeepMind dan berbasis di London, **sedang dalam pembicaraan awal untuk menggalang dana pada valuasi $40–50 miliar**. _(Ringkasan TechMeme.)_
+- **Manus**: perusahaan induknya, **Butterfly Effect**, menggalang **lebih dari $500 juta** dalam pendanaan pertama sejak Beijing memaksa Meta membatalkan akuisisinya senilai **$2 miliar**. Putaran itu dipimpin **Boyu Capital** dan **IDG**. _(Ringkasan TechMeme.)_
+- **Broadcom** disebut berupaya mengatur **pembiayaan lebih dari $50 miliar** untuk chip AI kustom OpenAI, sementara **Oracle** dikabarkan bernegosiasi dengan **Apollo** dan **Goldman** untuk membiayai pembelian chip besar. _(Ringkasan TechMeme atas laporan Financial Times.)_
+- **ICANN menerima 1.615 aplikasi domain tingkat atas (TLD)** dari **481 pemohon**; **Meta, OpenAI, dan delapan pihak lain** mengajukan **`.agent`**, **tujuh perusahaan** mengajukan **`.agi`**, dan **enam** mengajukan **`.asi`**. _(Ringkasan TechMeme.)_
 - **Spotify dan Joe Rogan memperbarui kesepakatan lisensi dan penjualan iklan multi-tahun**; sumber menyebut syaratnya mirip kesepakatan Rogan sebelumnya senilai **$250 juta** yang ditandatangani pada **2024**. _(Ringkasan TechMeme atas laporan Anne Steele/Wall Street Journal.)_
 - **OpenAI mengganggu kampanye pengaruh Rusia** yang terkait jaringan **Politology**, menyasar sekolah, media, dan pejabat asing, dengan **skor dampak 5/6** — menurut OpenAI ini operasi pengaruh paling luas yang pernah mereka gagalkan. _(Ringkasan TechMeme atas laporan Kevin Collier/NBC News.)_
+- **Tiga peneliti OpenAI yang dipecat** menulis surat terbuka mendesak lab AI lain **menghentikan pekerjaan yang menurunkan kemampuan pemantauan AI**, dan menyebut pemecatan mereka **"mendinginkan mereka yang masih bertahan di OpenAI"**. _(Ringkasan TechMeme.)_
 
 ---
 
