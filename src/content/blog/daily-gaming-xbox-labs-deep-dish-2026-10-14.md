@@ -1,83 +1,68 @@
 ---
-title: 'Xbox LABS Diresmikan, Deep Dish Dungeon Masuk Game Pass, Xbox Menerima AI-Powered Ports'
-description: 'Asha Sharma mengumumkan Xbox LABS untuk bereksperimen dengan game decompilation dan remix. Deep Dish Dungeon menjadi pertama dalam genre soulslike di Game Pass, sekaligus Xbox mulai mengikuti tren AI-powered ports.'
+title: 'Xbox LABS Dirilis, Deep Dish Dungeon Masuk Game Pass, Xbox Menerima Port Game AI'
+description: 'Asha Sharma mengumumkan XBOX LABS untuk eksperimen game decompilation dan remix. Deep Dish Dungeon dari Behold Studios & Raw Fury jadi judul co-op dungeon crawler hari ini di Game Pass, Xbox Cloud, dan PC. Asha juga katakan bahwa Xbox resmi menerima "the chaos" dari port game AI-powered.'
 pubDate: 2026-10-14T00:20:00Z
-<!-- TAG:START -->tags: ['berita', 'Gaming', 'Xbox', 'Game Pass']<!-- TAG:END -->
+tags: ['berita', 'Gaming', 'Xbox', 'Game Pass']
 ---
 
 ## 🔍 TL;DR
 
-- **Xbox LABS** resmi diluncurkan 13 Oktober 2026 oleh Asha Sharma — tim kecil yang bereksperimen dengan decompilation, recompilation, dan game remixing untuk menjangkau lebih banyak pemain. _(Xbox Wire)_
-- **Deep Dish Dungeon** masuk Game Pass pada 13 Oktober sebagai **pertama game soulslike besar dalam 15 tahun** — gratis untuk pelanggan Ultimate dan PC Game Pass. _(Xbox Wire)_
-- **Xbox kini "menerima chaos"** dari AI-powered game ports — mulai mengizinkan judul yang didekompilasi dari konsol lama dan dibangun kembali untuk berjalan di platform modern. _(The Verge)_
+- **XBOX LABS** resmi didirikan 13 Oktober 2026 oleh CEO Asha Sharma — grup kecil "game makers, engineers and scientists" yang bekerja menerjemahkan ide muncul ke dalam pengalaman pemain. _(Xbox Wire)_
+- Eksposrnya: game yang **diresmikan dan dibongkar ulang (decompiled)** untuk dijalankan di perangkat yang tidak dirancang untuknya, termasuk **Windows PC -> Apple Silicon**, dan **di browser via WebAssembly/WebGPU**. _(Xbox Wire, The Verge)_
+- **Deep Dish Dungeon** (Behold Studios x Raw Fury) meluncur hari ini di **Xbox Game Pass, Xbox Series X|S, Xbox Cloud Gaming, dan PC via Steam** sebagai co-op dungeon crawler. _(TwistedVoxel)_
+- Xbox LABS akan **berbagi tools yang dibangun** dengan pengembang industri secara terbuka. _(Xbox Wire, The Verge)_
 
-## 🧪 Xbox LABS: Kekuatan Kecil untuk Inovasi Besar
+## 🧩 Xbox LABS: Tim Kecil untuk Eksperimen AI dalam Game
 
-Pada Jumat (13/10/2026), Asha Sharma, CEO Xbox, mengirimkan surat ke seluruh karyawan Xbox tentang peluncuran **Xbox LABS** — kelompok kecil yang fokus pada mengeksplorasi **ide muncul** dalam dunia permainan.
+Pada 13 Oktober 2026, Asha Sharma, CEO Xbox, mengirim surat ke seluruh anggota tim Xbox mengenai peluncuran **XBOX LABS**.
 
-Yang mereka lakukan? **Decompilation** (membaca ulang kode biner menjadi kode sumber), **recompilation** (membangun kembali kode untuk platform baru), dan **game remixing** (menggabungkan elemen dari banyak permainan).
+Surat tersebut membuka dengan konteks: "In recent weeks, we've seen games rapidly decompiled and rebuilt to run on hardware they were never originally designed to support." Artinya: game-game besar baru-baru ini mulai dibongkar kode aslinya dan dirangkai ulang untuk menjalankan di perangkat yang tidak dirancang untuknya.
 
-Contoh kerja mereka:
+Yang lebih mencolok: "Windows PC builds have been translated to run on Apple Silicon or ported to run inside a browser through WebAssembly and WebGPU, the latter now approaching 90% global browser support." Bahwa game Windows bisa jalan di Mac, atau di browser, tanpa emulasi lama.
 
-- Mengubah permainan Xbox 360 lama seperti Gears of War agar bisa berjalan di Apple Silicon atau browser lewat **WebAssembly** dan **WebGPU**
-- Membuat versi baru dari klasik dengan mengubah struktur level, menambah karakter, atau menggabungkan mekanisme dari judul lain
-- Membuat **"game ports" yang dipowered by AI** — kecerdasan buatan yang membantu dalam proses decompilation dan testing
+"Perhaps more surprisingly, we've seen many of the biggest games in the world have been remixed into the source code of another."
 
-Sharma menyatakan dalam suratnya: _"Ini bukan tentang meninggalkan kerja yang sudah ada — justru sebaliknya. LABS memberi cara untuk menjelajahi teknologi baru sambil tetap menjaga warisan IP dan komunitas yang sudah kita bangun."_ _(Xbox Wire)_
+Lalu, angka yang membuat kagum: "people spend more than 72 billion hours a year playing XBOX games, roughly five times the estimated time spent writing code worldwide."
 
-Tujuan LABS sederhana: **membuat lebih banyak orang bisa bermain dan membuat game**. Mereka mengukur keberhasilan berdasarkan jumlah pemain aktif dan jumlah kontribusi komunitas — bukan hanya penjualan.
+XBOX LABS adalah "a small group of game makers, engineers and scientists whose job is to turn emerging ideas into things our players and developers can experience." Saat ini, mereka ditugaskan meneliti fenomena decompile dan recompile ini — dan akan **berbagi tools yang dibangun** dengan pengembang di industri. Asha menambahkan: "We'll build in the open, learn from what people do, and measure success by whether more people are playing and creating."
 
-## 🏰 Deep Dish Dungeon: Soulslike Kembali ke Game Pass
+Saat ini, Xbox menyatakan komitmen tetap pada 4C — "to make great games, to our hardware and to being responsible stewards of IP and the communities built around it." LABS adalah cara untuk bereksperimen dengan cara baru tanpa meninggalkan pekerjaan yang sedang berjalan. _(Xbox Wire, The Verge)_
 
-Judul hari ini yang paling ditunggu oleh penggemar permainan berat adalah **Deep Dish Dungeon** — yang resmi masuk Game Pass pada 13 Oktober 2026. Ini adalah **pertama game soulslike besar dalam 15 tahun** sejak rilis Demon’s Souls asli.
+## 🎵 Deep Dish Dungeon: Judul Baru di Game Pass Hari Ini
 
-Deep Dish Dungeon menggabungkan elemen dari klasik seperti Dark Souls dan Sekiro dengan sentuhan sendiri:
+Judul yang diluncurkan hari ini adalah **Deep Dish Dungeon**, flat dari **Behold Studios** (pengembang **Knights of Pen & Paper** dan **Chroma Squad**) dan diterbitkan oleh **Raw Fury**.
 
-- **Sekiro-style combat**: Sistem postura yang membutuhkan timing sempurna untuk blok dan counter
-- **Crimson Plague**: Mekanisme khusus tempat makan sesuatu bisa memberikan buff atau debuff berdasarkan jenis makanan
-- **Dungeon crawl tingkat tinggi**: Setiap area dirancang dengan intricate level design yang mengharuskan eksplorasi teliti
+Ini adalah **co-op dungeon crawler** yang berjalan bersamaan — tersedia di **Xbox Game Pass, Xbox Series X|S, Xbox Cloud Gaming, dan PC via Steam** pada 13 Oktober 2026. Mendukung pemainan solo maupun kooperatif hingga 2 pemain. Versinya **Xbox Play Anywhere** dan terverifikasi untuk **Xbox handheld** dan **Steam Deck**. _(TwistedVoxel)_
 
-Game ini bisa dimainkan di:
+Apa yang dilakukan pemain:
 
-- **Xbox Series X|S**
-- **PC (Windows 10/11)**
-- **Xbox Cloud Gaming (Cloud)**
+- **Eksplorasi dungeon** yang dirapikan, dengan area tersembunyi, musuh, dan harta karun
+- **Pengumpulan sumber daya** dan **pembuatan alat (crafting)**
+- **Camp management** antara ekspedisi: memasak dan membuat peralatan, yang juga digunakan untuk perkembangan karakter. Makanan memberikan efek berbeda pada statistik karakter.
+- Solusi untuk masalah yang ditimbulkan oleh musuh dengan perilaku berbeda
 
-Namun, hanya tersedia untuk pelanggan **Game Pass Ultimate** dan **PC Game Pass**. Tingkat Essential dan Premium tidak termasuk dalam layanan ini — sebuah kebijakan yang konsisten dengan rilis besar lain seperti Battlefield 6 dan Valor Mortis. _(Xbox Wire)_
+Kebesaran dari Deep Dish Dungeon: bukan soal aksi atau combat, melainkan **rapat misteri, berpikir cepat, dan bekerja sama**. Ini adalah co-op dungeon crawler yang juga menawarkan pemahaman "camp management" dan sistem crafting yang beda dari biasanya.
 
-Yang menarik, karena masuk lewat Game Pass, kamu **tidak perlu membelinya** untuk mencobanya. Kalau ulasannya campuran (seperti yang terjadi dengan Valor Mortis kemarin), kamu bisa bermain tanpa khawatir uang buang.
+## 🤖 Xbox Menerima AI-Powered Game Ports
 
-## 🤖 Xbox Menghayati AI-Powered Ports
+Sisi lain dari cerita ini adalah bagaimana modder kini menggunakan model AI untuk **menggabungkan game, mengemas, dan me-remix game** dengan cara yang sebelumnya tidak mungkin terjadi.
 
-Salah satu tren terbaru di dunia game adalah **"AI-powered ports"** — proses di mana kecerdasan buatan digunakan untuk membantu dalam:
+The Verge merilis bahwa Microsoft melihat modder "using AI models to help modders remix games in ways we've rarely seen before" — dan Microsoft kini "officially embracing the chaos" dari era ini.
 
-- **Decompilation** game konsol lama menjadi kode yang bisa dibaca
-- **Recompilation** kembali untuk platform baru seperti PC atau browser
-- **Optimasi** performa lewat machine learning
-- **Testing otomatis** untuk menemukan bug
-
-Xbox kini **mengakui** bahwa ini adalah bagian dari masa depan. Pada The Verge, dilaporkan bahwa tim mereka mulai bereksperimen dengan port dari Xbox 360 ke browser via WebAssembly/WebGPU, dengan bantuan model AI yang dilatih khusus untuk tugas tersebut.
-
-Contoh nyata? Tim Xbox sudah berhasil menjalankan **Gears of War** dan **Halo** di browser lewat sistem yang dinamai **"Xbox Game Porting Toolkit"**. Meskipun masih dalam tahap eksperimen, hasilnya menjanjikan untuk aksesibilitas game lama.
-
-Sharma sendiri menjelaskan: _"Ketika AI membantu kita membaca ulang kode dari 15 tahun lalu, bukan berarti kita menyerahkan kontrol — justru kita tetap yang memutuskan keputusan akhir. AI itu seperti staf tambahan yang lebih cepat dalam membaca manual lama."_ _(The Verge)_
+Yang penting: modder beroperasi "without the business model restrictions that Microsoft is tied to" — yang berarti mereka bebas memanfaatkan kode lama tanpa batasan yang dimiliki Microsoft. Itu adalah peluang dan tantangan sekaligus: kemungkinan besar akan ada lebih banyak game lama yang lolos ke perangkat baru, tetapi juga ada risiko bahwa modder akan menggunakan IP Microsoft secara luas.
 
 ## 🗣️ Pendapat saya
 
-Xbox LABS itu langkah yang sangat bijak dari Asha Sharma. Saya ingat tahun lalu ketika mereka menganon kanan kiri tentang "future of gaming" tapi tidak ada tindakan nyata. Sekarang, ada tim kecil yang benar-benar berjalan di lapangan — coba decompile, copil, remix, dan lihat hasilnya.
+Yang paling saya pikirkan hari ini adalah **XBOX LABS**, dan khususnya angka 72 miliar jam main Xbox per tahun. Bilangan itu 5x jumlah waktu yang dihabiskan dunia untuk menulis kode. Itu adalah bukti dari industri yang sedang berbalik: game bukan sekadar tempat kerja atau media hiburan, tetapi menjadi laboratorium utama untuk agen AI.
 
-Yang saya sukai dari LABS adalah **mentalitas terbuka**. Mereka tidak bilang "ini adalah masa depan dan itu akhir cerita". Mereka bilang: "ayo kita coba, lihat apa yang работает, dan sesuaikan." Ini kontras dengan kebiasaan besar perusahaan yang selalu rencana detal tahun ke depan tanpa ruang untuk belajar dari kegagalan.
+Yang saya rasa perlu ada kehati-hatian adalah ketika modder memanipulasi kode game milik perusahaan besar. XboxLABS akan membagikan tools-nya dengan pengembang. Ini adalah langkah sehat sejauh yang dapat dikatakan: buka eksperimen, bukan laranginya. Karena ranah ini bukan boleh ditekan — pertama karena itu adalah alur work seperti apa yang dilaksanakan, dan kedua, perlindungan terhadap bagian yang bersifat hukumnya rapuh.
 
-Soal Deep Dish Dungeon, saya senang karena akhirnya ada pilihan lain selain FromSoftware untuk pecinta soulslike. Tapi saya juga waspada — kalau game ini terlalu sulit atau ulasannya buruk, pelanggan mungkin berhenti bayar Game Pass hanya untuk satu judul. Semoga mereka tetap konsisten dengan kualitas.
+Untuk Deep Dish Dungeon, saya merekomendasikan 3 hal. Pertama, **co-op** — ini cocok untuk bermain bersama teman. Kedua, **camp management** yang unik, berbeda dari yang sudah biasa. Ketiga, coba **Steam Deck** karena sudah minta verifikasi. Jadi jangan heran jika Steam Deck-nya lulus.
 
-Dan untuk AI-powered ports… ini bisa jadi pembalik besar. Bayangkan kamu bisa bermain **Jet Set Radio Future** di ponsel lewat browser tanpa emulator — atau **Panzer Dragoon Orta** di Chromebook. Kalau Xbox berhasil menjadikannya standar, mereka bisa jadi pemimpin dalam preservasi warisan game.
-
-Apa kamu lebih suka main game lama lewat emulator baru, atau percaya ke teknologi seperti Xbox LABS yang bisa membuatnya jalan di perangkat modern tanpa perlu install apa-apa? Beritahu saya di komentar!
+Kalau kalian sedang mencari judul baru di Game Pass yang cocok untuk 2 orang, atau ingin mencoba sesuatu yang berbeda dari biasa, Deep Dish Dungeon adalah pilihan yang baik. Atau kalian lebih suka main game yang lebih berat, seperti soulslike? Beri tahu saya rahasia kalian ya.
 
 ## 🔗 Sumber
 
 - [Xbox Wire — Introducing XBOX LABS](https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/)
-- [Xbox Wire — Deep Dish Dungeon Launches Day One on Xbox Game Pass](https://invisioncommunity.co.uk/deep-dish-dungeon-launches-day-one-on-xbox-game-pass/)
-- [TwistedVoxel — Deep Dish Dungeon Launches on Xbox Game Pass and PC](https://twistedvoxel.com/deep-dish-dungeon-launch-xbox-pc/)
 - [The Verge — Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
-- [PureXbox — Xbox Indie Showcase To Highlight 18 Games This Month](https://www.purexbox.com/news/2026/10/xbox-indie-showcase-to-highlight-18-games-this-month/)
+- [TwistedVoxel — Deep Dish Dungeon Launches on Xbox Game Pass and PC](https://twistedvoxel.com/deep-dish-dungeon-launch-xbox-pc/)

@@ -1,73 +1,78 @@
 ---
-title: 'AC Milan Daily — 14 Oktober 2026: Saelemaekers Pulang dari Operasi, Bondo Minta Kesempatan Kedua'
-description: 'Alexis Saelemaekers menjalani operasi pergelangan kaki berhasil dengan staf medis Milan di sisinya. Warren Bondo kembali ke latihan demi meyakinkan Amorim, sementara Milan pantau Raphael Le Guen sebagai opsi transfer baru.'
+title: 'AC Milan Daily — 14 Oktober 2026: Saelemaekers Operasi Sukses, Bondo Minta Kesempatan Kedua'
+description: 'Alexis Saelemaekers menjalani operasi pergelangan kaki di Amsterdam dengan staf medis Milan hadir. Warren Bondo kembali ke latihan demi meyakinkan Amorim, sementara Milan pantau Raphael Le Guen sebagai opsi bek tengah baru.'
 pubDate: 2026-10-14T00:10:00Z
-<!-- TAG:START -->tags: ['berita', 'AC Milan', 'Sepak Bola']<!-- TAG:END -->
+tags: ['berita', 'AC Milan', 'Sepak Bola']
 ---
 
 ## 🔍 TL;DR
 
-- **Alexis Saelemaekers** menjalani **operasi pergelangan kaki di Amsterdam** dengan staf medis Milan hadir — prosedur arthroscopic debridement dan stabilisasi berjalan sukses. _(SempreMilan)_
-- **Warren Bondo** kembali ke latihan meski terlihat **tidak punya tempat di skuad** menurut Amorim — dia berharap bisa meyakinkan pelatih untuk kesempatan kedua sebelum Januari. _(Corriere dello Sport, SempreMilan)_
-- **Raphael Le Guen**, bek tengah muda 20 tahun dari Stade Brestois, masuk daftar pendek Milan karena **biaya lebih rendah daripada Goncalo Inacio** — Matteo Moretto menyebut klub sudah melihatnya langsung. _(SempreMilan)_
-- Milan masih **monitoring Leny Yoro** selain Inacio sebagai target bek tengah Januari. _(A Bola)_
+- **Alexis Saelemaekers** menjalani **operasi pergelangan kaki kanan** di Amsterdam yang dilakukan **Dr. Gino Kerkhoffs** dengan kehadiran staf medis Milan — diperkirakan absen **5-6 bulan**. _(SempreMilan, FOX Sports, TSN)_
+- **Warren Bondo** kembali ke latihan meski **tidak ada di daftar skuad** — Corriere dello Sport menyebut ia ingin meyakinkan Amorim sebelum Januari, atau agennya akan cari jalan keluar. _(SempreMilan)_
+- **Raphael Le Guen**, bek tengah **20 tahun** kaki kanan dari **Stade Brestois** dengan kontrak sampai **2029**, masuk shortlist Milan sebagai opsi lebih murah dari Inacio. _(Matteo Moretto, SempreMilan)_
 
-## 🏥 Saelemaekers Operasi Sukses, Milik Kembali 5-6 Bulan
+## 🏥 Saelemaekers: Operasi Sukses, Absen 5-6 Bulan
 
-Berita terakhir dari Senin malam: **Alexis Saelemaekers** telah menjalani operasi pergelangan kaki di Amsterdam. Bedah arthroscopic debridement dan stabilisasi tersebut dipimpin oleh **Dr. Gino Kerkhoffs**, dengan kehadiran **Dr. Andrea Bulgheroni dan Diego Mantovani** dari tim medis Milan.
+Malam ini, AC Milan merilis pernyataan resmi: **Alexis Saelemaekers** menjalani operasi pada **pergelangan kaki kanan** di Amsterdam hari ini.
 
-Milan mengonfirmasi dalam pernyataan resmi bahwa mereka tidak akan terburu-buru mengembalikan pemain Belgia itu. "Memperhatikan pentingnya ia miliki, tidak ada keinginan untuk mempercepat pemulihan, terutama untuk pergelangan kaki yang terbukti lebih lemah."
+Prosedurnya adalah **arthroscopic debridement dan stabilisasi**, dilakukan oleh **Dr. Gino Kerkhoffs** dengan kehadiran **Dr. Andrea Bulgheroni** dan **Diego Mantovani** dari staf medis Milan. Pernyataan klub menyebut prosedur "successfully completed". _(SempreMilan)_
 
-**Estimasi kembalinya:** sekitar **5-6 bulan** — artinya Saelemaekers kemungkinan baru kembali pada awal **2027**, bukan akhir tahun ini. Ini sama dengan estimasi sebelumnya yang sudah dibicarakan media. _(FOX Sports, TSN, France 24)_
+Menurut SempreMilan, ankle Saelemaekers **kehilangan stabilitas** setelah insiden di sesi latihan — awalnya tampak seperti cedera ringan, ternyata lebih serius. Milan menekankan tidak akan terburu-buru mengembalikannya, terutama karena pergelangan kaki yang sama **sudah terbukti lebih lemah** di masa lalu.
 
-Untuk konteks: Saelemaekers sempat terluka saat sesi latihan pekan lalu. Awalnya cuma dianggap cedera ringan, tapi ternyata lebih serius dari yang direncanakan. Ini bukan cedera pertama di pergelangan kakinya — selama kariernya di Club Brugge, Milan, Nottingham Forest, dan Chelsea, dia sudah beberapa kali mengalami masalah serupa.
+**Estimasi absen: sekitar 5-6 bulan.** Artinya kemungkinan baru kembali pada Maret-April 2027. Berita yang sama diulang oleh FOX Sports, TSN, France 24, AP News, dan Newsday — dengan framing yang sama: "faces several months out". _(SempreMilan, FOX Sports, TSN, France 24)_
 
-Jadi, ini bukan sekadar masalah satu pertandingan — melainkan **kronis**.
+## 🔁 Bondo Kembali Demi Kesempatan Kedua
 
-## 🔁 Bondo Kembali, Tapi Amorim Tidak Mengakui
+Berita yang lebih rumit datang dari **Warren Bondo**. Pemain Prancis itu **kembali berlatih bersama tim** setelah sempat dipisahkan dari skuad.
 
-Berita paling menarik dalam hari ini adalah soal **Warren Bondo**. Pemain Prancis itu **diperbolehkan kembali ke latihan tim utama** — namun bukan karena mereka ingin dia main. Menurut Corriere dello Sport yang dikutip PianetaMilan, keputusan ini diambil supaya Bondo tidak bisa menggugat Milan via jalur hukum.
+Menurut **Corriere dello Sport** (via PianetaMilan), keputusan ini diambil Milan supaya **Bondo tidak bisa menempuh jalur hukum**. Sebab, jika terus dibekukan tanpa aktivitas, ia punya dasar untuk menggugat.
 
-Yang penting: Bondo ingin **menghentikan masa depannya di Milan**. Ia berniat **"mencoba meyakinkan Amorim"** untuk diberi kesempatan kedua sebelum jendela Januari dibuka. Jika gagal, agennya akan segera mencari jalan keluar — pinjaman atau penjualan permanen.
+Yang menarik adalah keinginan Bondo sendiri: ia ingin memakai beberapa bulan ke depan untuk **"mencoba meyakinkan Amorim untuk kesempatan kedua"**, meski ia tidak terdaftar di daftar skuad sehingga tidak bisa bermain.
 
-Amorim sendiri sudah cukup jelas: dia **tidak melihat tempat untuk Bondo dalam skuad**. Pemain itu dipisahkan dari tim utama sejak Oktober, setelah beberapa insiden yang dianggap tidak sesuai dengan disiplin.
+Jika gagal, agennya akan langsung bekerja mencari jalan keluar — pinjaman atau penjualan permanen — yang disebut sebagai **"necessity"**. _(SempreMilan)_
 
-Yang menarik, Bondo sebenarnya pernah **menyatakan ingin tetap di Milan** beberapa waktu lalu, tapi situasi berubah setelah cedera dan perilaku di lapangan. Kini ia sedang dalam masa "percobaan" — harus membuktikan diri kalau mau tetap relevan. _(SempreMilan)_
+Fakta yang perlu dicatat: SempreMilan sebelumnya melaporkan bahwa **Amorim tidak melihat tempat untuk Bondo di skuad**. Jadi usaha ini adalah melawan arus, bukan sekadar kembali normal.
 
-## 🎯 Le Guen: Opsi Baru Milan untuk Bek Tengah
+## 🎯 Le Guen: Nama Baru di Shortlist Bek Tengah
 
-Untuk lini pertahanan, Milan tampaknya serius menambahkan pemain baru di Januari. **Matteo Moretto** melaporkan bahwa **Raphael Le Guen**, bek tengah 20 tahun dari Stade Brestois, masuk dalam daftar pendek mereka.
+Untuk bursa Januari, **Matteo Moretto** (via MilanNews) menyebut nama baru: **Raphael Le Guen**.
 
-Detail menarik dari Moretto:
+Detail dari Moretto:
 
-- Kontrak Le Guen berlaku sampai **2029**
-- Dia **kaki kanan** — cocok untuk formasi tiga bek yang dipakai Amorim
-- Klub sudah **melihatnya langsung bermain**, plus **mengecek harga dan biaya transfer**
-- Biaya Le Guen **jauh lebih rendah daripada Goncalo Inacio** dari Sporting Lisbon
+- **20 tahun**, bek tengah, **kaki kanan**, bermain di **Stade Brestois**
+- Kontrak berlaku sampai **2029**
+- Milan **sudah melihatnya langsung bermain**, sudah **menanyakan harga dan biaya** potensi transfer
+- **Belum ada negosiasi** terbuka antar pihak
+- Biayanya **lebih rendah dari Goncalo Inacio** dari Sporting Lisbon — target utama lain yang disukai Amorim
+- Dinilai tinggi oleh Milan **dari sisi teknis dan taktis**
 
-"Le Guen dihargai tinggi oleh klub dari sisi taktis dan teknis," kata Moretto. "Kami akan lihat apakah nama ini yang tepat di antara sekarang dan Januari."
+Moretto mengutip sumber klub: "There's a central defender that Milan clearly wants to monitor closely between now and January." _(SempreMilan, MilanNews)_
 
-Menurut SempreMilan, Milan juga masih memantau **Leny Yoro** dari Manchester United sebagai opsi kedua. Namun, Yoro diketahui **ingin pindah** — dan Manchester United sendiri mungkin ingin menjual. _(A Bola)_
+Konteksnya: SempreMilan menulis bahwa sebelum cedera Gabbia pun, bek tengah baru di Januari **sudah jadi kebutuhan**. Setelah Gabbia (tendon, kemungkinan baru kembali 2027 — lihat post 13 Oktober), kebutuhan itu jadi **kritis**. Summer lalu, Milan sempat mengejar **Goncalo Inacio** tapi deal gagal karena Sporting tidak punya waktu cari pengganti.
+
+Artikel yang sama juga menyebut **Leny Yoro** sebagai nama lain yang pernah dikaitkan. _(SempreMilan)_
 
 ## 📌 Catatan
 
-Cerita **Gabbia cedera tendon** dan hasil imbang Sassuolo 1-1 sudah dibahas di post 13 Oktober. Post ini fokus pada perkembangan baru: operasi Saelemaekers, kembalinya Bondo, dan target transfer bek baru.
+Cerita **Gabbia cedera tendon** dan analisis **Cesari soal penalti** sudah dibahas di post 13 Oktober. Post ini fokus pada perkembangan baru hari ini: hasil operasi Saelemaekers, kembalinya Bondo, dan nama Le Guen.
 
 ## 🗣️ Pendapat saya
 
-Dari tiga berita hari ini, yang paling membuat saya berpikir adalah **Bondo**. Pemain yang dipulangkan dan harus "bekerja keras" untuk kembali ke skuad — ini lebih terasa seperti hukuman daripada rehabilitasi. Amorim memang bebas menentukan siapa yang layak, tapi rasanya **ada unsur ancaman** dalam cara Milan memperlakukan Bondo.
+Dari tiga berita hari ini, yang paling bikin saya berpikir adalah **Bondo**. Bayangkan: kamu dipisahkan dari tim, boleh kembali cuma supaya klub aman dari gugatan, dan sekarang harus "meyakinkan" pelatih yang sudah bilang tidak ada tempat buatmu — tanpa bisa bermain satu menit pun karena tidak terdaftar. Itu bukan rehabilitasi, itu audisi dalam kondisi terkunci.
 
-Untuk Saelemaekers, saya ngga bisa bantu banyak. Cedera pergelangan kaki yang berulang-ulang itu bukan hal sederhana. Kalau dia tidak pernah sembuh total sebelumnya, bisa jadi ini masalah permanen yang membatasi karirnya. Tapi bagi Milan, kehilangan satu pemain kunci untuk 5-6 bulan adalah kerugian besar.
+Saya ngga tahu isi ruang ganti Milan, jadi saya ngga mau sok menilai siapa yang salah. Tapi pola ini — pemain muda dibekukan lalu diminta membuktikan diri dalam latihan tertutup — jarang berakhir baik untuk siapa pun.
 
-Menarik juga laporan tentang Le Guen. Milan kini fokus pada bek muda dengan biaya lebih terjangkau — berbeda dari pendekatan sebelumnya yang selalu mengejar nama besar seperti Inacio. Ini bisa berarti strategi baru: cari bakat mentah, kembangkan, jual kalau mau.
+Untuk Saelemaekers, angkanya jelas: 5-6 bulan. Yang belum jelas adalah apakah pergelangan kaki yang sama bisa kembali 100 persen. Milan bilang mereka tidak akan terburu-buru, dan itu keputusan yang tepat.
 
-Menurut kalian, Milan perlu bek tengah tambahan di Januari? Atau cukup dengan Gabbia yang sedang pulih?
+Soal Le Guen — strategi Milan kini terlihat: cari bek muda dengan biaya lebih rendah daripada Inacio. Saya setuju dengan pendekatan ini, karena Januari bukan waktu yang tepat untuk perang harga dengan Sporting.
+
+Menurut kalian, Milan sebaiknya kejar Inacio meski mahal, atau ambil Le Guen yang lebih murah tapi mentah?
 
 ## 🔗 Sumber
 
 - [SempreMilan — Official: Saelemaekers' surgery successful with Milan medical staff in attendance](https://sempremilan.com/saelemaekers-undergoes-successful-surgery)
 - [FOX Sports — AC Milan's Alexis Saelemaekers faces several months out after ankle surgery](https://www.foxsports.com/articles/soccer/ac-milans-alexis-saelemaekers-faces-several-months-out-after-ankle-surgery)
-- [TSN — AC Milan's Alexis Saelemaekers faces several months out after ankle surgery](https://www.tsn.ca/soccer/serie-a/article/ac-milans-saelemaekers-faces-several-months-out-)
+- [TSN — AC Milan's Saelemaekers faces several months out after ankle surgery](https://www.tsn.ca/soccer/serie-a/article/ac-milans-saelemaekers-faces-several-months-out-)
 - [France 24 — Milan's Saelemaekers set for lengthy spell out after ankle surgery](https://www.france24.com/en/live-news/20261013-milan-s-saelemaekers-set-for-lenghty-spell-)
 - [SempreMilan — CorSport: Bondo hopes to make Amorim rethink position with return to Milan training](https://sempremilan.com/bondo-hopes-make-amorim-rethink-position)
 - [SempreMilan — "Clearly want to monitor closely" - Moretto offers another name for Milan's defender shortlist](https://sempremilan.com/moretto-offers-new-name-milan-defender-shortlist)

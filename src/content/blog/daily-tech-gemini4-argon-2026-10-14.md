@@ -1,104 +1,108 @@
 ---
-title: 'Gemini 4 Argon Dirilis, Google Play Terima Aplikasi Vibe-Coded, OpenAI Temukan Kerentanan Chrome'
-description: 'Google mengumumkan Gemini 4 Argon melalui program Fairwind untuk kemitraan keamanan, Play Store kini mengizinkan aplikasi vibe-coded pribadi tanpa akun pengembang, sementara OpenAI GPT-5.6-Cyber menemukan kerentanan Chrome V8 sebelum peluncuran.'
+title: 'Gemini 4 Argon Dibuka untuk Developer, Play Store Terima Aplikasi Vibe-Coded, HomeView 299 Dolar'
+description: 'Google membuka Gemini 4 Argon untuk developer berbayar dan pelanggan AI Pro/Ultra setelah fase uji terbatas, Play Store kini menerima aplikasi vibe-coded pribadi, dan Apple merilis HomeView seharga 299 dolar dengan dua bentuk yang harganya sama.'
 pubDate: 2026-10-14T00:00:00Z
-<!-- TAG:START -->tags: ['berita', 'Tech', 'AI', 'Google', 'Apple']<!-- TAG:END -->
+tags: ['berita', 'Tech', 'AI', 'Google', 'Apple']
 ---
 
 ## 🔍 TL;DR
 
-- **Gemini 4 Argon** resmi dirilis 30 September 2026 via **Fairwind Program** untuk kemitraan keamanan cyber — bukan publik. Google AI Studio, Vertex AI, dan Gemini API saja yang dapat mengaksesnya. _(TechCrunch, EvoLink)_
-- **Google Play Store** kini mengizinkan **aplikasi vibe-coded pribadi** langsung tanpa akun pengembang profesional — langsung dipakai via Play Store. _(The Verge)_
-- **OpenAI GPT-5.6-Cyber** menemukan **kerentanan Chrome V8** sebelum peluncuran, sehingga OpenAI mewajibkan **hardware security key FIDO2** untuk akun Daybreak mulai September 2026. _(SecurityWeek)_
-- **Apple HomeView ternyta ada dua model** dengan perbedaan audio tersembunyi: model standar lebih kuat (woofer + passive radiators), versi wall-mounted hanya dua driver saja. _(9to5Mac)_
-- **Apple "Mac Minions"** sistem agregasi GPU berdistribusi untuk AI inference — 4 Mac Studio bisa berikan hasil 3x lebih cepat daripada satu sistem. _(The Register)_
+- **Gemini 4 Argon** kini bisa dipakai developer lewat **Gemini API berbayar**, **Google AI Studio**, **Android Studio**, dan **Antigravity** — setelah fase uji terbatas ke mitra keamanan. _(Google Blog)_
+- Argon juga masuk aplikasi **Gemini** untuk pelanggan **Google AI Pro dan Ultra**, lengkap dengan toggle chat-ke-tasks dan koneksi ke **40+ aplikasi**. _(Google Blog)_
+- **Google Play Store** mulai menerima **aplikasi vibe-coded pribadi** yang dibuat lewat prompt di Google AI Studio, tanpa akun pengembang profesional. _(The Verge)_
+- **Apple HomeView** meluncur seharga **299 dolar** dalam dua bentuk: **tabletop** dan **wall-mounted** — keduanya **harganya sama**, bedanya di sistem suara. _(MacRumors, 9to5Mac)_
+- Internal Apple menggabungkan GPU idle lintas Mac lewat sistem **Mac Minions** untuk beban kerja AI. _(The Register)_
 
-## 🧠 Gemini 4 Argon: AI Perangkat Terbaru dari Google yang Masih Terlanjut
+## 🧠 Gemini 4 Argon: Dari Terbatas ke Terbuka
 
-Google mengumumkan **Gemini 4 Argon** pada 30 September 2026 sebagai model generasi baru yang diklaim dirancang untuk **pembelajaran kompleks, pekerjaan enterprise, dan tugas keamanan siber**. _(EvoLink)_
+Gemini 4 Argon pertama kali muncul pada **akhir September 2026** dengan akses terbatas ke mitra keamanan siber — program yang disebut **Fairwind**. Baru pada **13 Oktober 2026**, Google membuka model ini untuk developer secara umum.
 
-Berbeda dengan rencana sebelumnya, Google tidak merilisnya ke publik. Alih-alih, model ini tersedia lewat **Fairwind Program** — sebuah kanal terbatas yang ditujukan untuk **tim keamanan siber** yang telah diverifikasi. CEO Sundar Pichai menyatakan ini adalah langkah untuk menguji model dengan sumber terpercaya sebelum penyebaran luas.
+Dalam pengumuman resminya, Google menulis: "Starting today, developers can build with Gemini 4 Argon." Model ini diposisikan untuk **workflow jangka panjang** yang butuh penalaran dalam: rekayasa perangkat lunak dunia nyata, pekerjaan pengetahuan enterprise, dan pertahanan keamanan siber. _(Google Blog)_
 
-Yang menarik, **harga penerimaannya $2 untuk 1 juta output token** (atau $10 untuk 10 juta), jauh lebih terjangkau dari banyak model perusahaan lain. Namun, sampai saat ini **tidak ada yang dapat mengakses API publiknya** — bahkan developer yang mendaftar di Google AI Studio belum dapat memanggil `gemini-4.0-flash`. _(CellCog)_
+Jalur aksesnya:
 
-Model Argon mengusung beberapa perbaikan signifikan:
+- **Gemini API tier berbayar** di Google AI Studio dan Android Studio
+- **Google AI Ultra subscribers** bisa mencobanya di AI Studio dan Antigravity
+- **Robotics**: developer bisa pakai Argon untuk workload robotik
 
-- **Kemampuan runtime panjang** hingga 2 juta token input
-- **Dukungan multi-modal yang lebih baik** untuk kode, dokumen, dan gambar
-- **Instrinsik yang lebih kuat** untuk ramalan matematis dan analisis data
+Ini menarik karena model yang dulunya terbatas sekarang terbuka ke khalayak yang lebih luas, tapi tetap di balik tier berbayar. _(Google Blog)_
 
-Tapi… ada tapinya. Fairwind memang membuahkan hasil bagus selama percobaan awal, tapi banyak yang bertanya: **kapan model ini bakal datang ke semua developer?** Hingga kini, Google hanya bilang "di masa mendatang" tanpa tanggal pasti.
+## 🗣️ Di Aplikasi Gemini: Lebih Langsing, Lebih Task
 
-## 🎮 Play Store Sekarang Bertenaga Vibe-Coded
+Google juga menghadirkan Argon langsung di **aplikasi Gemini**, khusus untuk pelanggan **Google AI Pro dan Ultra**. Perubahan yang disebut:
 
-Pada Senin (13/10/2026), Google mengumumkan perubahan besar di Play Store: **kamu bisa langsung mengunggah aplikasi vibe-coded tanpa akun pengembang profesional**.
+- Menjawab lebih langsung, **kurang hedge**
+- Tidak mengulang diri
+- Lebih sering melaporkan progres di tugas panjang
+- Toggle baru dari **chat ke tasks** — Gemini bisa bekerja padahal kamu tidak di depan komputer
+- Koneksi ke **lebih dari 40 aplikasi** seperti Instacart, OpenTable, Adobe, dan Shopify
 
-Apa itu vibe-coded? Ini adalah **aplikasi pribadi yang dibuat lewat permintaan (prompts)** menggunakan Google AI Studio. Sehingga, kamu tidak perlu belajar koding — cukup tulis "buatkan aplikasi untuk mencatat log harian dengan emoji". Google akan menghasilkan APK yang bisa langsung di-install.
+_(Google Blog)_
 
-Sayangnya, aplikasi ini tetap **tersembunyi** dari katalog publik. Hanya pemilik akun YouTube atau Google yang bisa melihatnya. Untuk berbagi dengan teman, kamu masih harus berpindah ke **Google Play Console** yang berbayar.
+## 🎮 Play Store untuk Aplikasi Vibe-Coded
 
-Google menilai ini sebagai **jembatan** bagi yang ingin berkembang menjadi pengembang profesional. Kalau aplikasi vibe-coded-mu lagi populer, Google akan ajak daftar program Trust & Safety Review. Jika lolos, kamu bisa tetap pakai aplikasi yang sama, tapi sekarangOfficial. _(The Verge, ZDNET)_
+Kabar lain dari Google: **Play Store kini menerima aplikasi vibe-coded pribadi**. Artinya, kalau kamu bikin aplikasi lewat **Google AI Studio** dengan prompt, kamu bisa langsung **launching-nya lewat Play Store** tanpa perlu akun pengembang profesional dulu.
 
-## 🛡️ OpenAI Jemput Akad untuk Keamanan Chrome
+Sam Bright, VP dan GM Google Play, menulis: "If you want to share your app with the world, Google Play helps you graduate to a professional developer account with the same Trust & Safety reviews and high-quality standards as professional developers."
 
-Sejak 2024, **OpenAI Codex Security** telah mengerjakan program khusus untuk menemukan kerentanan di perangkat lunut. Pada Oktober 2026 ini, tim mereka mengumumkan bahwa GPT-5.6-Cyber berhasil menemukan **dua kerentanan V8 di Chrome** sebelum Google merilis patokannya.
+Tapi ada tapinya: aplikasi pribadi ini **tetap terpisah dari katalog publik** — "secure, private, and separate from the public store catalog." Jadi tidak semua orang bisa unduh aplikasimu. Fitur berbagi ke sekelompok orang tertentu masih akan ditambahkan. _(The Verge)_
 
-Kerentanan yang temuan meliputi:
+## 🏠 HomeView 299 Dolar: Dua Bentuk, Bedanya di Suara
 
-- **CVE-2026-106257**: Use-after-free di komponen HTML
-- **CVE-2026-106240**: Type confusion di V8 JavaScript engine
+Di acara **"Welcome Home"** tanggal 13 Oktober 2026, Apple memperkenalkan **HomeView** — hub smart home pertamanya. Harganya **299 dolar**, tersedia dalam dua bentuk:
 
-Ini adalah **dua per dari 370** kerentanan yang diperbaiki Chrome 151 pada 11 Oktober 2026. _(PiunikaWeb)_
+- **Tabletop (standar)**: layar 7 inci Liquid Retina, chip A18, speaker sistem **down-firing woofer + dua full-range driver + dual force-cancelling passive radiators**. Bisa mengenali **hingga enam wajah** dan personalisasi per orang.
+- **Wall-mounted**: juga 7 inci, tapi speaker-nya hanya **dua custom driver** dengan computational audio yang dioptimalkan untuk pemasangan di dinding.
 
-Karena hasilnya bagus, OpenAI membuat kebijakan baru: **semua akun Daybreak harus memakai hardware security key FIDO2 mulai September 2026**. Ini berlaku untuk akun individu maupun organisasi yang mengakses GPT-5.6-Cyber.
+**Perbedaan tersembunyi**: versi wall-mounted **tidak punya woofer dan passive radiators**. Kalau kamu mau kualitas audio lebih dalam, pilih versi tabletop. Tapi untuk sekadar kontrol smart home dan tontonan, versi dinding sudah cukup. _(9to5Mac, MacRumors)_
 
-OpenAI sendiri menilai GPT-5.6-Cyber dapat **menjawab 95 persen pertanyaan keamanan lanjutan** dalam testing, jauh lebih baik dari model standar (hanya 1,5 persen). _(Startup Fortune)_
+Preorder dibuka **13 Oktober 2026**, pengiriman mulai **13 November 2026**. Rilis di delapan negara: AS, Inggris, Kanada, Australia, Selandia Baru, Singapura, Afrika Selatan, dan India. Mount Schneider untuk versi wall-mounted mulai **59,95 dolar**. _(TechRepublic, Northeast Times)_
 
-## 🏠 HomeView Rumit: Dua Model dengan Satu Nama
+Di acara yang sama, Apple juga mengumumkan:
 
-Apple resmi memperkenalkan **HomeView** pada 13 Oktober 2026 sebagai pusat pintar domestik pertama mereka. Namun, yang menarik bukan fitur utama — tapi **perbedaan audio yang tersembunyi di antara dua model**.
+- **Apple TV 4K generasi keempat**: 299 dolar, chip A19, **mikrofon bawaan untuk Siri**, Wi-Fi 7, penyimpanan lebih besar.
+- **HomePod mini 2**: 149 dolar, chip lebih cepat, warna baru.
 
-Ada dua versi HomeView:
+Ketiganya mendukung **Siri AI**. _(MacRumors)_
 
-1. **HomeView standar**: Dilengkapi subwoofer down-firing, dua driver full-range, dan **dual force-cancelling passive radiators**. Menghasilkan suara yang "mengisi ruangan".
-2. **HomeView (Wall Mounted)**: Hanya punya **dua driver custom** dengan computational audio yang dioptimalkan untuk dinding. Tidak ada subwoofer, kualitasnya cukup untuk **Spatial Audio** tapi tidak sekuat standar.
+## 🖥️ Mac Minions: GPU Idle Jadi Kluster
 
-Jika kamu suka musik atau podcast, **pilih model standar**. Jika malu-nyamuk dengan tampilan atau hapus tempat, versi wall-mounted cukup. Harganya sama, tapi **model standar Rp499 ribu lebih mahal** karena komponennya. _(9to5Mac)_
+**The Register** melaporkan Apple membangun sistem internal bernama **Mac Minions** — bukan karakter kuning dari animasi, tapi sistem terdistribusi yang menggabungkan **GPU Apple Silicon yang sedang idle** di berbagai Mac untuk menjalankan beban kerja AI inference skala besar.
 
-Yang menarik, Apple tidak menyertakan **App Store** di dalam HomeView. Ini berarti perangkat ini lebih seperti **ekstensi ekosistem** daripadekomputer mandiri. Pengguna tetap harus mengontrol dari iPhone/iPad.
+Sistemnya punya empat komponen:
 
-## 🖥️ Mac Minions: Buruan Burung untuk AI Enterprise
+- **Minion Server**: mengatur distribusi tugas
+- **PostgreSQL Metadata Store**: memetakan tiap node
+- **Minion Executor**: menjalankan workload
+- **Minion Watchdog**: memonitor kesehatan
 
-Di sisi lain, Apple juga merilis **Mac Minions** sebagai inisiatif untuk berbagi sumber daya GPU. Ini bukan yang keluar dari animasi, tapi sistem distribusi yang memungkinkan **empat Mac Studio dengan chip M5 Max** bekerja sama sehingga hasil AI inference menjadi **tiga kali lebih cepat** daripada satu sistem saja.
+Mac mini dan Mac Studio terbaru mendukung **RDMA over Thunderbolt 5**, sehingga memori bisa digabungkan. MacRumors mencatat empat Mac Studio yang di-cluster bisa memberikan **inference tiga kali lebih cepat** dibanding satu sistem. _(The Register, MacRumors)_
 
-Minions memakai **RDMA (Remote Direct Memory Access)** melalui Thunderbolt 5, sehingga memori bisa digabungkan tanpa menumpah bandwidth. Artinya, model besar yang tidak muat di satu mesin malah bisa dijalankan jika tiga atau empat Mac dikoneksikan.
+## 🛡️ Catatan Singkat: OpenAI dan Chrome
 
-Sistem ini terdiri dari:
+Satu lagi yang layak dicatat: laporan **SecurityWeek** menunjukkan lonjakan kerentanan Chrome yang dilaporkan oleh Google sendiri di beberapa rilis terakhir, dan mengaitkannya dengan pemakaian alat AI untuk menemukan bug.
 
-- **Minion Server**: Mengatur distribusi tugas
-- **PostgreSQL Metadata Store**: Memantau status tiap node
-- **Minion Executor**: Menjalankan workload
-- **Minion Watchdog**: Memantau kesehatan sistem
-
-Keuntungannya? **Biaya listrik lebih rendah**. Empat Mac Mini yang idle saja bisa menghasilkan GPU yang cukup untuk inference batch kecil, dengan konsumsi listrik cuma 30-40 watt per unit. _(The Register)_
+Secara terpisah, **Startup Fortune** melaporkan bahwa model **GPT-5.6-Cyber** dari OpenAI menemukan **kerentanan V8 di Chrome** sebelum peluncurannya, dan OpenAI mulai mewajibkan **hardware security key FIDO2** untuk akun Daybreak. Kami melaporkannya dengan atribusi karena detail spesifik (nomor CVE, angka persentase) berasal dari liputan sekunder, bukan rilis resmi yang kami baca langsung di run ini. _(SecurityWeek, Startup Fortune)_
 
 ## 🗣️ Pendapat saya
 
-Yang paling saya pikirkan hari ini adalah **Gemini 4 Argon vs. akses publiknya yang masih terhalang**. Google memang konsisten dengan strategi "safe deployment" — pertama kutubulkan model dengan partner keamanan, baru buka peluang besar. Tapi pertanyaannya: apa yang mereka cari?
+Yang paling menarik dari hari ini adalah **pola rilis Google**: Argon tidak langsung dilempar ke semua orang. Masuk dulu ke mitra keamanan, baru ke developer berbayar, baru ke pelanggan langganan. Saya ngga tahu apa yang mereka temukan di fase Fairwind, tapi urutan itu menunjukkan Google belajar dari 2025 — release duluan, pikir belakangan.
 
-Saya ngga tahu apa yang temukan di Fairwind, tapi jika memang benarGPT-5.6-Cyber benar-benernya menemukan kerentanan V8, itu bukti bahwa **model AI khusus domain bisa jauh lebih andal** daripada model umum. Mungkin besok nanti kita harus berharap pada **"Gemini 4 Cyber"** sebagai adegan khusus, bukan semua-in-one.
+Soal HomeView, saya agak kecewa satu hal: **harga dua bentuk sama, tapi kualitas suaranya beda jauh**. Apple tidak menjelaskan perbedaan woofer-nya di materi pemasaran utama. Kalau kamu beli karena lihat gambar versi dinding yang cantik, bisa kaget pas dengar musiknya.
 
-Soal vibe-coded apps di Play Store, ini lucu. Di satu sisi, Google senang - kamu bisa bikin aplikasi tanpa belajar koding. Di sisi lain, Google tetap yang kaya: kamu harus punya akun Google, harus pakai AI Studio mereka, dan tetap harus belajar cara "mengemas" aplikasi kalau mau dijual. Ini seperti **Minecraft Creative Mode** - enak, tapi jangan kayaknya produk profesional.
+Untuk aplikasi vibe-coded, ini lucu: kamu bisa bikin aplikasi tanpa belajar koding, tapi untuk membagikannya ke semua orang, tetap harus lewat akun developer berbayar. Ujung-ujungnya Google yang diuntungkan.
 
-Apa kamu udah coba vibe-coded aplikasi? Kalau iya, beri tahu pengalaman di komentar nanti saya ya.
+Kalau kalian harus pilih satu: coba Gemini 4 Argon (kalau sudah langganan), atau nunggu HomeView sampai November?
 
 ## 🔗 Sumber
 
-- [TechCrunch — Gemini 4 Argon: Google finally releases the next-gen AI model](https://techcrunch.com/2026/10/13/google-gemini-4-argon-release/)
-- [EvoLink — Gemini 4 Release Date: Who Can Use It?](https://evolink.ai/blog/gemini-4-release-date)
-- [CellCog — Gemini 4 Argon: What the New AI Model Means for Jobs and Careers in 2026](https://cellcog.ai/blog/gemini-4-release-date)
+- [Google Blog — Gemini 4 Argon is now available for developers](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/)
+- [Google Blog — Gemini 4 Argon comes to the Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/)
 - [The Verge — Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
-- [ZDNET — Google lets you make personal Android apps for free now](https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/)
-- [SecurityWeek — OpenAI's GPT-5.6-Cyber Found Chrome Flaws and Now Demands a Hardware Key](https://www.securityweek.com/openais-gpt-56-cyber-found-chrome-flaws-and-now-demands-a-hardware-key)
+- [MacRumors — Welcome Home: Everything Apple Announced on October 13](https://www.macrumors.com/2026/10/13/apple-october-13-recap)
 - [9to5Mac — Apple's two HomeViews have one big hidden difference](https://9to5mac.com/2026/10/13/apples-two-homeviews-have-one-big-hidden-difference/)
+- [TechRepublic — Apple Smart Home Event: HomeView, HomePod Mini 2 & More](https://www.techrepublic.com/article/news-apple-october-13-smart-home-event-homeview-homepod)
+- [Northeast Times — Apple Opens Preorders for $299 HomeView Smart Display, Shipping Nov. 13](https://northeasttimes.com/2026/10/13/apple-opens-preorders-for-299-homeview-smart-display-shipping-nov-13)
+- [SecurityWeek — Google's Surge in Chrome Vulnerability Discoveries Likely Driven by AI](https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai)
+- [Startup Fortune — OpenAI's GPT-5.6-Cyber Found Chrome Flaws and Now Demands a Hardware Key](https://startupfortune.com/openais-gpt-56-cyber-found-chrome-flaws-and-now-demands-a-hardware-key)
 - [The Register — Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks](https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/)
