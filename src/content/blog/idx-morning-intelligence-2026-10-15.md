@@ -33,7 +33,7 @@ Tapi di balik rebound komersial itu, fondasi risiko global terasa panas: **CPI A
 | **Selasa (13/10)** | **5.925,98** | **−0,17%** |
 | **Rabu (14/10)**   | **5.943,02** | **+0,29%** |
 
-> Sesi 12–14 Oktober: IHSG **−1,64%** dari 5.943,02 (per jumpa ke 5.828,68 intraday). Sektor yang menguat: teknologi +2,76%, properti +1,78%, BDC.
+> Sesi 12–14 Oktober: IHSG **−1,64%** dari 5.943,02 (menyentuh 5.828,68 intraday). Sektor yang menguat: teknologi +2,76%, properti +1,78%, konsumer primer.
 
 ### Indikator Kunci
 
@@ -64,7 +64,7 @@ Tapi di balik rebound komersial itu, fondasi risiko global terasa panas: **CPI A
 | Newcastle Coal (13/10) | 150,40    | +0,70%    | USD/ton   | batubara (ADRO, PTBA, ITMG, BUMI)   |
 | Natural Gas (NG=F)     | 3,28      | +1,83%    | USD/MMBtu | energi (PGAS, AKRA)                 |
 
-**Catatan komoditas:** _Gold spot (Trading Economics, 14/10) vs kontrak Dec (Yahoo) menunjukkan arah berbeda — spot melemah akibat ekspektasi The Fed kriting, futures masih bertahan. Nickel, timah, CPO, batubara dari WestMetall LME. Coal & oil dari Trading Economics/Lipi6._
+**Catatan komoditas:** _Gold spot (Trading Economics, 14/10) vs kontrak Dec (Yahoo) menunjukkan arah berbeda — spot melemah akibat ekspektasi The Fed ketat, futures masih bertahan. Nickel, timah, CPO, batubara dari WestMetall LME. Coal & oil dari Trading Economics/Liputan6._
 
 ### Tabel Kurs Lintas Mata Uang (ECB fixing, Frankfurter)
 
@@ -72,10 +72,10 @@ Tapi di balik rebound komersial itu, fondasi risiko global terasa panas: **CPI A
 | -------- | --------------- | --------------------- |
 | USD/IDR  | ±17.895         | melemah tipis, stabil |
 | USD/JPY  | 158,01          | yen menguat, turun    |
-| USD/CNY  | 6,69            | ku yuan menguat       |
+| USD/CNY  | 6,69            | yuan Tiongkok menguat |
 | USD/SGD  | 1,28            | SGD menguat           |
-| CNY/IDR  | 119.97          | (17.684 ÷ 158,06)     |
-| EUR/IDR  | 19.935          | (0,893 ÷ 0,0448)      |
+| CNY/IDR  | 2.678           | (17.921 ÷ 6,6927)     |
+| EUR/IDR  | 20.062          | (17.921 ÷ 0,89326)    |
 
 ## Berita & Analisis
 
@@ -89,7 +89,7 @@ Tapi di balik rebound komersial itu, fondasi risiko global terasa panas: **CPI A
 
 ### 💱 Valas & Makro
 
-**Inflasi AS September 3,7% memicu risk-off global.** CPI AS naik **0,6% bulanan** (vs 0,4% Agustus), 3,7% tahunan — di atas proyeksi 3,6% dan naik dari 3,4% Agustus. Pemicu: harga bensin AS yang melonjak. The Fed menaikkan suku bunga ke **3,75–4,00%** 16 September; CPI panas berpotensi menekan pendekatan FOMC 27–28 Oktober. **Kevin Warsh** baru jadi ketua The Fed; pidatonya Kamis (15/10). _Sumber: BLS, Cleveland Fed, Trading Economics, Kontan, 13–14 Oktober 2026._
+**Inflasi AS September 3,7% memicu The Fed hawkish.** _Sumber: BLS, Cleveland Fed, Trading Economics, Kontan, 13–14 Oktober 2026._
 
 **Rupiah bergerak stabil di ±Rp17.895/USD.** Terima kasih intervensi BI yang membatasi kenaikan; DXY 102,53 (sedikit turun). **SBN 10 tahun** masih di bawah 7% setelah koreksi minggu lalu. _Sumber: FXStreet, Trading Economics, 14 Oktober 2026._
 
@@ -97,16 +97,16 @@ Tapi di balik rebound komersial itu, fondasi risiko global terasa panas: **CPI A
 
 **Aksi korporasi Oktober 2026 ramai:**
 
-- **ASII**: dividen interim Rp98/sahom (+ Rp3,89 triliun), cum 12/10, ex 13/10, pembayaran 30/10. Buyback jumbo Rp8 triliun berjalan.
+- **ASII**: dividen interim Rp98/saham (+ Rp3,89 triliun), cum 12/10, ex 13/10, pembayaran 30/10. Buyback jumbo Rp8 triliun berjalan.
 - **BMRI**: perpetual bond US$750 juta (≈Rp13,42 triliun, kupon 7,35%) setelah persetujuan OJK.
 - **BBKP**: obligasi subordinasi Rp500 miliar, bunga hingga 9,30%, 12–13 Oktober.
-- **Rights issue** (tahun ini): JGLE Rp414 miliar, VKTR Rp3 triliun, HMETD 7 emiten sepanjang September, ENUR Rp4,12 triliun. _Sumber: CNBC, Bisnis.com, Kontan, 12–14 Oktober 2026._
+- **Rights issue** (tahun ini): JGLE Rp414 miliar, VKTR Rp3 triliun, HMETD 7 emiten sepanjang September, ENRG Rp4,12 triliun. _Sumber: CNBC, Bisnis.com, Kontan, 12–14 Oktober 2026._
 
 ### 🛢️ Komoditas & Energi
 
-- **Minyak:** WTI $94,84 (−0,26%), Brent ~US$106,20. Tekanan dari kekhawatiran pasokan Timur Tengah (konflik Saudi-Houthi, keputusan pasar) mengalahkan peningkatan Pasokan USD.
-- **Emas:** spot turun **1,68% ke US$4.091** (Trading Economics 14/10); kontrak Dec melaju US$4.124 (+0,40%). Emas masih positif sepanjang tahun (+0,32% vs 12 bulan lalu) — greenium berlanjut.
-- **Tembaga & logam dasar (LME):** tembaga US$14.741 (+0,80%), nikel US$15.445 (−1,18%), timah US$53.000 (+0,09%). Kuprum menguat karena adve (Hong Kong, Tiongkok); nikel menguat setelah larangan ekspor Tiongkok.
+- **Minyak:** WTI $94,84 (−0,26%), Brent ~US$106,20. Tekanan dari kekhawatiran pasokan Timur Tengah (konflik Saudi-Houthi) mengalahkan peningkatan pasokan global.
+- **Emas:** spot turun **1,68% ke US$4.091** (Trading Economics 14/10); kontrak Dec melaju US$4.124 (+0,40%). Emas masih positif sepanjang tahun (+0,32% vs 12 bulan lalu) — greenium tetap bertahan.
+- **Tembaga & logam dasar (LME):** tembaga US$14.741 (+0,80%), nikel US$15.445 (−1,18%), timah US$53.000 (+0,09%). Logam dasar menunjukkan divergensi permintaan antar komoditas.
 - **CPO:** spot Malaysia US$1.091/ton (RM4.700, +0,38%) — mendukung emiten perkebunan (AALI, LSIP, TAPG, UNSP). _Sumber: Trading Economics, WestMetall, Liputan6, 14 Oktober 2026._
 
 ### 🌍 Geopolitik & Kebijakan
