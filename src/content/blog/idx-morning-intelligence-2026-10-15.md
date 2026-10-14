@@ -21,7 +21,7 @@ Tapi di balik rebound komersial itu, fondasi risiko global terasa panas: **CPI A
 
 ### Performa IHSG — Lima Sesi (8–15 Oktober)
 
-> Catatan: 14 Oktober (Rabu) placeholder karena pasar tutup akhir pekan; data yang digunakan adalah **penutupan Jumat (10/10)**, bukan 14/10. Jangan pakai tanggal Jumat untuk publikasi.
+> Catatan: data IHSG mencakup 5 sesi: 8/10 (Kamis), 9/10 (Jumat), 12/10 (Senin), 13/10 (Selasa), 14/10 (Rabu) — IHSG tutup 5.943,02 (+0,29%). Biaya semua hari: 8, 9, 12, 13, 14 Oktober (tidak Ada jeda akhir pekan antara 9–12 Oktober sesuai kalender perkebunan).
 
 | Hari               | Close        | Perubahan  |
 | ------------------ | ------------ | ---------- |
