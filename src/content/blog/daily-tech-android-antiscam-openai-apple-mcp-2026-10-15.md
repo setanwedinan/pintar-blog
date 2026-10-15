@@ -1,8 +1,8 @@
 ---
-title: "Android perkuat pertahanan anti-scam, OpenAI tuduh mantan karyawan bocorkan perangkat AI ke Apple"
-description: "Google meluncurkan mode enhanced protection di Google Messages berbasis Gemini cloud, OpenAI menuduh mantan karyawan mengunduh 100 lebih berkas rahasia perangkat AI lalu mempresentasikannya ke petinggi Apple, plus Apigee hybrid 1.17.0 dan Hermes Agent v0.22.0."
+title: 'Android perkuat pertahanan anti-scam, OpenAI tuduh mantan karyawan bocorkan perangkat AI ke Apple'
+description: 'Google meluncurkan mode enhanced protection di Google Messages berbasis Gemini cloud, OpenAI menuduh mantan karyawan mengunduh 100 lebih berkas rahasia perangkat AI lalu mempresentasikannya ke petinggi Apple, plus Apigee hybrid 1.17.0 dan Hermes Agent v0.22.0.'
 pubDate: 2026-10-15T00:00:00Z
-<!-- TAG:START -->tags: ['berita', 'Tech', 'AI', 'Google', 'Apple']<!-- TAG:END -->
+tags: ['berita', 'Tech', 'AI', 'Google', 'Apple']
 ---
 
 ## 🔍 TL;DR

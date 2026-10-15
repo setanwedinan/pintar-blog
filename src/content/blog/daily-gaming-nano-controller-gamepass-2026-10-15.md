@@ -1,8 +1,8 @@
 ---
-title: "Xbox Nano Controller resmi, Game Pass kehilangan 8 judul 15 Oktober"
-description: "Xbox memperkenalkan Nano Controller seharga $49,99 dengan desain super-ringan 99 gram untuk pemain mobile, Escape Academy 2 rilis day-one 5 November, dan Microsoft menyurvei kebijakan kembali eksklusif konsol."
+title: 'Xbox Nano Controller resmi, Game Pass kehilangan 8 judul 15 Oktober'
+description: 'Xbox memperkenalkan Nano Controller seharga $49,99 dengan desain super-ringan 99 gram untuk pemain mobile, Escape Academy 2 rilis day-one 5 November, dan Microsoft menyurvei kebijakan kembali eksklusif konsol.'
 pubDate: 2026-10-15T00:20:00Z
-<!-- TAG:START -->tags: ['berita', 'Gaming', 'Xbox', 'Game Pass']<!-- TAG:END -->
+tags: ['berita', 'Gaming', 'Xbox', 'Game Pass']
 ---
 
 ## 🔍 TL;DR

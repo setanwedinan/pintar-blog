@@ -1,8 +1,8 @@
 ---
-title: "BYD Full Throttle: Flash Charging, Premium Danza, dan MGS6 EV dari MG"
-description: "BYD hadirkan Flash Charging 1.500 kW (10-97% dalam 9 menit) plus Blade Battery Gen 2, sekaligus memamerkan mobil premium Danza New D9 Rp1,08 miliar dan Z9 GT Rp2,25 miliar; MG membuka pre-book MGS6 EV."
+title: 'BYD Full Throttle: Flash Charging, Premium Danza, dan MGS6 EV dari MG'
+description: 'BYD hadirkan Flash Charging 1.500 kW (10-97% dalam 9 menit) plus Blade Battery Gen 2, sekaligus memamerkan mobil premium Danza New D9 Rp1,08 miliar dan Z9 GT Rp2,25 miliar; MG membuka pre-book MGS6 EV.'
 pubDate: 2026-10-15T00:30:00Z
-<!-- TAG:START -->tags: ['berita', 'Otomotif', 'Mobil']<!-- TAG:END -->
+tags: ['berita', 'Otomotif', 'Mobil']
 ---
 
 ## 🔍 TL;DR

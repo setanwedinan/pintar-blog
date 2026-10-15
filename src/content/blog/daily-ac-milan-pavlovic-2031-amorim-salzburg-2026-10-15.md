@@ -1,8 +1,8 @@
 ---
-title: "AC Milan perpanjang kontrak Pavlovic sampai 2031, Amorim jelang laga melawan Salzburg"
-description: "AC Milan mengumumkan perpanjangan kontrak Strahinja Pavlovic hingga 30 Juni 2031, Ruben Amorim mengaku sulit punya waktu di Milan jelang laga Europa League melawan RB Salzburg, plus isu Endrick dan spekulasi transfer Lisandro Martinez."
+title: 'AC Milan perpanjang kontrak Pavlovic sampai 2031, Amorim jelang laga melawan Salzburg'
+description: 'AC Milan mengumumkan perpanjangan kontrak Strahinja Pavlovic hingga 30 Juni 2031, Ruben Amorim mengaku sulit punya waktu di Milan jelang laga Europa League melawan RB Salzburg, plus isu Endrick dan spekulasi transfer Lisandro Martinez.'
 pubDate: 2026-10-15T00:10:00Z
-<!-- TAG:START -->tags: ['berita', 'AC Milan', 'Sepak Bola']<!-- TAG:END -->
+tags: ['berita', 'AC Milan', 'Sepak Bola']
 ---
 
 ## 🔍 TL;DR
