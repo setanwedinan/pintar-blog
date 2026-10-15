@@ -4,8 +4,9 @@ import { SITE_TITLE } from '../consts'
 
 <header>
   <nav>
-    <h2><a href="/">{SITE_TITLE}</a></h2>
+    <a class="site-title" href="/">{SITE_TITLE}</a>
     <div class="social-links">
+      <a href="/rss.xml">RSS</a>
       <a
         href="https://github.com/setanwedinan/pintar-blog"
         target="_blank"
@@ -25,29 +26,12 @@ import { SITE_TITLE } from '../consts'
 
 <style>
   header {
-    margin: 0;
-    padding: 0 var(--space-2);
+    position: sticky;
+    inset-block-start: 0;
+    z-index: 1;
+    padding-inline: var(--gutter);
     background: var(--bg-elevated);
     box-shadow: var(--shadow-subtle);
-    position: sticky;
-    top: 0;
-    z-index: 999;
-    backdrop-filter: blur(10px);
-    transition:
-      background 0.3s ease,
-      box-shadow 0.3s ease;
-  }
-
-  h2 {
-    margin: 0;
-    font-size: 1.2em;
-    font-weight: 700;
-  }
-
-  h2 a,
-  h2 a.active {
-    text-decoration: none;
-    color: var(--accent);
   }
 
   nav {
@@ -58,55 +42,63 @@ import { SITE_TITLE } from '../consts'
   }
 
   nav a {
-    padding: var(--space-2) var(--space-1);
+    padding-block: var(--space-2);
+    padding-inline: var(--space-1);
+    border-block-end: 3px solid transparent;
     color: var(--text-primary);
-    border-bottom: 3px solid transparent;
-    text-decoration: none;
-    transition: all 0.3s ease;
+    background: none;
+    transition:
+      color 0.3s var(--ease-out),
+      border-color 0.3s var(--ease-out);
   }
 
-  nav a.active {
-    text-decoration: none;
-    border-bottom-color: var(--accent);
+  nav a:active {
     color: var(--accent);
   }
 
-  nav a:hover {
-    border-bottom-color: var(--accent);
-    color: var(--accent-hover);
+  .site-title {
+    font-size: clamp(1rem, 0.8875rem + 0.5vw, 1.2rem);
+    font-weight: 700;
   }
 
-  .social-links,
-  .social-links a {
+  .social-links {
     display: flex;
     align-items: center;
     gap: var(--space-2);
   }
 
+  .social-links a {
+    display: flex;
+    align-items: center;
+  }
+
   .social-links svg {
     color: var(--text-secondary);
-    transition:
-      color 0.2s ease,
-      transform 0.2s ease;
+    transition: color 0.2s var(--ease-out);
   }
 
-  .social-links svg:hover {
-    color: var(--accent);
-    transform: translateY(-2px);
+  @media (hover: hover) and (pointer: fine) {
+    nav a:hover {
+      border-block-end-color: var(--accent);
+      color: var(--accent-dark);
+    }
+
+    .social-links a:hover svg {
+      color: var(--accent);
+    }
   }
 
-  @media (max-width: 720px) {
-    header {
-      padding: 0 var(--space-1);
-    }
-
-    h2 {
-      font-size: 1rem;
-    }
-
+  @media (prefers-reduced-motion: no-preference) {
     .social-links svg {
-      width: 20px;
-      height: 20px;
+      transition:
+        color 0.2s var(--ease-out),
+        transform 0.2s var(--ease-out);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+      .social-links a:hover svg {
+        transform: translateY(-2px);
+      }
     }
   }
 </style>

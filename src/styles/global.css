@@ -1,93 +1,84 @@
 /*
-  Pintar Blog — Premium 2026 Design System
-  Clean, readable, mobile-first with dark mode support
+  Pintar Blog: tokens, base styles and prose.
+  Colors use light-dark(light, dark); the theme follows the OS via color-scheme.
  */
 
 :root {
-  /* Colors — Light Mode */
-  --bg-primary: #ffffff;
-  --bg-secondary: #ebf4f6;
-  --bg-elevated: #ffffff;
-  --text-primary: #1a4a5c;
-  --text-secondary: #7ab2b2;
-  --text-muted: #a8d0d0;
-  --border-color: rgba(122, 178, 178, 0.3);
-  --shadow-subtle: 0 2px 8px rgba(9, 99, 126, 0.08);
-  --shadow-elevated: 0 8px 32px rgba(9, 99, 126, 0.12);
+  color-scheme: light dark;
 
-  /* Accent Colors */
-  --accent: #09637e;
-  --accent-dark: #088395;
-  --accent-light: rgba(9, 99, 126, 0.1);
-  --accent-hover: #088395;
+  /* Colors */
+  --bg-primary: light-dark(oklch(100% 0 none), oklch(20.6% 0.024 220.3));
+  --bg-secondary: light-dark(oklch(96.1% 0.01 212.5), oklch(24.9% 0.033 222.5));
+  --bg-elevated: light-dark(oklch(100% 0 none), oklch(24.5% 0.028 228.3));
+  --bg-wash: light-dark(
+    color-mix(in oklch, oklch(96.1% 0.01 212.5) 50%, transparent),
+    oklch(24.9% 0.033 222.5)
+  );
+  --text-primary: light-dark(
+    oklch(38.5% 0.059 226.4),
+    oklch(95.9% 0.013 208.8)
+  );
+  --text-secondary: light-dark(
+    oklch(52.3% 0.059 203.2),
+    oklch(66.3% 0.055 208.2)
+  );
+  --text-muted: light-dark(oklch(54.7% 0.053 204.2), oklch(61.1% 0.056 209.8));
+  --accent: light-dark(oklch(46.6% 0.086 225.5), oklch(72.9% 0.101 212));
+  --accent-dark: light-dark(oklch(56% 0.096 211.7), oklch(72.5% 0.058 195.9));
+  --heading-sub: light-dark(oklch(56% 0.096 211.7), oklch(88.3% 0.034 210.6));
+  --line: oklch(72.5% 0.058 195.9);
+  --border-color: light-dark(
+    color-mix(in oklch, var(--line) 30%, transparent),
+    color-mix(in oklch, var(--line) 15%, transparent)
+  );
+  --tag-bg: color-mix(in oklch, oklch(72.9% 0.101 212) 20%, transparent);
+  --code-bg: light-dark(
+    oklch(96.1% 0.01 212.5),
+    color-mix(in oklch, var(--line) 15%, transparent)
+  );
+  --shadow-subtle: 0 2px 8px
+    light-dark(oklch(46.6% 0.086 225.5 / 8%), oklch(0% 0 none / 30%));
+  --shadow-elevated: 0 8px 32px
+    light-dark(oklch(46.6% 0.086 225.5 / 12%), oklch(0% 0 none / 50%));
 
-  /* RGB Values for existing code */
-  --black: 9, 99, 126;
-  --gray: 122, 178, 178;
-  --gray-light: 235, 244, 246;
-  --gray-dark: 8, 131, 149;
-  --gray-gradient: rgba(var(--gray-light), 50%), #fff;
+  /* Typography: fluid between 360px and 1000px viewports */
+  --font-h1: clamp(1.75rem, 1.469rem + 1.25vw, 2.25rem);
+  --font-h2: clamp(1.375rem, 1.164rem + 0.9375vw, 1.75rem);
+  --font-h3: clamp(1.125rem, 1.055rem + 0.3125vw, 1.25rem);
+  --font-h4: 1.125rem;
+  --font-body: 1rem;
+  --font-caption: 0.875rem;
 
-  /* Typography Scale */
-  --font-h1: 2.25rem; /* 36px */
-  --font-h2: 1.75rem; /* 28px */
-  --font-h3: 1.25rem; /* 20px */
-  --font-h4: 1.125rem; /* 18px */
-  --font-body: 1rem; /* 16px */
-  --font-caption: 0.875rem; /* 14px */
-
-  /* Line Heights */
   --lh-tight: 1.25;
-  --lh-compact: 1.4;
   --lh-body: 1.7;
   --lh-relaxed: 1.9;
 
-  /* Letter Spacing */
   --ls-headings: -0.025em;
   --ls-display: -0.04em;
   --ls-caps: 0.05em;
 
-  /* Spacing Scale (8pt system) */
-  --space-1: 0.5rem; /* 8px */
-  --space-2: 1rem; /* 16px */
-  --space-3: 1.5rem; /* 24px */
-  --space-4: 2rem; /* 32px */
-  --space-5: 2.5rem; /* 40px */
-  --space-6: 3rem; /* 48px */
-  --space-8: 4rem; /* 64px */
+  /* Spacing (8pt) */
+  --space-1: 0.5rem;
+  --space-2: 1rem;
+  --space-3: 1.5rem;
+  --space-4: 2rem;
+  --space-5: 2.5rem;
+  --space-6: 3rem;
+
+  /* Fluid spacing, same 360px to 1000px range */
+  --gutter: clamp(1rem, 0.719rem + 1.25vw, 1.5rem);
+  --space-fluid-m: clamp(1.5rem, 0.9375rem + 2.5vw, 2.5rem);
+  --space-fluid-l: clamp(2rem, 1.4375rem + 2.5vw, 3rem);
+  --space-fluid-xl: clamp(3rem, 2.4375rem + 2.5vw, 4rem);
 
   /* Layout */
   --content-width: 740px;
   --reading-line: 75ch;
-}
 
-/* Dark Mode */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-primary: #0a1a1f;
-    --bg-secondary: #0d252d;
-    --bg-elevated: #11232b;
-    --text-primary: #e8f4f6;
-    --text-secondary: #6a9da5;
-    --text-muted: #5a8d96;
-    --border-color: rgba(122, 178, 178, 0.15);
-    --shadow-subtle: 0 2px 8px rgba(0, 0, 0, 0.3);
-    --shadow-elevated: 0 8px 32px rgba(0, 0, 0, 0.5);
+  /* Motion */
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
 
-    --accent: #4db8cc;
-    --accent-dark: #7ab2b2;
-    --accent-light: rgba(77, 184, 204, 0.1);
-    --accent-hover: #7ab2b2;
-
-    /* Visited link: noticeably dimmer but still readable */
-    --link-visited: #8abfc9;
-
-    /* RGB values updated for dark mode */
-    --black: 9, 99, 126;
-    --gray: 106, 157, 165;
-    --gray-light: 30, 60, 70;
-    --gray-dark: 8, 131, 149;
-  }
+  overflow-wrap: break-word;
 }
 
 /* Fonts */
@@ -106,38 +97,40 @@
   font-display: swap;
 }
 
-/* Base Styles */
-* {
+/* Base */
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
 }
 
 body {
-  font-family: 'Atkinson', sans-serif;
   margin: 0;
-  padding: 0;
-  background: linear-gradient(var(--gray-gradient)) no-repeat;
-  background-size: 100% 600px;
-  background-color: var(--bg-primary);
+  background:
+    linear-gradient(var(--bg-wash), transparent) 0 0 / 100% 600px no-repeat,
+    var(--bg-primary);
   color: var(--text-primary);
+  font-family: 'Atkinson', sans-serif;
   font-size: var(--font-body);
   line-height: var(--lh-body);
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  transition:
-    background 0.3s ease,
-    color 0.3s ease;
 }
 
-/* Layout */
 main {
-  width: var(--content-width);
-  max-width: calc(100% - 2em);
-  margin: auto;
-  padding: var(--space-6) var(--space-2);
+  inline-size: min(100% - 2rem, var(--content-width));
+  margin-inline: auto;
+  padding-block: var(--space-fluid-l);
+  padding-inline: var(--space-2);
+}
+
+:focus-visible {
+  outline: max(2px, 0.08em) solid currentColor;
+  outline-offset: 0.25em;
 }
 
 /* Typography */
@@ -147,134 +140,117 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0 0 0.5rem 0;
+  margin-block: 0 0.5rem;
+  margin-inline: 0;
   color: var(--text-primary);
+  font-weight: 700;
   line-height: var(--lh-tight);
   letter-spacing: var(--ls-headings);
-  font-weight: 700;
+  text-wrap: balance;
 }
 
 h1 {
-  font-size: var(--font-h1);
+  margin-block-end: var(--space-2);
   color: var(--accent);
+  font-size: var(--font-h1);
   letter-spacing: var(--ls-display);
-  margin-bottom: var(--space-2);
 }
 
 h2 {
-  font-size: var(--font-h2);
+  margin-block: var(--space-fluid-l) var(--space-3);
   color: var(--accent);
-  margin-top: var(--space-6);
-  margin-bottom: var(--space-3);
+  font-size: var(--font-h2);
 }
 
 h3 {
+  margin-block: var(--space-fluid-m) var(--space-2);
+  color: var(--heading-sub);
   font-size: var(--font-h3);
-  color: var(--accent-dark);
-  margin-top: var(--space-5);
-  margin-bottom: var(--space-2);
 }
 
 h4 {
+  margin-block: var(--space-4) var(--space-2);
+  color: var(--heading-sub);
   font-size: var(--font-h4);
-  color: var(--accent-dark);
-  margin-top: var(--space-4);
-  margin-bottom: var(--space-2);
 }
 
 p {
-  margin-bottom: var(--space-3);
-  max-width: var(--reading-line);
+  margin-block-end: var(--space-3);
+  max-inline-size: var(--reading-line);
 }
 
 strong,
 b {
-  font-weight: 700;
   color: var(--accent);
+  font-weight: 700;
 }
 
+/* Links: underline grows from the start on hover */
 a {
   color: var(--accent);
   text-decoration: none;
-  position: relative;
-  background: linear-gradient(var(--accent), var(--accent)) no-repeat;
-  background-size: 0% 1px;
-  background-position: 0 100%;
-  transition: background-size 0.3s ease;
-}
-
-a:visited {
-  background: linear-gradient(
-      var(--link-visited, var(--accent)),
-      var(--link-visited, var(--accent))
-    )
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0% 1px
     no-repeat;
-  background-size: 0% 1px;
-  background-position: 0 100%;
 }
 
-a:hover {
-  background-size: 100% 1px;
-  color: var(--accent-hover);
+a:active {
+  color: var(--accent-dark);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  a:hover {
+    color: var(--accent-dark);
+    background-size: 100% 1px;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a {
+    transition: background-size 0.3s var(--ease-out);
+  }
 }
 
 /* Lists */
 ul,
 ol {
-  margin-bottom: var(--space-3);
-  padding-left: var(--space-3);
+  margin-block-end: var(--space-3);
+  padding-inline-start: var(--space-3);
 }
 
 li {
-  margin-bottom: var(--space-1);
-}
-
-/* Forms */
-textarea {
-  width: 100%;
-  font-size: 16px;
-}
-
-input {
-  font-size: 16px;
+  margin-block-end: var(--space-1);
 }
 
 /* Tables */
 table {
-  width: 100%;
+  inline-size: 100%;
+  margin-block-end: var(--space-3);
   border-collapse: collapse;
-  margin-bottom: var(--space-3);
 }
 
 /* Images */
 img {
-  max-width: 100%;
-  height: auto;
+  max-inline-size: 100%;
+  block-size: auto;
   border-radius: var(--space-1);
 }
 
 /* Code */
 code {
-  padding: 0.2em 0.4em;
-  background-color: var(--bg-secondary);
+  padding-block: 0.2em;
+  padding-inline: 0.4em;
+  background: var(--code-bg);
   border-radius: 3px;
-  font-size: 0.9em;
   color: var(--accent);
+  font-size: 0.9em;
 }
 
 pre {
   padding: var(--space-3);
-  background-color: var(--bg-secondary);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
   border-radius: var(--space-1);
   overflow-x: auto;
-  transition:
-    box-shadow 0.3s ease,
-    transform 0.3s ease;
-}
-
-pre:hover {
-  box-shadow: var(--shadow-elevated);
-  transform: translateY(-2px);
 }
 
 pre > code {
@@ -282,208 +258,106 @@ pre > code {
   display: block;
 }
 
-/* Blockquotes — Pull-quote styling */
+/* Blockquote: pull-quote */
 blockquote {
   position: relative;
-  margin: var(--space-5) 0;
-  padding: var(--space-4) var(--space-5);
-  background: linear-gradient(
-    135deg,
-    var(--bg-secondary) 0%,
-    rgba(235, 244, 246, 0.3) 100%
-  );
-  border-left: 4px solid var(--accent);
-  border-radius: 0 var(--space-2) var(--space-2) 0;
+  margin-block: var(--space-5);
+  margin-inline: 0;
+  padding-block: var(--space-4);
+  padding-inline: var(--space-fluid-m);
+  background: linear-gradient(135deg, var(--bg-secondary), transparent);
+  border: 1px solid var(--border-color);
+  border-radius: var(--space-2);
+  color: var(--accent-dark);
   font-size: var(--font-h3);
   font-style: italic;
   line-height: var(--lh-relaxed);
-  color: var(--accent-dark);
 }
 
 blockquote::before {
   content: '"';
   position: absolute;
-  top: -10px;
-  left: 10px;
-  font-size: 4rem;
-  font-family: Georgia, serif;
+  inset-block-start: -10px;
+  inset-inline-start: 10px;
   color: var(--accent);
-  opacity: 0.3;
+  font-family: Georgia, serif;
+  font-size: 4rem;
   line-height: 1;
+  opacity: 0.5;
 }
 
-/* Divider — Elegant gradient */
+/* Divider */
 hr {
-  margin: var(--space-6) 0;
+  block-size: 1px;
+  margin-block: var(--space-6);
+  margin-inline: 0;
   border: none;
-  height: 1px;
   background: linear-gradient(
     90deg,
-    transparent 0%,
-    rgba(122, 178, 178, 0.5) 50%,
-    transparent 100%
+    transparent,
+    color-mix(in oklch, var(--line) 50%, transparent),
+    transparent
   );
 }
 
-/* Highlight/Callout Box */
-.highlight-box {
-  margin: var(--space-4) 0;
-  padding: var(--space-3);
-  background: var(--accent-light);
-  border: 1px solid rgba(9, 99, 126, 0.15);
-  border-radius: var(--space-1);
-  border-left: 3px solid var(--accent);
-}
-
-.highlight-box strong {
-  color: var(--accent);
-}
-
-/* Reading Progress Bar */
+/* Reading progress: scroll-driven, no JS. Browsers without animation-timeline don't show it. */
 .progress-bar {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 0%;
-  height: 3px;
+  inset-block-start: 0;
+  inset-inline: 0;
+  z-index: 2;
+  block-size: 3px;
   background: linear-gradient(90deg, var(--accent), var(--accent-dark));
-  z-index: 1000;
-  transition: width 0.1s ease-out;
+  transform-origin: 0 50%;
+  scale: 0 1;
 }
 
-/* Paragraph spacing in prose */
+@supports (animation-timeline: scroll()) {
+  .progress-bar {
+    animation: reading-progress linear both;
+    animation-timeline: scroll(root);
+  }
+}
+
+@keyframes reading-progress {
+  to {
+    scale: 1 1;
+  }
+}
+
 .prose p {
-  margin-bottom: 2em;
+  margin-block-end: 2em;
 }
 
-/* Meta elements */
+/* Post meta */
 .date {
-  font-size: var(--font-caption);
   color: var(--text-secondary);
+  font-size: var(--font-caption);
+  font-weight: 600;
   letter-spacing: var(--ls-caps);
   text-transform: uppercase;
-  font-weight: 600;
 }
 
 .last-updated-on {
-  font-style: italic;
-  font-size: var(--font-caption);
   color: var(--text-muted);
+  font-size: var(--font-caption);
+  font-style: italic;
 }
 
-/* Tags */
 .tags {
   display: flex;
-  gap: 0.5rem;
   flex-wrap: wrap;
-  margin-top: var(--space-2);
+  gap: 0.5rem;
+  margin-block-start: var(--space-2);
 }
 
 .tag {
-  font-size: 0.75rem;
-  padding: 0.25rem 0.75rem;
-  background: rgba(77, 184, 204, 0.2);
-  color: var(--accent);
+  padding-block: 0.25rem;
+  padding-inline: 0.75rem;
+  background: var(--tag-bg);
   border-radius: 100px;
+  color: var(--accent);
+  font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.01em;
-}
-
-/* Dark mode specific overrides */
-@media (prefers-color-scheme: dark) {
-  body {
-    background: linear-gradient(
-      135deg,
-      var(--bg-primary) 0%,
-      var(--bg-secondary) 100%
-    );
-    background-size: 100% 600px;
-  }
-
-  /* Fix heading contrast: darken bg headings for readability */
-  h1,
-  h2 {
-    color: var(--accent);
-  }
-
-  h3,
-  h4 {
-    color: #c0dfe5;
-  }
-
-  blockquote {
-    background: linear-gradient(
-      135deg,
-      rgba(13, 37, 45, 0.8) 0%,
-      rgba(13, 37, 45, 0.4) 100%
-    );
-    border-left-color: #4db8cc;
-    color: #7ab2b2;
-  }
-
-  pre {
-    background: var(--bg-secondary);
-    border: 1px solid var(--border-color);
-  }
-
-  code {
-    background: rgba(122, 178, 178, 0.15);
-    color: #4db8cc;
-  }
-
-  .highlight-box {
-    background: rgba(77, 184, 204, 0.08);
-    border-color: rgba(77, 184, 204, 0.2);
-  }
-}
-
-/* Mobile Optimization */
-@media (max-width: 720px) {
-  :root {
-    --font-h1: 1.75rem; /* 28px */
-    --font-h2: 1.375rem; /* 22px */
-    --font-h3: 1.125rem; /* 18px */
-    --font-body: 1rem; /* 16px */
-  }
-
-  body {
-    font-size: var(--font-body);
-  }
-
-  main {
-    padding: var(--space-3) var(--space-2);
-  }
-
-  h2 {
-    margin-top: var(--space-4);
-  }
-
-  h3 {
-    margin-top: var(--space-3);
-  }
-
-  blockquote {
-    padding: var(--space-3);
-    font-size: 1.125rem;
-  }
-
-  ul,
-  ol {
-    padding-left: var(--space-3);
-  }
-}
-
-/* Screen Reader Only */
-.sr-only {
-  border: 0;
-  padding: 0;
-  margin: 0;
-  position: absolute !important;
-  height: 1px;
-  width: 1px;
-  overflow: hidden;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px);
-  clip-path: inset(50%);
-  white-space: nowrap;
 }
