@@ -15,13 +15,16 @@ test('homepage markdown lists posts', () => {
 test('404 markdown explains and links llms.txt', () => {
   const md = dist('404.md')
   assert.ok(md.length >= 20)
-  assert.match(md, /\/llms\.txt/)
+  assert.match(md, /\[[^\]]+\]\(https:\/\/[^)]+\/llms\.txt\)/)
 })
 
 test('llms.txt follows llmstxt.org layout', () => {
   const txt = dist('llms.txt')
   assert.match(txt, /^# .+\n\n> .+/)
   assert.match(txt, /^## .+\n\n- \[.+\]\(https?:\/\/.+\)/m)
+  const items = txt.split('## Tulisan terbaru\n\n')[1].trim().split('\n')
+  assert.equal(items.length, 50)
+  for (const line of items) assert.match(line, /^- \[.+\]\(https:\/\/\S+\): /)
 })
 
 test('homepage has Blog JSON-LD', () => {
@@ -54,7 +57,7 @@ test('vercel.json negotiates markdown around the filesystem', () => {
 const base = process.env.BASE_URL
 test('deployed endpoints', { skip: !base }, async () => {
   const get = (path, accept) =>
-    fetch(new URL(path, base), { headers: { accept } })
+    fetch(new URL(path, base), accept ? { headers: { accept } } : undefined)
 
   let r = await get('/', 'text/markdown')
   assert.equal(r.status, 200)

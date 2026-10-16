@@ -7,5 +7,7 @@ export async function latestPosts(limit) {
     .slice(0, limit)
 }
 
+// One list item per post: escape brackets, keep it on one line.
+const oneLine = s => s.replace(/\s+/g, ' ').trim()
 export const postLine = (post, site) =>
-  `- [${post.data.title}](${new URL(`/blog/${post.id}/`, site)}): ${post.data.description}`
+  `- [${oneLine(post.data.title).replace(/[[\]]/g, '\\$&')}](${new URL(`/blog/${post.id}/`, site)}): ${oneLine(post.data.description)}`
