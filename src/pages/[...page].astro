@@ -21,7 +21,27 @@ const posts = page.data
 <!doctype html>
 <html lang="id">
   <head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <BaseHead
+      title={`Pintar AI Blog | ${SITE_TITLE}`}
+      description={SITE_DESCRIPTION}
+    />
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Blog',
+        name: 'Pintar AI Blog',
+        alternateName: 'Blog Pintar',
+        description: SITE_DESCRIPTION,
+        url: Astro.site.href,
+        inLanguage: 'id',
+        publisher: {
+          '@type': 'Organization',
+          name: 'Pintar',
+          url: Astro.site.href,
+        },
+      })}
+    />
     <style>
       main {
         inline-size: min(100%, 1000px);

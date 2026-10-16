@@ -17,6 +17,12 @@ export default [
     languageOptions: {
       ecmaVersion: 'latest',
       sourceType: 'module',
+      globals: {
+        URL: 'readonly',
+        Response: 'readonly',
+        fetch: 'readonly',
+        process: 'readonly',
+      },
     },
   },
 ]

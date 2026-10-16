@@ -11,7 +11,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx,.astro",
     "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx,.astro --fix",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "test": "node --test test/agent-ready.test.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.13",
