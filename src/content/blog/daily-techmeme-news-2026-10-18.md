@@ -87,7 +87,7 @@ Selama dua tahun terakhir, pertanyaan soal AI selalu soal model: siapa paling pi
 
 Yang menurut saya paling jujur dari semua ini adalah angka 35 persen dari Bernstein. Bukan karena angka itu pasti benar, tapi karena itu pertama kalinya ada yang bilang dengan terang bahwa sebagian besar yang diumumkan tidak akan pernah berdiri. Selama ini pipeline data center dibicarakan seperti daftar belanja. Padahal itu daftar niat.
 
-Untuk Nscale, saya ngga tahu apakah IPO-nya akan jalan. Yang saya tahu, kehilangan satu-satunya pelanggan yang sudah diumumkan di sebuah situs, sebulan sebelum mencoba mencatatkan saham, bukan posisi yang nyaman.
+Untuk Nscale, saya ngga tahu apakah IPO-nya akan jalan. Yang saya tahu, kehilangan satu-satunya pelanggan yang sudah diumumkan di sebuah situs, tepat saat perusahaan itu mencoba mencatatkan saham, bukan posisi yang nyaman.
 
 Dan soal Anthropic menyewa pengacara untuk mengajari agen bernegosiasi — saya suka itu justru karena terasa rendah hati. Kalau kamu mau mesin mewakili orang di meja kesepakatan, lebih baik belajar aturannya dari yang biasa menang perkara daripada mengarang sendiri.
 

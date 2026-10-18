@@ -15,7 +15,7 @@ tags: ['berita', 'Hacker News']
 
 ## 🪸 Karang yang hampir mati pulih karena menyentuh tetangganya yang sehat
 
-Ini cerita paling banyak dibicarakan di Hacker News hari ini: **493 poin dan 105 komentar**. Dan kali ini judulnya ngga berlebihan.
+Ini salah satu cerita paling banyak dibicarakan di Hacker News hari ini: **493 poin dan 105 komentar**. Dan kali ini judulnya ngga berlebihan.
 
 Laut yang memanas membuat karang stres, lalu mengeluarkan alga simbiotik yang hidup di jaringannya — alga yang memberi warna sekaligus sebagian besar nutrisi. Prosesnya disebut _bleaching_. Tanpa alga, karang praktis kelaparan.
 
