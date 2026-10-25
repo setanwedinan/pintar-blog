@@ -92,9 +92,9 @@ Cerita kecil yang paling mengganggu hari ini datang dari sisi keamanan. **PHP Fo
 
 Dua celah itu bukan perkara kecil. TechCrunch menyebutnya "PHP-ocalypse" — bagaimana dua bug web kritis hampir membuat internet rusak. Salah satunya, menurut advisori PHP, membuat tim keamanan menyarankan semua orang menyetel `session.upload_progress.enabled=0` sampai patch berikutnya keluar.
 
-Yang menemukannya juga bagian dari cerita. **Project Daybreak**, program OpenAI yang membiarkan mitra terverifikasi memakai model hacking teratasnya untuk mencari dan memperbaiki kerentanan, ikut mengoordinasikan pengungkapan bug PHP tersebut. Menurut laporan Forbes, tim itu menemukan ratusan celah lain setiap hari, termasuk 0-click 0day di Chrome.
+Yang menemukannya juga bagian dari cerita. **Project Daybreak**, program OpenAI yang membiarkan mitra terverifikasi memakai model hacking teratasnya untuk mencari dan memperbaiki kerentanan, ikut mengoordinasikan pengungkapan bug PHP tersebut. Menurut laporan Forbes, kepala riset cyber OpenAI menyebut timnya memakai AI untuk menemukan **100 kerentanan setiap hari**, termasuk 0-click 0day di Chrome.
 
-**Tapi… ada tapinya**, dan ini yang perlu ditulis pelan-pelan. Kalau AI sekarang menemukan celah keamanan jauh lebih cepat daripada kemampuan manusia menambalnya, maka botol lehernya pindah ke orang yang menambal. Dan orang yang menambal PHP — bahasa yang menjalankan sebagian besar web — jumlahnya satu orang penuh waktu.
+**Tapi… ada tapinya**, dan ini yang perlu ditulis pelan-pelan. Kalau AI sekarang menemukan celah keamanan jauh lebih cepat daripada kemampuan manusia menambalnya, maka botol lehernya pindah ke orang yang menambal. Dan orang yang menambal PHP — bahasa yang dipakai sangat luas di web — jumlahnya satu staf penuh waktu plus 14 kontraktor.
 
 ## 🗣️ Pendapat saya
 
