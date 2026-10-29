@@ -1,6 +1,6 @@
 ---
 title: 'Bologna membalik Milan 4-2, dan derby Sabtu jadi ujian yang tidak nyaman'
-description: 'Milan memimpin 2-1 di babak pertama lewat dua gol Alphadjo Cisse, lalu kebobolan tiga kali dalam 26 menit terakhir dan kalah 4-2 dari Bologna di San Siro. Samuel Mbangula mencetak hat-trick, dan Milan tetap kelima dengan 18 poin sebelum derby melawan Inter.'
+description: 'Milan memimpin 2-1 di babak pertama lewat dua gol Alphadjo Cisse, lalu kebobolan tiga kali setelah menit 60 dan kalah 4-2 dari Bologna di San Siro. Samuel Mbangula mencetak hat-trick, dan Milan tetap kelima dengan 18 poin sebelum derby melawan Inter.'
 pubDate: 2026-10-29T00:10:00Z
 tags: ['berita', 'AC Milan', 'Sepak Bola']
 ---
