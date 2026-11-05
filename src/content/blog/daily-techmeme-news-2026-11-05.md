@@ -44,7 +44,7 @@ Agility mengklaim lebih dari 300 juta dolar pesanan multi-tahun untuk Digit 5, r
 
 ## 🏭 Micron menghentikan pabrik 4,5 miliar dolar karena sengketa buruh
 
-Dari Taiwan datang cerita yang menurut saya paling penting hari ini dan paling sedikit dibahas: Micron menghentikan hampir seluruh pembangunan Fab 11E di Taoyuan.
+Dari Taiwan datang cerita yang paling penting hari ini dan paling sedikit dibahas: Micron menghentikan hampir seluruh pembangunan Fab 11E di Taoyuan.
 
 Proyeknya bukan proyek kecil. Nilainya 3 sampai 4,5 miliar dolar, termasuk pembelian peralatan litografi canggih dari ASML, dan dijadwalkan mulai produksi pada 2028. Fab ini dirancang memakai EUV untuk memproduksi DRAM generasi berikutnya. DRAM dan HBM adalah dua komponen yang paling dibutuhkan pusat data AI, jadi ini bukan proyek pinggiran.
 
@@ -68,7 +68,7 @@ Sebuah riset dari akademisi tiga universitas, berdasarkan analisis 14 juta reken
 
 Per Juli, lebih dari 5 persen orang dewasa di Inggris membayar langganan AI mereka sendiri. Angka itu sekitar dua kali lipat dibanding setahun sebelumnya. Dan temuan yang paling relevan untuk pasar: Claude dari Anthropic sedang memangkas keunggulan ChatGPT, menurut laporan Bloomberg.
 
-Dua hal yang saya catat dari sini. Pertama, pasar konsumen AI sudah cukup besar untuk diukur lewat rekening bank, bukan lewat survei, dan itu perubahan yang signifikan. Kedua, angka 5 persen itu masih kecil. Artinya pertumbuhan berikutnya terjadi di antara 95 persen sisanya, bukan di antara yang sudah bayar.
+Dua hal yang layak dicatat dari sini. Pertama, pasar konsumen AI sudah cukup besar untuk diukur lewat rekening bank, bukan lewat survei, dan itu perubahan yang signifikan. Kedua, angka 5 persen itu masih kecil. Artinya pertumbuhan berikutnya terjadi di antara 95 persen sisanya, bukan di antara yang sudah bayar.
 
 ## 🧾 Tapi… ada tapinya
 
@@ -78,7 +78,7 @@ Pemilih menagih lewat surat suara, dan OpenAI menjawab dengan komitmen tertulis 
 
 Yang perlu dicatat soal komitmen OpenAI: janji yang bagus dan janji yang mengikat bukan hal yang sama. National Community Compact adalah pernyataan perusahaan, dan perusahaan itu sendiri yang menulis di dokumen tersebut bahwa mereka ingin kerangka ini diadopsi menjadi undang-undang. Itu pengakuan yang jujur bahwa tanpa aturan, komitmen semacam ini bergantung pada siapa yang masih menjabat tahun depan.
 
-Soal Agility, saya tidak akan menyimpulkan apa pun dari hari pertama perdagangan, karena dengan hanya sekitar 16 juta saham publik beredar, harga hari pertama lebih banyak bicara soal penawaran dan permintaan daripada soal nilai perusahaan. Yang lebih layak dipantau adalah pengiriman Digit 4 ke GXO di awal 2027. Kalau itu jalan, angka 300 juta dolar pesanan punya isi. Kalau tidak, valuasi 2,5 miliar dolar itu cuma angka di atas kertas.
+Soal Agility, hari pertama perdagangan belum bisa dipakai untuk menyimpulkan apa pun, karena dengan hanya sekitar 16 juta saham publik beredar, harga hari pertama lebih banyak bicara soal penawaran dan permintaan daripada soal nilai perusahaan. Yang lebih layak dipantau adalah pengiriman Digit 4 ke GXO di awal 2027. Kalau itu jalan, angka 300 juta dolar pesanan punya isi. Kalau tidak, valuasi 2,5 miliar dolar itu cuma angka di atas kertas.
 
 ## 🗣️ Pendapat saya
 

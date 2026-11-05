@@ -78,7 +78,7 @@ Alasan pertama adalah usia. Dia melihat awesome-R, yang terakhir diperbarui lebi
 
 Alasan kedua lebih menarik: repo-repo itu dibanjiri PR dari agen. Dia mengambil contoh awesome-free-online-tools, repo kecil dengan 13 bintang tapi 91 pull request terbuka. Yang dia periksa semuanya menyarankan tool generik hasil vibe coding. Pemicunya adalah satu PR ke repo awesome-statistics miliknya sendiri, yang menyarankan situs bernama StatOrigin. Setelah ditelusuri, pengirimnya sudah membuat setidaknya enam situs hasil vibe coding dan mengirim lebih dari 100 pull request ke berbagai daftar awesome.
 
-Ada juga contoh yang menurut saya layak diapresiasi: satu maintainer menolak PR dengan alasan "belum ada bukti cukup bahwa isinya ditinjau pendidik berkualifikasi, divalidasi independen, atau punya hasil belajar yang terbukti".
+Ada juga contoh yang layak diapresiasi: satu maintainer menolak PR dengan alasan "belum ada bukti cukup bahwa isinya ditinjau pendidik berkualifikasi, divalidasi independen, atau punya hasil belajar yang terbukti".
 
 Kesimpulan Gahner tidak sekeras judulnya. Daftar awesome masih bisa bagus. Tapi sebagai cara umum mencari sumber berkualitas, ia sudah kalah bersaing, dan yang membuatnya kalah justru pihak yang paling rajin mengisi formulir.
 
