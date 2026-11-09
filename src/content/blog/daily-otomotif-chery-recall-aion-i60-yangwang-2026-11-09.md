@@ -18,7 +18,7 @@ tags: ['berita', 'Otomotif', 'Mobil']
 
 Regulator pasar China mengonfirmasi kampanye penarikan kembali untuk 53.882 unit Chery. Cakupannya lini seri Omoda dan Tiggo 5x yang diproduksi antara 6 Juni 2022 dan 31 Desember 2023.
 
-Akar masalahnya bukan desain, melainkan proses manufaktur. Tim teknis menemukan peleburan yang kurang sempurna atau penetrasi pengelasan yang tidak lengkap pada sambungan lengan poros roda belakang dengan selongsongnya. Dalam kondisi ekstrem, cacat las itu berisiko gagal menahan beban saat mobil melaju.
+Akar masalahnya ada di proses manufaktur, bukan di desain. Tim teknis menemukan peleburan yang kurang sempurna atau penetrasi pengelasan yang tidak lengkap pada sambungan lengan poros roda belakang dengan selongsongnya. Dalam kondisi ekstrem, cacat las itu berisiko gagal menahan beban saat mobil melaju.
 
 Konsekuensinya berlapis: stabilitas kendaraan berkurang, kendali roda belakang terganggu, dan risiko kecelakaan naik. Chery akan menghubungi pemilik terdampak lewat pesan singkat dan surat resmi untuk pemeriksaan serta penggantian komponen gratis di diler atau pusat servis resmi.
 
@@ -28,7 +28,7 @@ Yang jarang terjadi: Chairman Chery Yin Tongyue menyampaikan permintaan maaf sec
 
 ## 🚙 Aion i60, dan harga yang belum final
 
-GAC Indonesia meluncurkan AION i60 pada 7 November. Ini debut pertama model tersebut di Asia Tenggara dalam konfigurasi setir kanan — detail yang penting, karena berarti bukan sekadar memamerkan unit kiri untuk pameran.
+GAC Indonesia meluncurkan AION i60 pada 7 November. Ini debut pertama model tersebut di Asia Tenggara dalam konfigurasi setir kanan. Artinya GAC mengirim unit produksi untuk pasar ini, bukan sekadar memajang model setir kiri di pameran.
 
 Masato Katsumata, Chief Technology Officer GAC International, menempatkan peluncuran ini dalam kerangka kualitas menyeluruh: rekayasa, pemilihan material, sampai pengalaman konsumen selama masa kepemilikan. Ia juga menyebut Indonesia pasar strategis bagi GAC.
 
@@ -36,7 +36,7 @@ Angka yang sudah beredar: baterai 75 kWh, tenaga maksimum 150 kW, torsi 210 Nm, 
 
 Lawan langsungnya jelas. BYD Atto 3 Advanced-Plus dijual Rp415 juta OTR Jakarta dengan baterai 49,92 kWh, tenaga 150 kW, torsi 310 Nm, jarak tempuh NEDC 410 km, panjang 4.455 mm, dan wheelbase 2.720 mm.
 
-Menariknya, tenaganya sama persis. Yang berbeda torsi — Atto 3 lebih besar 100 Nm — sementara i60 menang di kapasitas baterai, jarak tempuh, dan dimensi.
+Tenaganya sama persis. Yang berbeda torsi: Atto 3 lebih besar 100 Nm. i60 menang di kapasitas baterai, jarak tempuh, dan dimensi.
 
 Tapi harga final i60 belum ada. OtoDriver menulis indikasinya kisaran Rp500 jutaan, dengan angka resmi dijadwalkan diumumkan di Gaikindo Auto Week 2026. Selisih sekitar Rp85 juta dari Atto 3 itu masih indikasi, bukan kepastian.
 
@@ -58,25 +58,25 @@ Di pasar Indonesia, MG Motor Indonesia menempatkan MG S5 EV dan MG ZS Hybrid+ se
 
 Head of Marketing MG Motor Indonesia, Harry Kurniawan, menyatakan kedua model itu saat ini menjadi dua produk andalan perusahaan untuk menggarap pasar Tanah Air. Logikanya masuk akal: satu mobil listrik murni, satu hybrid, menjangkau dua kelompok pembeli yang berbeda.
 
-Tapi pernyataan itu tidak datang dengan angka. Tidak ada target penjualan, tidak ada proyeksi pangsa pasar, tidak ada tanggal untuk model berikutnya. Yang ada hanya penegasan posisi — dan posisi itu sendiri sudah terlihat dari data penjualan yang dibahas pekan lalu.
+Tapi pernyataan itu tidak datang dengan angka. Tidak ada target penjualan, tidak ada proyeksi pangsa pasar, tidak ada tanggal untuk model berikutnya. Yang tersedia hanya penegasan posisi, dan posisi itu sudah terlihat dari data penjualan yang dibahas pekan lalu.
 
 ## 🧾 Tapi… ada tapinya
 
-Recall 53.882 unit itu angka besar, dan patut dicatat sebagai langkah yang benar. Tapi ada satu hal yang perlu dibaca lebih hati-hati: cacat las pada sambungan poros roda bukan kegagalan satu unit, melainkan pola produksi selama **18 bulan**. Rentang 6 Juni 2022 sampai 31 Desember 2023 berarti masalahnya lolos dari pengendalian mutu selama satu setengah tahun sebelum ketahuan karena sebuah insiden di Malaysia.
+Recall 53.882 unit itu angka besar, dan patut dicatat sebagai langkah yang benar. Tapi ada satu hal yang perlu dibaca lebih hati-hati: cacat las pada sambungan poros roda muncul di pola produksi selama **18 bulan**, bukan di satu unit yang gagal. Rentang 6 Juni 2022 sampai 31 Desember 2023 berarti masalahnya lolos dari pengendalian mutu selama satu setengah tahun sebelum ketahuan karena sebuah insiden di Malaysia.
 
 Untuk Aion i60, angka Rp500 jutaan itu masih indikasi dari satu media, bukan daftar harga resmi. Membandingkannya dengan Atto 3 sekarang itu sah sebagai gambaran posisi, tapi belum jadi fakta sampai Gaikindo Auto Week.
 
-Soal Yangwang Altior: klaim 1.000 km itu memakai siklus CLTC, standar pengujian China yang dikenal lebih longgar dibanding WLTP. Angka itu bukan salah, tapi jangan dibaca sebagai jarak yang akan kamu dapat di jalan harian.
+Soal Yangwang Altior: klaim 1.000 km itu memakai siklus CLTC, standar pengujian China yang dikenal lebih longgar dibanding WLTP. Angka itu benar untuk siklusnya, tapi jangan dibaca sebagai jarak yang akan kamu dapat di jalan harian.
 
 Dan untuk MG, kalimat "dua produk andalan" tanpa angka penjualan atau target adalah bahasa pemasaran, bukan strategi yang bisa diuji. Yang lebih layak ditunggu adalah data wholesales berikutnya.
 
 ## 🗣️ Pendapat saya
 
-Yang paling saya pikirkan hari ini bukan soal mobil listrik baru, tapi soal rentang 18 bulan di recall Chery.
+Yang paling saya pikirkan hari ini: rentang 18 bulan di recall Chery, bukan mobil listrik baru mana pun.
 
 Bayangkan kamu membeli Omoda 5 pada Juli 2022. Kamu memakai mobil itu tiga tahun lebih, membawa keluarga, dan tidak pernah tahu ada sambungan las yang mungkin gagal menahan beban. Lalu pada November 2026 kamu dapat pesan singkat: silakan datang, kami ganti gratis. Secara prosedur itu benar. Secara perasaan, itu terlambat tiga tahun.
 
-Saya juga tidak bisa melewati satu perbedaan yang mencolok: Chery sampai harus menarik setengah ratus ribu unit di negeri sendiri sebelum menyampaikan permintaan maaf terbuka. Di Malaysia, 8.878 unit. Di Indonesia, kasus Jaecoo J5 EV yang porosnya patah di Jakarta dibahas sebagai persoalan penjelasan teknis, bukan recall. Saya ngga tahu apakah memang ada bedanya secara teknis — modelnya beda, komponennya bisa beda. Tapi dari luar, publik melihat satu merek yang di satu negara menarik puluhan ribu unit, dan di negara lain menjawab lewat pernyataan.
+Saya juga tidak bisa melewati satu perbedaan yang mencolok: Chery sampai harus menarik setengah ratus ribu unit di negeri sendiri sebelum menyampaikan permintaan maaf terbuka. Di Malaysia, 8.878 unit. Di Indonesia, kasus Jaecoo J5 EV yang porosnya patah di Jakarta dibahas sebagai persoalan penjelasan teknis, bukan recall. Saya ngga tahu apakah memang ada bedanya secara teknis, modelnya beda dan komponennya bisa beda. Tapi dari luar, publik melihat satu merek yang di satu negara menarik puluhan ribu unit, dan di negara lain menjawab lewat pernyataan.
 
 Untuk Aion i60, saya justru cukup tertarik. 75 kWh dengan jarak NEDC 602 km di kisaran Rp500 juta itu kompetitif di atas kertas, dan fakta bahwa Indonesia dapat versi setir kanan pertama di Asia Tenggara artinya GAC tidak memperlakukan pasar ini sebagai tempat buang stok. Tapi torsi 210 Nm terasa pelit untuk mobil sebesar itu, dan NEDC bukan angka yang bisa dipercaya untuk pemakaian harian di Jakarta.
 
@@ -84,7 +84,7 @@ Yangwang Altior? Saya tidak punya pendapat kuat. Sedan empat kursi dengan 39 spe
 
 ## 💬 Pertanyaan buat kalian
 
-Kalau kalian pemilik Chery Omoda 5 atau Tiggo 5x produksi 2022–2023, apa yang kalian lakukan sekarang: langsung ke diler untuk diperiksa, atau tunggu ada surat resmi dulu? Dan soal Aion i60 — dengan selisih sekitar Rp85 juta dari Atto 3 tapi baterai 75 kWh, kalian pilih yang lebih murah atau yang lebih jauh?
+Kalau kalian pemilik Chery Omoda 5 atau Tiggo 5x produksi 2022–2023, apa yang kalian lakukan sekarang: langsung ke diler untuk diperiksa, atau tunggu ada surat resmi dulu? Dan soal Aion i60, dengan selisih sekitar Rp85 juta dari Atto 3 tapi baterai 75 kWh, kalian pilih yang lebih murah atau yang lebih jauh?
 
 ## 🔗 Sumber
 

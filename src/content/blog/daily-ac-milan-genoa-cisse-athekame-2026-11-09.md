@@ -25,19 +25,19 @@ Babak kedua Milan bermain lebih konservatif dan Genoa tumbuh. Tuan rumah menutup
 
 ## 🧠 Mentalitas, dan kalimat soal akhir dunia
 
-Setelah laga, Ruben Amorim bicara soal hal yang sebenarnya sudah beberapa kali ia singgung musim ini: Milan tidak bisa dihitung.
+Setelah laga, Ruben Amorim bicara soal hal yang sudah beberapa kali ia singgung musim ini: Milan tidak bisa dihitung.
 
 Rossoneri berpindah dari hasil negatif ke positif dan balik lagi. Kemenangan di Genoa mengakhiri rentetan tiga kemenangan beruntun Genoa, tapi tidak menjawab pertanyaan yang lebih besar.
 
 Amorim menggambarkan mentalitas yang ia ingin lihat terus ada: tidak ada hari libur, dan perasaan bahwa kalah adalah akhir dunia.
 
-Itu bukan retorika kosong dari pelatih yang baru menang. SempreMilan mencatat pola yang sama dalam data: dengan Luka Modric, Mario Gila, dan Pulisic tidak masuk starting line-up, Milan belum pernah mengambil satu poin pun musim ini. Tiga nama itu — ditambah Rabiot dan Diego Moreira — disebut sebagai lima pemain yang tidak bisa dilepas.
+Kalimat itu bukan basa-basi pelatih yang baru menang. SempreMilan mencatat pola yang sama dalam data: dengan Luka Modric, Mario Gila, dan Pulisic tidak masuk starting line-up, Milan belum pernah mengambil satu poin pun musim ini. Tiga nama itu, ditambah Rabiot dan Diego Moreira, disebut sebagai lima pemain yang tidak bisa dilepas.
 
 ## 🩺 Bocoran skuad, dan bangku yang tipis
 
-Absennya beberapa pemain bukan pilihan taktis, tapi keadaan. Fikayo Tomori, Samuel Chukwueze, Ruben Loftus-Cheek, dan Alexis Saelemaekers tidak tersedia, dan itu memotong opsi yang biasanya bisa masuk di babak kedua untuk menahan laju lawan.
+Fikayo Tomori, Samuel Chukwueze, Ruben Loftus-Cheek, dan Alexis Saelemaekers tidak tersedia, dan itu memotong opsi yang biasanya bisa masuk di babak kedua untuk menahan laju lawan.
 
-Akibatnya, ketika energi Milan habis, mereka bukan menurunkan tempo permainan — mereka kehilangan bola dan mengundang tekanan. SempreMilan menyebutnya soal umur baterai: intensitas babak pertama bagus, tapi begitu daya terkuras, kendali laga ikut hilang.
+Akibatnya, ketika energi Milan habis, mereka kehilangan bola dan mengundang tekanan, bukan menurunkan tempo permainan. SempreMilan menyebutnya soal umur baterai: intensitas babak pertama bagus, tapi begitu daya terkuras, kendali laga ikut hilang.
 
 Koni De Winter jadi contoh paling jelas naik-turunnya. Melawan Bologna ia bermasalah dalam penempatan dan memberi tendangan bebas yang berujung gol; melawan Inter ia memenangi duel melawan Thuram; melawan Ferencvaros umpan baliknya jadi sorotan; melawan Genoa ia tampil solid dengan rating 7,5. Alasan yang masuk akal: ia belum pernah benar-benar istirahat.
 
@@ -45,7 +45,7 @@ Koni De Winter jadi contoh paling jelas naik-turunnya. Melawan Bologna ia bermas
 
 Dengan Chukwueze dan Saelemaekers absen panjang serta peralihan ke formasi empat bek, Milan mempertimbangkan memulangkan Zachary Athekame enam bulan lebih cepat dari masa peminjamannya di Lyon.
 
-Athekame dipinjamkan ke Lyon pada musim panas dengan status pinjaman langsung, tanpa opsi. Ia tampil sangat baik di sana. Tapi klub Prancis itu baru berganti manajer — Paulo Fonseca meminta pergi untuk bergabung dengan Sporting Lisbon — dan perubahan itu bisa memengaruhi masa depannya.
+Athekame dipinjamkan ke Lyon pada musim panas dengan status pinjaman langsung, tanpa opsi. Ia tampil sangat baik di sana. Tapi klub Prancis itu baru berganti manajer, karena Paulo Fonseca meminta pergi untuk bergabung dengan Sporting Lisbon, dan perubahan itu bisa memengaruhi masa depannya.
 
 Untuk memutus pinjaman lebih awal, Milan kemungkinan harus mencapai kesepakatan finansial dengan Lyon. Belum ada angka, belum ada keputusan, dan laporan ini bersumber dari Milan News lewat Milanreports.
 
@@ -65,11 +65,11 @@ Milan menang dengan 6 tembakan sementara lawan punya 17. Mereka unggul dua gol k
 
 Dan soal wasit: mengeluh tentang Massa itu sah, tapi Genoa juga bisa mengeluh soal lima kartu kuning untuk Milan yang dianggap tidak proporsional. Argumen wasit biasanya berjalan dua arah, dan yang selalu kalah adalah tim yang tidak menang.
 
-Satu hal lagi yang perlu dicatat: laporan soal Athekame menyebut Milan harus membayar untuk memutus pinjaman. Artinya ini bukan sekadar memanggil pemain pulang, tapi membuka dompet di jendela transfer yang biasanya dipakai untuk memperbaiki posisi lain — bek tengah, misalnya, yang sudah disebut jadi prioritas Januari.
+Satu hal lagi yang perlu dicatat: laporan soal Athekame menyebut Milan harus membayar untuk memutus pinjaman. Artinya Milan harus membuka dompet di jendela transfer yang biasanya dipakai untuk memperbaiki posisi lain, misalnya bek tengah yang sudah disebut jadi prioritas Januari.
 
 ## 🗣️ Pendapat saya
 
-Yang membuat saya bertahan membaca berita Milan musim ini bukan hasilnya, tapi bagaimana hasil itu dijelaskan.
+Yang membuat saya bertahan membaca berita Milan musim ini: bagaimana hasil itu dijelaskan, bukan hasilnya.
 
 Amorim bilang kalah harus terasa seperti akhir dunia. Saya mengerti maksudnya, dan saya kira itu kalimat yang benar untuk klub sebesar Milan. Tapi ada jarak antara menuntut mentalitas dan punya pemain cukup untuk menjalankannya. Kalau bench kosong karena empat pemain cedera, tuntutan itu berubah jadi beban moral bagi sebelas orang yang sama setiap pekan.
 
@@ -79,7 +79,7 @@ Yang paling saya tidak nyaman justru soal Athekame. Memulangkan pemain yang seda
 
 ## 💬 Pertanyaan buat kalian
 
-Kalau kalian yang memutuskan, mana yang lebih mendesak untuk Januari: bek tengah baru, atau memulangkan Athekame lebih cepat? Dan soal Cisse — kalian sudah percaya angka-angkanya bakal bertahan sampai Mei, atau masih menunggu satu bulan lagi sebelum menyimpulkan?
+Kalau kalian yang memutuskan, mana yang lebih mendesak untuk Januari: bek tengah baru, atau memulangkan Athekame lebih cepat? Dan soal Cisse, kalian sudah percaya angka-angkanya bakal bertahan sampai Mei, atau masih menunggu satu bulan lagi sebelum menyimpulkan?
 
 ## 🔗 Sumber
 

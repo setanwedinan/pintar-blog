@@ -29,7 +29,7 @@ Hal yang jarang ditulis di pengumuman perayaan: di hari yang sama, 13 judul kelu
 
 Menurut laporan CBR yang dikutip Screen Rant, salah satunya **GoldenEye 007**. Game itu masuk katalog sebagai salah satu tambahan paling dinanti ketika versi remasternya dirilis, dan sekarang keluar tanpa upacara.
 
-Ini bukan kejadian luar biasa — Game Pass memang menambah game secara bertahap sepanjang bulan dan mencabutnya serentak di pertengahan. Tapi menempatkan pengumuman delapan judul lama di pekan yang sama dengan pencabutan 13 judul membuat ritualnya terasa ganjil: satu tangan memberi warisan, tangan lain menariknya.
+Kejadian ini biasa saja sebenarnya. Game Pass memang menambah game secara bertahap sepanjang bulan dan mencabutnya serentak di pertengahan. Tapi menempatkan pengumuman delapan judul lama di pekan yang sama dengan pencabutan 13 judul membuat ritualnya terasa ganjil: satu tangan memberi warisan, tangan lain menariknya.
 
 Perlu dicatat bahwa laporan sebelumnya menyebut angka 14 judul keluar. CBR menulis 13. Selisih satu judul ini belum dijelaskan Microsoft, dan tidak ada dasar untuk menebak mana yang benar.
 
@@ -59,21 +59,21 @@ Angka 751 juta dolar itu estimasi pihak ketiga dari data yang tidak pernah dibuk
 
 Untuk perayaan 25 tahun Xbox, satu hal perlu dikatakan terang-terangan: tidak ada game baru dalam daftar. Delapan judul itu semuanya dari era Xbox 360 ke bawah, dan tiga di antaranya berasal dari waralaba yang tidak lagi punya studio aktif. Itu bisa dibaca sebagai perayaan. Bisa juga dibaca sebagai pengakuan bahwa katalog lama sekarang jadi aset paling aman.
 
-Dan soal Castlevania: 83 Metacritic dengan harga 30 dolar adalah kombinasi yang jarang — tapi "terlaris" di satu toko, satu negara, satu hari, bukan ukuran sukses. Yang lebih layak ditunggu adalah apakah penjualannya bertahan setelah minggu peluncuran lewat.
+Dan soal Castlevania: 83 Metacritic dengan harga 30 dolar adalah kombinasi yang jarang, tapi "terlaris" di satu toko, satu negara, satu hari bukan ukuran sukses. Yang lebih layak ditunggu adalah apakah penjualannya bertahan setelah minggu peluncuran lewat.
 
 ## 🗣️ Pendapat saya
 
 Saya termasuk orang yang senang Banjo-Kazooie masuk katalog, dan saya ngga akan berpura-pura sebaliknya. Dua game pertama itu masih punya kontrol kamera yang bikin frustrasi dan desain level yang belum banyak ditandingi.
 
-Tapi saya tidak bisa melewatkan satu hal: Xbox merayakan seperempat abad dengan menjual ulang masa lalunya sendiri, di minggu yang sama ia mencabut GoldenEye 007 dari layanan. Kalau saya jadi pelanggan lama, yang saya dengar dari kalender itu bukan "selamat ulang tahun", melainkan "katalog ini bisa berubah kapan saja, dan kamu tidak punya suara".
+Tapi saya tidak bisa melewatkan satu hal: Xbox merayakan seperempat abad dengan menjual ulang masa lalunya sendiri, di minggu yang sama ia mencabut GoldenEye 007 dari layanan. Kalau saya jadi pelanggan lama, yang saya dengar dari kalender itu peringatan bahwa katalog ini bisa berubah kapan saja dan saya tidak punya suara.
 
-Soal GTA 6, angka 751 juta dolar pre-order sebelum rilis itu mengesankan sekaligus mengkhawatirkan. Mengesankan karena tidak ada game lain yang bisa melakukannya. Mengkhawatirkan karena Take-Two mempertaruhkan pertumbuhan setahun pada satu judul — dan kalau peluncurannya tersandung, tidak ada jaring di bawahnya.
+Soal GTA 6, angka 751 juta dolar pre-order sebelum rilis itu mengesankan sekaligus mengkhawatirkan. Mengesankan karena tidak ada game lain yang bisa melakukannya. Mengkhawatirkan karena Take-Two mempertaruhkan pertumbuhan setahun pada satu judul, dan kalau peluncurannya tersandung, tidak ada jaring di bawahnya.
 
 Satu hal yang jarang dibahas: 80 dolar untuk edisi standar. Saya sudah menerima bahwa harga game naik. Yang belum saya terima adalah bahwa kenaikan itu datang bersama pre-load, patch hari pertama, dan diskon 30 persen dalam tiga bulan. Kalau modelnya begitu, kenapa harus beli di hari pertama?
 
 ## 💬 Pertanyaan buat kalian
 
-Untuk yang sudah lama berlangganan Game Pass: masuknya Banjo dan Perfect Dark ke Essential itu cukup buat memperpanjang, atau justru pengingat bahwa katalog yang kamu bayar tidak pernah benar-benar milikmu? Dan GTA 6 — kalian pre-order, atau menunggu sampai patch pertama keluar?
+Untuk yang sudah lama berlangganan Game Pass: masuknya Banjo dan Perfect Dark ke Essential itu cukup buat memperpanjang, atau justru pengingat bahwa katalog yang kamu bayar tidak pernah benar-benar milikmu? Dan GTA 6, kalian pre-order, atau menunggu sampai patch pertama keluar?
 
 ## 🔗 Sumber
 

@@ -33,7 +33,7 @@ Yang kedua lebih besar dan datang belakangan, sekitar musim semi menurut Gurman:
 
 Setelah itu, arahnya lebih jauh. Gurman menulis Dots, Muse, dan Grok bisa melacak tujuan, menentukan langkah berikutnya, dan terus mengejar sasaran tanpa pengguna memulai setiap langkah kecil. Apple disebut ingin ke arah sana, dan Siri bisa jadi lebih mirip agen paling cepat tahun depan.
 
-Kalimat penutup Gurman soal ini jujur: bukan karena Apple punya banyak pilihan, tapi karena permintaan pasar dan konsumen mendesaknya.
+Kalimat penutup Gurman soal ini jujur: Apple bergerak ke sana karena permintaan pasar dan konsumen mendesaknya, bukan karena punya banyak pilihan.
 
 ## 🛠️ Enam pekan coding, dua pekan convergence
 
@@ -51,7 +51,7 @@ MacBook Pro 16 inci dengan PROLED XDR Display dan layar sentuh diumumkan 28 Okto
 
 Yang mengejutkan bukan layarnya. SSD 16TB menyumbang **7.000 dolar** dari total itu, dan naik dari 48GB ke 128GB memori menambah **2.000 dolar** lagi. Artinya storage dan memori sekitar 62 persen dari harga.
 
-Sebagai pembanding, kalau dikonfigurasi menyamai spesifikasi tertinggi MacBook Pro 16 inci non-sentuh yang masih dijual, model OLED ini berharga 10.549 dolar — hanya 400 dolar lebih mahal dari 10.149 dolar milik model lama.
+Sebagai pembanding, kalau dikonfigurasi menyamai spesifikasi tertinggi MacBook Pro 16 inci non-sentuh yang masih dijual, model OLED ini berharga 10.549 dolar, hanya 400 dolar lebih mahal dari 10.149 dolar milik model lama.
 
 Apple menaikkan harga bertahap: dari 2TB ke 4TB tambah 1.000 dolar, ke 8TB tambah 3.000 dolar, ke 16TB tambah 7.000 dolar. Rata-rata 500 dolar per terabyte, tanpa diskon untuk pembelian besar. Penyebabnya bukan rahasia: Counterpoint mencatat harga DRAM smartphone naik 50 persen dan NAND flash naik lebih dari 90 persen kuartal ke kuartal pada tiga bulan pertama 2026.
 
@@ -59,7 +59,7 @@ Di dalamnya ada M5 Max dengan CPU 18 inti dan GPU 40 inti, bandwidth memori 614G
 
 ## 🛡️ CodeMender, dan agen AI yang perlu dijaga
 
-Google Cloud merilis pembaruan keamanan untuk organisasi yang memakai agen AI otonom. Fokusnya tiga: mengamankan pengembangan software, memperketat kontrol atas beban kerja produksi, dan merapatkan deteksi serta respons ancaman antara produk keamanan Google dan platform Wiz.
+Google Cloud merilis pembaruan keamanan untuk organisasi yang memakai agen AI otonom. Fokusnya tiga hal: mengamankan pengembangan software, memperketat kontrol atas beban kerja produksi, dan merapatkan deteksi serta respons ancaman antara produk keamanan Google dan platform Wiz.
 
 Salah satu yang utama adalah **CodeMender**, agen keamanan kode yang masih berstatus preview sejak Juli. Sekarang ia mendukung verifikasi terisolasi dan simulasi eksploitasi di sandbox sistem operasi atau mesin virtual, plus pemeriksaan manusia untuk penulisan lokal dan eksekusi perintah. Pemindaian juga lebih rinci: satu folder, satu repositori penuh, atau hanya berkas yang berubah sejak pemindaian terakhir.
 
@@ -81,25 +81,25 @@ Tiga dari lima cerita di atas berdiri di atas dasar yang tipis, dan itu perlu di
 
 Pertama, seluruh kisah Siri datang dari satu buletin berbasis sumber anonim. Tidak ada siaran pers, tidak ada konferensi. Yang bisa dipegang cuma rekam jejak Gurman, bukan dokumen.
 
-Kedua, angka 14.549 dolar itu benar sebagai harga konfigurasi tertinggi, tapi hampir bukan cerita tentang MacBook Pro. Hampir separuhnya cuma NAND flash. Yang mahal bukan layar sentuhnya, melainkan pasar memori yang sedang kacau karena permintaan data center AI.
+Kedua, angka 14.549 dolar itu benar sebagai harga konfigurasi tertinggi, tapi hampir bukan cerita tentang MacBook Pro. Hampir separuhnya cuma NAND flash. Yang mahal adalah pasar memori yang sedang kacau karena permintaan data center AI, bukan layar sentuhnya.
 
 Ketiga, soal CodeMender: klaim penurunan waktu penemuan kerentanan 95 persen datang dari pelanggan yang sedang dievaluasi, dalam kutipan yang dirilis Google. Itu testimoni, bukan hasil audit independen.
 
 ## 🗣️ Pendapat saya
 
-Dari semua ini, yang paling saya pikirkan justru urutan Prioritasnya, bukan fiturnya.
+Dari semua ini, yang paling saya pikirkan justru urutan prioritasnya, bukan fiturnya.
 
-Apple punya CEO yang menekan, kepala software yang skeptis, dan wakil presiden Siri yang dilaporkan capek karena kurang dapat kredit. Tiga orang itu tidak sedang bertengkar soal teknologi. Mereka sedang bertengkar soal seberapa cepat perusahaan boleh berubah bentuk. Dan ketika tekanan itu datang dari atas, yang biasanya dikorbankan lebih dulu adalah proses — persis yang terlihat di iOS 28: waktu eksplorasi ditambah, waktu penggabungan dipotong.
+Apple punya CEO yang menekan, kepala software yang skeptis, dan wakil presiden Siri yang dilaporkan capek karena kurang dapat kredit. Tiga orang itu tidak sedang bertengkar soal teknologi. Mereka sedang bertengkar soal seberapa cepat perusahaan boleh berubah bentuk. Dan ketika tekanan itu datang dari atas, yang biasanya dikorbankan lebih dulu adalah proses, persis yang terlihat di iOS 28: waktu eksplorasi ditambah, waktu penggabungan dipotong.
 
 Saya ngga tahu apakah itu keputusan buruk. Bisa jadi justru sebaliknya, karena banyak fitur Apple belakangan terasa datang terlambat dan setengah matang.
 
 Tapi saya cukup yakin satu hal: Siri yang bisa memesan lewat Grubhub bukan pencapaian yang selesai saat demonya jalan. Ia baru selesai ketika salah pesan sekali pun tidak membuat kamu kehilangan uang. Dan soal itu, belum ada satu pun berita hari ini yang membahasnya.
 
-Untuk MacBook Pro 14.549 dolar, saya punya keberatan yang lebih sederhana: harga itu bukan harga sebuah laptop, itu harga sebuah keputusan Apple menyerahkan beban kenaikan komponen ke pembeli paling royal. Wajar secara bisnis. Tapi jangan kaget kalau jumlah orang yang mau membelinya kecil, dan Apple lalu menyimpulkan lini itu tidak laku.
+Untuk MacBook Pro 14.549 dolar, saya punya keberatan yang lebih sederhana: harga itu lebih tepat dibaca sebagai keputusan Apple menyerahkan beban kenaikan komponen ke pembeli paling royal. Wajar secara bisnis. Tapi jangan kaget kalau jumlah orang yang mau membelinya kecil, dan Apple lalu menyimpulkan lini itu tidak laku.
 
 ## 💬 Pertanyaan buat kalian
 
-Kalau Siri akhirnya bisa benar-benar mengerjakan tugas panjang di latar belakang — memesan, memesan ulang, membatalkan — kalian akan memberinya izin ke aplikasi apa lebih dulu? Dan untuk MacBook Pro: 16TB itu kebutuhan nyata di pekerjaan kalian, atau cuma angka yang enak dibaca di halaman spesifikasi?
+Kalau Siri akhirnya bisa benar-benar mengerjakan tugas panjang di latar belakang (memesan, memesan ulang, membatalkan), kalian akan memberinya izin ke aplikasi apa lebih dulu? Dan untuk MacBook Pro: 16TB itu kebutuhan nyata di pekerjaan kalian, atau cuma angka yang enak dibaca di halaman spesifikasi?
 
 ## 🔗 Sumber
 
