@@ -197,6 +197,14 @@ a:active {
   color: var(--accent-dark);
 }
 
+/* Distinguish links in article text without changing navigation or cards. */
+.prose a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 0.08em;
+  background: none;
+}
+
 @media (hover: hover) and (pointer: fine) {
   a:hover {
     color: var(--accent-dark);
@@ -222,6 +230,11 @@ li {
 }
 
 /* Tables */
+.table-scroll {
+  max-inline-size: 100%;
+  overflow-x: auto;
+}
+
 table {
   inline-size: 100%;
   margin-block-end: var(--space-3);
