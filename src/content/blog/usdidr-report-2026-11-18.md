@@ -1,6 +1,6 @@
 ---
-title: 'USDIDR Daily Report – 18 November 2026: Rupiah Menanti Keputusan BI'
-description: 'Kurs rupiah pagi, JISDOR, dolar global, dan skenario menjelang keputusan suku bunga Bank Indonesia.'
+title: "USDIDR Daily Report – 18 November 2026: Rupiah Menanti Keputusan BI"
+description: "Kurs rupiah pagi, JISDOR, dolar global, dan skenario menjelang keputusan suku bunga Bank Indonesia."
 pubDate: 2026-11-18T01:15:00Z
 tags: ['Daily Report', 'USDIDR', 'Market Analysis']
 ---
