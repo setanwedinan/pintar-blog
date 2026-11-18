@@ -241,6 +241,12 @@ table {
   border-collapse: collapse;
 }
 
+.prose .table-scroll :is(th, td) {
+  padding-block: 0.4rem;
+  padding-inline: 0.6rem;
+  vertical-align: top;
+}
+
 /* Images */
 img {
   max-inline-size: 100%;
