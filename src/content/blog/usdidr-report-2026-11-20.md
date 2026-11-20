@@ -5,7 +5,9 @@ pubDate: 2026-11-20T01:15:00Z
 tags: ['Daily Report', 'USDIDR', 'Market Analysis']
 ---
 
-Rupiah mengawali pembacaan Jumat di sisi pelemahan, sementara pasar masih mencerna kenaikan suku bunga Bank Indonesia dan dolar yang kuat. Pada Google Finance, USD/IDR berada di **Rp18.278,66** pada pukul **07.59 WIB**, naik Rp17,66 atau 0,10% dari penutupan sebelumnya menurut penyedia itu. Angka yang lebih tinggi berarti diperlukan lebih banyak rupiah untuk membeli satu dolar.
+> **Catatan pembaruan:** Analisis dan perbandingan regional diperjelas setelah penerbitan. Angka pasar pagi tetap mengacu pada waktu pengumpulan semula dan bukan harga terkini.
+
+Rupiah masih menghadapi tekanan dua hari setelah Bank Indonesia menaikkan suku bunga untuk menjaga stabilitas nilai tukar. Pada pembacaan Google Finance pukul **07.59 WIB**, USD/IDR berada di **Rp18.278,66**, naik Rp17,66 atau 0,10% dibanding acuan penutupan penyedia tersebut. Referensi JISDOR juga naik sepanjang sepekan hingga 19 November. Data ini menunjukkan tekanan belum hilang, tetapi tidak cukup untuk memastikan bahwa keputusan BI gagal atau menentukan penyebab tunggal pergerakan pagi itu.
 
 ### TL;DR
 
@@ -16,7 +18,7 @@ Rupiah mengawali pembacaan Jumat di sisi pelemahan, sementara pasar masih mencer
 
 ## 📊 Pergerakan USD/IDR
 
-Kurs Google Finance di atas adalah indikasi pasar pada waktu yang tercantum, bukan penutupan resmi pasar domestik. Sebagai pembanding independen, Open Exchange Rates API menunjukkan **Rp18.262,03** pada pembaruan 20 November pukul 07.02 WIB. Zapi menampilkan pasangan USD/IDR sekitar **Rp18.277,30** ketika data dikumpulkan, dekat dengan Google Finance. Selisih antarsumber tidak otomatis merupakan peluang transaksi: waktu pembaruan dan metodologi berbeda, sementara kurs bank untuk nasabah juga dapat mencakup spread.
+Kenaikan USD/IDR sebesar 0,10% pada pembacaan Google Finance mengarah pada pelemahan rupiah terhadap dolar dibanding acuan penyedia itu. Open Exchange Rates API menunjukkan **Rp18.262,03** pada pukul 07.02 WIB, sementara Zapi mencatat sekitar **Rp18.277,30** ketika data dikumpulkan. Karena waktu pembaruan dan metode tidak identik, selisihnya tidak dapat langsung ditafsirkan sebagai perubahan pasar atau peluang transaksi.
 
 [Bank Indonesia](https://www.bi.go.id/id/statistik/informasi-kurs/jisdor/default.aspx) menetapkan JISDOR terakhir sebesar **Rp18.269 pada 19 November**, dibanding **Rp18.252 pada 18 November**. Kenaikan Rp17 dalam referensi tersebut menunjukkan pelemahan rupiah antardua penetapan, bukan perubahan intraday pagi ini. JISDOR hari Jumat belum tersedia pada saat data dikumpulkan.
 
@@ -28,43 +30,45 @@ Kurs Google Finance di atas adalah indikasi pasar pada waktu yang tercantum, buk
 | 18 November |       Rp18.252 |
 | 19 November |       Rp18.269 |
 
-Deret itu memperlihatkan tekanan secara keseluruhan dari Jumat lalu hingga Kamis, meski tidak bergerak satu arah setiap hari. Perbandingan mingguan ini menggunakan satu sumber dan jenis kurs yang sama; jangan mencampurkannya dengan perubahan Google Finance yang memakai acuan berbeda.
+Dalam lima tanggal penetapan tersebut, JISDOR naik **Rp51 atau sekitar 0,28%**, dari Rp18.218 pada 13 November menjadi Rp18.269 pada 19 November. Rupiah sempat menguat pada 18 November sebelum kembali melemah pada 19 November; jadi tekanannya tidak berlangsung satu arah. Perhitungan memakai dua titik JISDOR yang sama jenisnya, sedangkan perubahan Google Finance di atas menggunakan acuan penyedia yang berbeda.
 
 ## 📈 DXY & Pasar Global
 
-Zapi mencatat indeks dolar **103,88**, dengan perubahan yang dilaporkan **+0,09%**. Indeks dolar memberi konteks untuk mata uang utama, tetapi bukan ukuran langsung terhadap rupiah. Angka perubahan dan harga penutupan sebelumnya pada data Zapi tidak sepenuhnya konsisten, sehingga persentase tersebut perlu dibaca sebagai indikasi penyedia, bukan hasil perhitungan yang telah diverifikasi secara independen.
+Zapi mencatat indeks dolar **103,88** dan melaporkan perubahan **+0,09%**. Jika penguatan dolar terhadap mata uang utama berlanjut, tekanan eksternal dapat menyulitkan pemulihan rupiah. Namun, perubahan dan penutupan sebelumnya yang ditampilkan Zapi tidak sepenuhnya konsisten; karena itu angka persentase ini belum cukup kuat untuk dijadikan bukti tunggal arah dolar atau penyebab pelemahan rupiah.
 
 Indeks volatilitas VIX tercatat **28,44**, sedangkan indikator Fear & Greed saham dari Zapi berada pada **18,68**, berlabel _extreme fear_. Keduanya mengisyaratkan suasana pasar yang berhati-hati, tetapi tidak membuktikan adanya arus keluar modal dari Indonesia. Data yield Treasury AS tenor 10 tahun tidak ditampilkan karena pencarian instrumen Zapi menghasilkan kontrak futures, bukan yield yang dimaksud. Lebih baik membiarkan angka itu kosong daripada menyamakan dua instrumen berbeda.
 
 ## 🌏 Mata Uang Asia
 
-Berikut kurs referensi Frankfurter berbasis ECB untuk **19 November**, dalam unit mata uang lokal per satu dolar AS. Ini adalah foto bersama pada tanggal referensi yang sama, bukan harga live 20 November.
+Untuk melihat apakah tekanan hanya terjadi pada rupiah, berikut perubahan kurs referensi Frankfurter berbasis ECB dari **18 ke 19 November**. Semua pasangan memakai sumber dan tanggal pembanding yang sama. Tanda positif berarti dolar menguat terhadap mata uang tersebut. Ini bukan harga live 20 November.
 
-| Pasangan | Kurs referensi |
-| -------- | -------------: |
-| USD/IDR  |         18.261 |
-| USD/JPY  |         159,97 |
-| USD/KRW  |       1.328,45 |
-| USD/SGD  |         1,2897 |
-| USD/CNY  |         6,6667 |
-| USD/MYR  |         4,1125 |
-| USD/THB  |         33,905 |
+| Pasangan | 18 November | 19 November | Perubahan USD |
+| -------- | ----------: | ----------: | ------------: |
+| USD/IDR  |      18.254 |      18.261 |        +0,04% |
+| USD/JPY  |      159,42 |      159,97 |        +0,35% |
+| USD/KRW  |    1.332,33 |    1.328,45 |        −0,29% |
+| USD/SGD  |      1,2896 |      1,2897 |        +0,01% |
+| USD/CNY  |      6,6672 |      6,6667 |        −0,01% |
+| USD/MYR  |       4,116 |      4,1125 |        −0,09% |
+| USD/THB  |      33,975 |      33,905 |        −0,21% |
 
-Kurs pada tabel tidak cukup untuk menentukan mata uang terkuat atau terlemah tanpa pembanding dari tanggal sebelumnya. Untuk tiap pasangan di atas, kenaikan kurs dolar terhadap mata uang lokal berarti mata uang lokal melemah terhadap dolar. Investor sebaiknya membandingkan perubahan dengan sumber dan periode yang sama, bukan besaran nominal antarmata uang.
+Rupiah melemah tipis terhadap dolar dalam perbandingan ini, tetapi tekanan terhadap yen lebih besar. Sebaliknya, won, baht, dan ringgit menguat terhadap dolar. Gambaran regional karena itu **campuran**, bukan pelemahan serentak seluruh mata uang Asia. Perubahan dihitung sebagai `(kurs 19 November ÷ kurs 18 November − 1) × 100`; angkanya dibulatkan. _Sumber: [Frankfurter, 18 November](https://api.frankfurter.dev/v1/2026-11-18?base=USD&symbols=IDR,JPY,KRW,SGD,CNY,MYR,THB) dan [19 November](https://api.frankfurter.dev/v1/2026-11-19?base=USD&symbols=IDR,JPY,KRW,SGD,CNY,MYR,THB)._
 
 ## 📰 Faktor Pendorong
 
-**Kebijakan BI.** Dalam [siaran pers resmi 18 November](https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx), BI menyatakan menaikkan BI-Rate **25 basis poin menjadi 6,00%**. BI menjelaskan keputusan itu ditujukan antara lain untuk memperkuat stabilisasi rupiah di tengah ketidakpastian global dan menjaga inflasi dalam sasaran. Dampaknya terhadap kurs tetap bergantung pada respons pasar dan kondisi eksternal; kenaikan suku bunga tidak menjamin penguatan langsung.
+**BI menaikkan suku bunga, tetapi tekanan belum reda.** Dalam [siaran pers 18 November](https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx), BI menaikkan BI-Rate **25 basis poin menjadi 6,00%** untuk memperkuat stabilisasi rupiah di tengah ketidakpastian global. Suku bunga lebih tinggi dapat menopang daya tarik aset rupiah, tetapi respons kurs juga bergantung pada permintaan dolar dan persepsi risiko. JISDOR naik dari Rp18.252 pada 18 November menjadi Rp18.269 pada 19 November: dalam perbandingan dua penetapan itu, rupiah belum menguat. Ini pengamatan jangka pendek, bukan bukti bahwa kebijakan BI tidak efektif.
 
-**Dolar dan sentimen global.** Pembacaan DXY serta indikator risiko di atas menjadi latar bagi perdagangan pagi ini. Bila permintaan dolar berlanjut, rupiah berpotensi menghadapi tekanan; sebaliknya, meredanya permintaan dolar dapat memberi ruang pemulihan. Ini adalah skenario, bukan kepastian bahwa salah satu faktor telah menyebabkan setiap perubahan harga.
+**Sentimen global.** VIX 28,44 dan Fear & Greed 18,68 mengarah pada sikap hati-hati di pasar global. Dalam kondisi seperti ini, minat terhadap aset berisiko dapat melemah dan menyulitkan mata uang negara berkembang. Namun, indikator tersebut tidak menunjukkan arus modal Indonesia secara langsung; tanpa data aliran modal yang dapat diverifikasi, tidak tepat menyimpulkan bahwa terjadi capital outflow pada pagi itu.
 
-**Keterbatasan data.** Endpoint inflasi Zapi mengembalikan HTTP 503, sehingga angka inflasi terkini tidak dicantumkan. Kalender yang dikembalikan kolektor kosong dan tidak digunakan untuk menyimpulkan bahwa tidak ada agenda ekonomi penting.
+**Data yang belum tersedia.** Inflasi terkini dan yield Treasury 10 tahun tidak terverifikasi dalam pengumpulan laporan ini. Pengaruh keduanya tidak dapat dinilai secara spesifik dari data yang tersedia.
 
 ## 🔮 Outlook
 
-Untuk sesi ini, penilaian **netral cenderung bearish** mempertimbangkan kenaikan USD/IDR menurut Google Finance, DXY yang dilaporkan naik, dan indikator sentimen yang lemah. Risiko dinilai tinggi secara kualitatif karena VIX dan Fear & Greed menunjukkan kehati-hatian. Penilaian tersebut bukan prediksi penutupan dan dapat berubah seiring masuknya data baru.
+Untuk sesi ini, penilaian **netral cenderung bearish** terutama mempertimbangkan kenaikan USD/IDR menurut Google Finance dan tekanan pada JISDOR sepekan. VIX dan Fear & Greed menambah konteks kehati-hatian global; perubahan DXY yang belum konsisten tidak dijadikan dasar utama. Penilaian risiko tinggi bersifat kualitatif, bukan prediksi penutupan, dan dapat berubah seiring masuknya data baru.
 
-Dalam skenario yang lebih baik bagi rupiah, dolar global mereda dan pasar merespons kebijakan stabilisasi BI; USD/IDR dapat bergerak turun. Dalam skenario sebaliknya, permintaan dolar bertahan dan tekanan pada mata uang regional meningkat; USD/IDR dapat naik. Perhatikan apakah pergerakan pasar konsisten dengan JISDOR berikutnya, sambil mengingat bahwa keduanya memiliki waktu dan metode pengukuran yang berbeda.
+**Skenario pemulihan:** amati apakah USD/IDR pasar bergerak di bawah pembacaan Rp18.278,66 pada 07.59 WIB dan apakah JISDOR berikutnya turun dari Rp18.269. Keduanya perlu dilihat terpisah karena waktu dan metodenya berbeda; satu pembacaan saja belum memastikan tren.
+
+**Skenario tekanan berlanjut:** jika USD/IDR pasar tetap di atas pembacaan pagi dan JISDOR berikutnya juga meningkat, itu akan menambah bukti bahwa tekanan belum mereda. DXY dan mata uang regional perlu diperiksa ulang dengan data terkini untuk membedakan tekanan dolar yang lebih luas dari faktor yang lebih spesifik ke Indonesia. Rp18.278,66 dan Rp18.269 adalah **titik pembanding**, bukan level support atau resistance teknikal.
 
 Bagi pelaku usaha yang membutuhkan dolar, pengelolaan kebutuhan bertahap dan pertimbangan lindung nilai dapat membantu mengurangi risiko waktu transaksi. Trader perlu memperhitungkan spread dan ukuran posisi; investor sebaiknya menyesuaikan eksposur dengan tujuan serta toleransi risiko masing-masing. Laporan ini bukan rekomendasi investasi personal.
 
